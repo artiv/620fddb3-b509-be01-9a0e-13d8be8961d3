@@ -206,6 +206,42 @@
 						"fieldJobComment": "",
 						"specificJobComment": ""
 					}
+				},
+				{
+					"fieldGeneral": {
+						"fieldGuid": "80d3f29b-a585-d208-9c40-3a02f5e5fa37",
+						"fieldType": "fieldTextbox",
+						"fieldIsVisibleCollections": [
+							"6kxG5eadJEBqQqB53"
+						],
+						"fieldIsEditableCollections": [
+							"6kxG5eadJEBqQqB53"
+						],
+						"fieldIsRequiredCollections": [
+							"6kxG5eadJEBqQqB53"
+						],
+						"fieldIsMultipleCollections": []
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "boxInfo 2",
+						"fieldKey": "boxKey 2",
+						"fieldValues": [],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
 				}
 			]
 		},
