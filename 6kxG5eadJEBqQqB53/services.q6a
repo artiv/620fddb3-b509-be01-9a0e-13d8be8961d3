@@ -326,7 +326,56 @@
 			]
 		},
 		"fileTemplatePublish": {
-			"fileTemplateTypes": []
+			"fileTemplateTypes": [
+				{
+					"publishTypeGeneral": {
+						"publishTypeGuid": "ed7d8449-75c7-8d22-10cf-d05e23a8b75a",
+						"publishTypeType": "markdown"
+					},
+					"publishTypeMeta": {
+						"publishTypeCanRevert": false,
+						"publishTypeCanFork": false
+					},
+					"publishTypeSpecific": {
+						"publishTypeName": "servicesMD",
+						"publishTypeFrontMatter": [
+							"8929347d-e727-bd79-866e-39c6d485f6fc",
+							"9ac2d569-d19c-2100-f10f-d4a905a9de2a",
+							"d796824e-b383-0ad1-7466-fb7878acb4c6"
+						],
+						"publishTypeBackMatter": [
+							"a14ed27a-8d6f-85f9-f7e6-46ebcd48621c",
+							"6022c612-3072-5d26-b4e3-35d14076dace"
+						],
+						"publishTypeTargetRepo": "",
+						"publishTypeTargetPath": ""
+					}
+				},
+				{
+					"publishTypeGeneral": {
+						"publishTypeGuid": "6a241166-9695-9cbf-ebda-7d7473baccb4",
+						"publishTypeType": "json"
+					},
+					"publishTypeMeta": {
+						"publishTypeCanRevert": false,
+						"publishTypeCanFork": false
+					},
+					"publishTypeSpecific": {
+						"publishTypeName": "serviesJSON",
+						"publishTypeFrontMatter": [
+							"8929347d-e727-bd79-866e-39c6d485f6fc",
+							"9ac2d569-d19c-2100-f10f-d4a905a9de2a",
+							"d796824e-b383-0ad1-7466-fb7878acb4c6"
+						],
+						"publishTypeBackMatter": [
+							"a14ed27a-8d6f-85f9-f7e6-46ebcd48621c",
+							"6022c612-3072-5d26-b4e3-35d14076dace"
+						],
+						"publishTypeTargetRepo": "",
+						"publishTypeTargetPath": ""
+					}
+				}
+			]
 		}
 	}
 }
