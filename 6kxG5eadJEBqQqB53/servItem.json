@@ -1,0 +1,26 @@
+{
+  "items key": [
+    {
+      "title key": []
+    },
+    {
+      "description key": []
+    },
+    {
+      "icon key": []
+    }
+  ],
+  "main title key": [],
+  "main description key": [],
+  "option key": [
+    "False"
+  ],
+  "parent key": [
+    {
+      "child key": [
+        "child 1",
+        "child 2"
+      ]
+    }
+  ]
+}
