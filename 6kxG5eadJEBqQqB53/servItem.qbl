@@ -394,7 +394,38 @@
 					"fieldSpecific": {
 						"fieldInformation": "text box 1",
 						"fieldKey": "text box 1 key",
-						"fieldValues": [],
+						"fieldValues": [
+							{
+								"entityMap": {},
+								"blocks": [
+									{
+										"key": "60o9l",
+										"text": "some random italix text",
+										"type": "unstyled",
+										"depth": 0,
+										"inlineStyleRanges": [
+											{
+												"offset": 5,
+												"length": 18,
+												"style": "BOLD"
+											},
+											{
+												"offset": 12,
+												"length": 11,
+												"style": "ITALIC"
+											},
+											{
+												"offset": 19,
+												"length": 4,
+												"style": "UNDERLINE"
+											}
+										],
+										"entityRanges": [],
+										"data": {}
+									}
+								]
+							}
+						],
 						"fieldChildren": []
 					},
 					"fieldWorking": {
