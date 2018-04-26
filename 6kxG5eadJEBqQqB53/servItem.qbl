@@ -1,1 +1,505 @@
-{"fileName":"servItem.qbl","fileTemplateRepo":"620fddb3-b509-be01-9a0e-13d8be8961d3","fileTemplatePath":"6kxG5eadJEBqQqB53/services.q6a","fileItem":{"fileItemGeneral":{"fileItemGuid":"10b153ad-e582-8559-8af3-d2224d593ab4","fileItemDate":"2018-04-26T07:20:16.899Z","fileItemCollections":["6kxG5eadJEBqQqB53"],"fileItemCollectionsForTranslation":["6kxG5eadJEBqQqB53"]},"fileItemLanguage":{"primaryLanguage":"Kr46i9NCz2eC3AKZF","possibleLanguages":["Kr46i9NCz2eC3AKZF","ZoQFW7jMymxckSQsv","CSvHqEtb2ioM9HqoW"]},"fileItemStructure":{"fileItemGenerics":[{"genericGeneral":{"genericGuid":"8929347d-e727-bd79-866e-39c6d485f6fc","genericType":"genericParent","genericIsVisibleCollections":["6kxG5eadJEBqQqB53"],"genericIsEditableCollections":["6kxG5eadJEBqQqB53"],"genericIsRequiredCollections":["6kxG5eadJEBqQqB53"],"genericIsMultipleCollections":["6kxG5eadJEBqQqB53"]},"genericMeta":{"genericCanTranslate":true,"genericCanParent":true,"genericCanChild":false},"genericSpecific":{"genericInformation":"items","genericChildren":["b80aeca6-866f-9ab4-a35d-2525f38da1de","e6d607d0-a50a-ce2b-7f52-093e7d6a8dda","ab034d66-399e-55b0-a4a5-e3b4666437a0"],"genericKey":"items key","genericValues":[]},"genericWorking":{"genericOrderId":"","genericOrderComment":"","specificOrderComment":"","genericJobId":"","genericJobStatus":"","genericJobComment":"","specificJobComment":""}},{"genericGeneral":{"genericGuid":"b80aeca6-866f-9ab4-a35d-2525f38da1de","genericType":"genericText","genericIsVisibleCollections":["6kxG5eadJEBqQqB53"],"genericIsEditableCollections":["6kxG5eadJEBqQqB53"],"genericIsRequiredCollections":["6kxG5eadJEBqQqB53"],"genericIsMultipleCollections":["6kxG5eadJEBqQqB53"]},"genericMeta":{"genericCanTranslate":true,"genericCanParent":false,"genericCanChild":true},"genericSpecific":{"genericInformation":"title","genericChildren":[],"genericKey":"title key","genericValues":[]},"genericWorking":{"genericOrderId":"","genericOrderComment":"","specificOrderComment":"","genericJobId":"","genericJobStatus":"","genericJobComment":"","specificJobComment":""}},{"genericGeneral":{"genericGuid":"e6d607d0-a50a-ce2b-7f52-093e7d6a8dda","genericType":"genericText","genericIsVisibleCollections":["6kxG5eadJEBqQqB53"],"genericIsEditableCollections":["6kxG5eadJEBqQqB53"],"genericIsRequiredCollections":["6kxG5eadJEBqQqB53"],"genericIsMultipleCollections":["6kxG5eadJEBqQqB53"]},"genericMeta":{"genericCanTranslate":true,"genericCanParent":false,"genericCanChild":true},"genericSpecific":{"genericInformation":"description","genericChildren":[],"genericKey":"description key","genericValues":[]},"genericWorking":{"genericOrderId":"","genericOrderComment":"","specificOrderComment":"","genericJobId":"","genericJobStatus":"","genericJobComment":"","specificJobComment":""}},{"genericGeneral":{"genericGuid":"ab034d66-399e-55b0-a4a5-e3b4666437a0","genericType":"genericText","genericIsVisibleCollections":["6kxG5eadJEBqQqB53"],"genericIsEditableCollections":["6kxG5eadJEBqQqB53"],"genericIsRequiredCollections":["6kxG5eadJEBqQqB53"],"genericIsMultipleCollections":["6kxG5eadJEBqQqB53"]},"genericMeta":{"genericCanTranslate":true,"genericCanParent":false,"genericCanChild":true},"genericSpecific":{"genericInformation":"icon","genericChildren":[],"genericKey":"icon key","genericValues":[]},"genericWorking":{"genericOrderId":"","genericOrderComment":"","specificOrderComment":"","genericJobId":"","genericJobStatus":"","genericJobComment":"","specificJobComment":""}},{"genericGeneral":{"genericGuid":"9ac2d569-d19c-2100-f10f-d4a905a9de2a","genericType":"genericText","genericIsVisibleCollections":["6kxG5eadJEBqQqB53"],"genericIsEditableCollections":["6kxG5eadJEBqQqB53"],"genericIsRequiredCollections":["6kxG5eadJEBqQqB53"],"genericIsMultipleCollections":[]},"genericMeta":{"genericCanTranslate":true,"genericCanParent":false,"genericCanChild":false},"genericSpecific":{"genericInformation":"main title","genericChildren":[],"genericKey":"main title key","genericValues":[]},"genericWorking":{"genericOrderId":"","genericOrderComment":"","specificOrderComment":"","genericJobId":"","genericJobStatus":"","genericJobComment":"","specificJobComment":""}},{"genericGeneral":{"genericGuid":"d796824e-b383-0ad1-7466-fb7878acb4c6","genericType":"genericText","genericIsVisibleCollections":["6kxG5eadJEBqQqB53"],"genericIsEditableCollections":["6kxG5eadJEBqQqB53"],"genericIsRequiredCollections":["6kxG5eadJEBqQqB53"],"genericIsMultipleCollections":[]},"genericMeta":{"genericCanTranslate":true,"genericCanParent":false,"genericCanChild":false},"genericSpecific":{"genericInformation":"main description","genericChildren":[],"genericKey":"main description key","genericValues":[]},"genericWorking":{"genericOrderId":"","genericOrderComment":"","specificOrderComment":"","genericJobId":"","genericJobStatus":"","genericJobComment":"","specificJobComment":""}},{"genericGeneral":{"genericGuid":"7aaa3f55-a09f-c114-567c-2dc0d5fd5262","genericType":"genericOption","genericIsVisibleCollections":["6kxG5eadJEBqQqB53"],"genericIsEditableCollections":["6kxG5eadJEBqQqB53"],"genericIsRequiredCollections":[],"genericIsMultipleCollections":[]},"genericMeta":{"genericCanTranslate":true,"genericCanParent":false,"genericCanChild":false},"genericSpecific":{"genericInformation":"is footer enabled","genericChildren":[],"genericKey":"option key","genericValues":[{"key":"true","value":"True","isTrue":false},{"key":"false","value":"False","isTrue":false}]},"genericWorking":{"genericOrderId":"","genericOrderComment":"","specificOrderComment":"","genericJobId":"","genericJobStatus":"","genericJobComment":"","specificJobComment":""}},{"genericGeneral":{"genericGuid":"874c1197-e3fb-99a7-6c85-e9e4534e971c","genericType":"genericParent","genericIsVisibleCollections":["6kxG5eadJEBqQqB53"],"genericIsEditableCollections":["6kxG5eadJEBqQqB53"],"genericIsRequiredCollections":[],"genericIsMultipleCollections":[]},"genericMeta":{"genericCanTranslate":true,"genericCanParent":true,"genericCanChild":false},"genericSpecific":{"genericInformation":"parent info","genericChildren":["7dc11bb2-4cba-0d81-1f7b-8d86e7b13ba2"],"genericKey":"parent key","genericValues":[]},"genericWorking":{"genericOrderId":"","genericOrderComment":"","specificOrderComment":"","genericJobId":"","genericJobStatus":"","genericJobComment":"","specificJobComment":""}},{"genericGeneral":{"genericGuid":"7dc11bb2-4cba-0d81-1f7b-8d86e7b13ba2","genericType":"genericText","genericIsVisibleCollections":["6kxG5eadJEBqQqB53"],"genericIsEditableCollections":["6kxG5eadJEBqQqB53"],"genericIsRequiredCollections":[],"genericIsMultipleCollections":[]},"genericMeta":{"genericCanTranslate":true,"genericCanParent":false,"genericCanChild":true},"genericSpecific":{"genericInformation":"child info","genericChildren":[],"genericKey":"child key","genericValues":[]},"genericWorking":{"genericOrderId":"","genericOrderComment":"","specificOrderComment":"","genericJobId":"","genericJobStatus":"","genericJobComment":"","specificJobComment":""}}],"fileItemFields":[{"fieldGeneral":{"fieldGuid":"a14ed27a-8d6f-85f9-f7e6-46ebcd48621c","fieldType":"fieldTextbox","fieldIsVisibleCollections":["6kxG5eadJEBqQqB53"],"fieldIsEditableCollections":["6kxG5eadJEBqQqB53"],"fieldIsRequiredCollections":["6kxG5eadJEBqQqB53"],"fieldIsMultipleCollections":[]},"fieldMeta":{"fieldCanTranslate":true,"fieldCanParent":false,"fieldCanChild":false},"fieldSpecific":{"fieldInformation":"text box 1","fieldKey":"text box 1 key","fieldValues":[],"fieldChildren":[]},"fieldWorking":{"fieldOrderId":"","fieldOrderComment":"","specificOrderComment":"","fieldJobId":"","fieldJobStatus":"","fieldJobComment":"","specificJobComment":""}},{"fieldGeneral":{"fieldGuid":"6022c612-3072-5d26-b4e3-35d14076dace","fieldType":"fieldTextbox","fieldIsVisibleCollections":["6kxG5eadJEBqQqB53"],"fieldIsEditableCollections":["6kxG5eadJEBqQqB53"],"fieldIsRequiredCollections":["6kxG5eadJEBqQqB53"],"fieldIsMultipleCollections":[]},"fieldMeta":{"fieldCanTranslate":true,"fieldCanParent":false,"fieldCanChild":false},"fieldSpecific":{"fieldInformation":"text box 2","fieldKey":"text box 2 key","fieldValues":[],"fieldChildren":[]},"fieldWorking":{"fieldOrderId":"","fieldOrderComment":"","specificOrderComment":"","fieldJobId":"","fieldJobStatus":"","fieldJobComment":"","specificJobComment":""}}]},"fileItemPublish":{"fileItemTypes":[{"publishTypeGeneral":{"publishTypeGuid":"ed7d8449-75c7-8d22-10cf-d05e23a8b75a","publishTypeType":"markdown"},"publishTypeMeta":{"publishTypeCanRevert":false,"publishTypeCanFork":false},"publishTypeSpecific":{"publishTypeName":"servicesMD","publishTypeFrontMatter":["8929347d-e727-bd79-866e-39c6d485f6fc","9ac2d569-d19c-2100-f10f-d4a905a9de2a","d796824e-b383-0ad1-7466-fb7878acb4c6","7aaa3f55-a09f-c114-567c-2dc0d5fd5262","874c1197-e3fb-99a7-6c85-e9e4534e971c"],"publishTypeBackMatter":["a14ed27a-8d6f-85f9-f7e6-46ebcd48621c","6022c612-3072-5d26-b4e3-35d14076dace"],"publishTypeTargetRepo":"","publishTypeTargetPath":""}},{"publishTypeGeneral":{"publishTypeGuid":"6a241166-9695-9cbf-ebda-7d7473baccb4","publishTypeType":"json"},"publishTypeMeta":{"publishTypeCanRevert":false,"publishTypeCanFork":false},"publishTypeSpecific":{"publishTypeName":"serviesJSON","publishTypeFrontMatter":["8929347d-e727-bd79-866e-39c6d485f6fc","9ac2d569-d19c-2100-f10f-d4a905a9de2a","d796824e-b383-0ad1-7466-fb7878acb4c6","7aaa3f55-a09f-c114-567c-2dc0d5fd5262","874c1197-e3fb-99a7-6c85-e9e4534e971c"],"publishTypeBackMatter":["a14ed27a-8d6f-85f9-f7e6-46ebcd48621c","6022c612-3072-5d26-b4e3-35d14076dace"],"publishTypeTargetRepo":"","publishTypeTargetPath":""}}]}}}
+{
+	"fileName": "servItem.qbl",
+	"fileTemplateRepo": "620fddb3-b509-be01-9a0e-13d8be8961d3",
+	"fileTemplatePath": "6kxG5eadJEBqQqB53/services.q6a",
+	"fileItem": {
+		"fileItemGeneral": {
+			"fileItemGuid": "10b153ad-e582-8559-8af3-d2224d593ab4",
+			"fileItemDate": "2018-04-26T07:20:16.899Z",
+			"fileItemCollections": [
+				"6kxG5eadJEBqQqB53"
+			],
+			"fileItemCollectionsForTranslation": [
+				"6kxG5eadJEBqQqB53"
+			]
+		},
+		"fileItemLanguage": {
+			"primaryLanguage": "Kr46i9NCz2eC3AKZF",
+			"possibleLanguages": [
+				"Kr46i9NCz2eC3AKZF",
+				"ZoQFW7jMymxckSQsv",
+				"CSvHqEtb2ioM9HqoW"
+			]
+		},
+		"fileItemStructure": {
+			"fileItemGenerics": [
+				{
+					"genericGeneral": {
+						"genericGuid": "8929347d-e727-bd79-866e-39c6d485f6fc",
+						"genericType": "genericParent",
+						"genericIsVisibleCollections": [
+							"6kxG5eadJEBqQqB53"
+						],
+						"genericIsEditableCollections": [
+							"6kxG5eadJEBqQqB53"
+						],
+						"genericIsRequiredCollections": [
+							"6kxG5eadJEBqQqB53"
+						],
+						"genericIsMultipleCollections": [
+							"6kxG5eadJEBqQqB53"
+						]
+					},
+					"genericMeta": {
+						"genericCanTranslate": true,
+						"genericCanParent": true,
+						"genericCanChild": false
+					},
+					"genericSpecific": {
+						"genericInformation": "items",
+						"genericChildren": [
+							"b80aeca6-866f-9ab4-a35d-2525f38da1de",
+							"e6d607d0-a50a-ce2b-7f52-093e7d6a8dda",
+							"ab034d66-399e-55b0-a4a5-e3b4666437a0"
+						],
+						"genericKey": "items key",
+						"genericValues": []
+					},
+					"genericWorking": {
+						"genericOrderId": "",
+						"genericOrderComment": "",
+						"specificOrderComment": "",
+						"genericJobId": "",
+						"genericJobStatus": "",
+						"genericJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"genericGeneral": {
+						"genericGuid": "b80aeca6-866f-9ab4-a35d-2525f38da1de",
+						"genericType": "genericText",
+						"genericIsVisibleCollections": [
+							"6kxG5eadJEBqQqB53"
+						],
+						"genericIsEditableCollections": [
+							"6kxG5eadJEBqQqB53"
+						],
+						"genericIsRequiredCollections": [
+							"6kxG5eadJEBqQqB53"
+						],
+						"genericIsMultipleCollections": [
+							"6kxG5eadJEBqQqB53"
+						]
+					},
+					"genericMeta": {
+						"genericCanTranslate": true,
+						"genericCanParent": false,
+						"genericCanChild": true
+					},
+					"genericSpecific": {
+						"genericInformation": "title",
+						"genericChildren": [],
+						"genericKey": "title key",
+						"genericValues": []
+					},
+					"genericWorking": {
+						"genericOrderId": "",
+						"genericOrderComment": "",
+						"specificOrderComment": "",
+						"genericJobId": "",
+						"genericJobStatus": "",
+						"genericJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"genericGeneral": {
+						"genericGuid": "e6d607d0-a50a-ce2b-7f52-093e7d6a8dda",
+						"genericType": "genericText",
+						"genericIsVisibleCollections": [
+							"6kxG5eadJEBqQqB53"
+						],
+						"genericIsEditableCollections": [
+							"6kxG5eadJEBqQqB53"
+						],
+						"genericIsRequiredCollections": [
+							"6kxG5eadJEBqQqB53"
+						],
+						"genericIsMultipleCollections": [
+							"6kxG5eadJEBqQqB53"
+						]
+					},
+					"genericMeta": {
+						"genericCanTranslate": true,
+						"genericCanParent": false,
+						"genericCanChild": true
+					},
+					"genericSpecific": {
+						"genericInformation": "description",
+						"genericChildren": [],
+						"genericKey": "description key",
+						"genericValues": []
+					},
+					"genericWorking": {
+						"genericOrderId": "",
+						"genericOrderComment": "",
+						"specificOrderComment": "",
+						"genericJobId": "",
+						"genericJobStatus": "",
+						"genericJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"genericGeneral": {
+						"genericGuid": "ab034d66-399e-55b0-a4a5-e3b4666437a0",
+						"genericType": "genericText",
+						"genericIsVisibleCollections": [
+							"6kxG5eadJEBqQqB53"
+						],
+						"genericIsEditableCollections": [
+							"6kxG5eadJEBqQqB53"
+						],
+						"genericIsRequiredCollections": [
+							"6kxG5eadJEBqQqB53"
+						],
+						"genericIsMultipleCollections": [
+							"6kxG5eadJEBqQqB53"
+						]
+					},
+					"genericMeta": {
+						"genericCanTranslate": true,
+						"genericCanParent": false,
+						"genericCanChild": true
+					},
+					"genericSpecific": {
+						"genericInformation": "icon",
+						"genericChildren": [],
+						"genericKey": "icon key",
+						"genericValues": []
+					},
+					"genericWorking": {
+						"genericOrderId": "",
+						"genericOrderComment": "",
+						"specificOrderComment": "",
+						"genericJobId": "",
+						"genericJobStatus": "",
+						"genericJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"genericGeneral": {
+						"genericGuid": "9ac2d569-d19c-2100-f10f-d4a905a9de2a",
+						"genericType": "genericText",
+						"genericIsVisibleCollections": [
+							"6kxG5eadJEBqQqB53"
+						],
+						"genericIsEditableCollections": [
+							"6kxG5eadJEBqQqB53"
+						],
+						"genericIsRequiredCollections": [
+							"6kxG5eadJEBqQqB53"
+						],
+						"genericIsMultipleCollections": []
+					},
+					"genericMeta": {
+						"genericCanTranslate": true,
+						"genericCanParent": false,
+						"genericCanChild": false
+					},
+					"genericSpecific": {
+						"genericInformation": "main title",
+						"genericChildren": [],
+						"genericKey": "main title key",
+						"genericValues": []
+					},
+					"genericWorking": {
+						"genericOrderId": "",
+						"genericOrderComment": "",
+						"specificOrderComment": "",
+						"genericJobId": "",
+						"genericJobStatus": "",
+						"genericJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"genericGeneral": {
+						"genericGuid": "d796824e-b383-0ad1-7466-fb7878acb4c6",
+						"genericType": "genericText",
+						"genericIsVisibleCollections": [
+							"6kxG5eadJEBqQqB53"
+						],
+						"genericIsEditableCollections": [
+							"6kxG5eadJEBqQqB53"
+						],
+						"genericIsRequiredCollections": [
+							"6kxG5eadJEBqQqB53"
+						],
+						"genericIsMultipleCollections": []
+					},
+					"genericMeta": {
+						"genericCanTranslate": true,
+						"genericCanParent": false,
+						"genericCanChild": false
+					},
+					"genericSpecific": {
+						"genericInformation": "main description",
+						"genericChildren": [],
+						"genericKey": "main description key",
+						"genericValues": []
+					},
+					"genericWorking": {
+						"genericOrderId": "",
+						"genericOrderComment": "",
+						"specificOrderComment": "",
+						"genericJobId": "",
+						"genericJobStatus": "",
+						"genericJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"genericGeneral": {
+						"genericGuid": "7aaa3f55-a09f-c114-567c-2dc0d5fd5262",
+						"genericType": "genericOption",
+						"genericIsVisibleCollections": [
+							"6kxG5eadJEBqQqB53"
+						],
+						"genericIsEditableCollections": [
+							"6kxG5eadJEBqQqB53"
+						],
+						"genericIsRequiredCollections": [],
+						"genericIsMultipleCollections": []
+					},
+					"genericMeta": {
+						"genericCanTranslate": true,
+						"genericCanParent": false,
+						"genericCanChild": false
+					},
+					"genericSpecific": {
+						"genericInformation": "is footer enabled",
+						"genericChildren": [],
+						"genericKey": "option key",
+						"genericValues": [
+							{
+								"key": "true",
+								"value": "True",
+								"isTrue": false
+							},
+							{
+								"key": "false",
+								"value": "False",
+								"isTrue": true
+							}
+						]
+					},
+					"genericWorking": {
+						"genericOrderId": "",
+						"genericOrderComment": "",
+						"specificOrderComment": "",
+						"genericJobId": "",
+						"genericJobStatus": "",
+						"genericJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"genericGeneral": {
+						"genericGuid": "874c1197-e3fb-99a7-6c85-e9e4534e971c",
+						"genericType": "genericParent",
+						"genericIsVisibleCollections": [
+							"6kxG5eadJEBqQqB53"
+						],
+						"genericIsEditableCollections": [
+							"6kxG5eadJEBqQqB53"
+						],
+						"genericIsRequiredCollections": [],
+						"genericIsMultipleCollections": []
+					},
+					"genericMeta": {
+						"genericCanTranslate": true,
+						"genericCanParent": true,
+						"genericCanChild": false
+					},
+					"genericSpecific": {
+						"genericInformation": "parent info",
+						"genericChildren": [
+							"7dc11bb2-4cba-0d81-1f7b-8d86e7b13ba2"
+						],
+						"genericKey": "parent key",
+						"genericValues": []
+					},
+					"genericWorking": {
+						"genericOrderId": "",
+						"genericOrderComment": "",
+						"specificOrderComment": "",
+						"genericJobId": "",
+						"genericJobStatus": "",
+						"genericJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"genericGeneral": {
+						"genericGuid": "7dc11bb2-4cba-0d81-1f7b-8d86e7b13ba2",
+						"genericType": "genericText",
+						"genericIsVisibleCollections": [
+							"6kxG5eadJEBqQqB53"
+						],
+						"genericIsEditableCollections": [
+							"6kxG5eadJEBqQqB53"
+						],
+						"genericIsRequiredCollections": [],
+						"genericIsMultipleCollections": []
+					},
+					"genericMeta": {
+						"genericCanTranslate": true,
+						"genericCanParent": false,
+						"genericCanChild": true
+					},
+					"genericSpecific": {
+						"genericInformation": "child info",
+						"genericChildren": [],
+						"genericKey": "child key",
+						"genericValues": [
+							"child 1",
+							"child 2"
+						]
+					},
+					"genericWorking": {
+						"genericOrderId": "",
+						"genericOrderComment": "",
+						"specificOrderComment": "",
+						"genericJobId": "",
+						"genericJobStatus": "",
+						"genericJobComment": "",
+						"specificJobComment": ""
+					}
+				}
+			],
+			"fileItemFields": [
+				{
+					"fieldGeneral": {
+						"fieldGuid": "a14ed27a-8d6f-85f9-f7e6-46ebcd48621c",
+						"fieldType": "fieldTextbox",
+						"fieldIsVisibleCollections": [
+							"6kxG5eadJEBqQqB53"
+						],
+						"fieldIsEditableCollections": [
+							"6kxG5eadJEBqQqB53"
+						],
+						"fieldIsRequiredCollections": [
+							"6kxG5eadJEBqQqB53"
+						],
+						"fieldIsMultipleCollections": []
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "text box 1",
+						"fieldKey": "text box 1 key",
+						"fieldValues": [],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"fieldGeneral": {
+						"fieldGuid": "6022c612-3072-5d26-b4e3-35d14076dace",
+						"fieldType": "fieldTextbox",
+						"fieldIsVisibleCollections": [
+							"6kxG5eadJEBqQqB53"
+						],
+						"fieldIsEditableCollections": [
+							"6kxG5eadJEBqQqB53"
+						],
+						"fieldIsRequiredCollections": [
+							"6kxG5eadJEBqQqB53"
+						],
+						"fieldIsMultipleCollections": []
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "text box 2",
+						"fieldKey": "text box 2 key",
+						"fieldValues": [],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				}
+			]
+		},
+		"fileItemPublish": {
+			"fileItemTypes": [
+				{
+					"publishTypeGeneral": {
+						"publishTypeGuid": "ed7d8449-75c7-8d22-10cf-d05e23a8b75a",
+						"publishTypeType": "markdown"
+					},
+					"publishTypeMeta": {
+						"publishTypeCanRevert": false,
+						"publishTypeCanFork": false
+					},
+					"publishTypeSpecific": {
+						"publishTypeName": "servicesMD",
+						"publishTypeFrontMatter": [
+							"8929347d-e727-bd79-866e-39c6d485f6fc",
+							"9ac2d569-d19c-2100-f10f-d4a905a9de2a",
+							"d796824e-b383-0ad1-7466-fb7878acb4c6",
+							"7aaa3f55-a09f-c114-567c-2dc0d5fd5262",
+							"874c1197-e3fb-99a7-6c85-e9e4534e971c"
+						],
+						"publishTypeBackMatter": [
+							"a14ed27a-8d6f-85f9-f7e6-46ebcd48621c",
+							"6022c612-3072-5d26-b4e3-35d14076dace"
+						],
+						"publishTypeTargetRepo": "",
+						"publishTypeTargetPath": ""
+					}
+				},
+				{
+					"publishTypeGeneral": {
+						"publishTypeGuid": "6a241166-9695-9cbf-ebda-7d7473baccb4",
+						"publishTypeType": "json"
+					},
+					"publishTypeMeta": {
+						"publishTypeCanRevert": false,
+						"publishTypeCanFork": false
+					},
+					"publishTypeSpecific": {
+						"publishTypeName": "serviesJSON",
+						"publishTypeFrontMatter": [
+							"8929347d-e727-bd79-866e-39c6d485f6fc",
+							"9ac2d569-d19c-2100-f10f-d4a905a9de2a",
+							"d796824e-b383-0ad1-7466-fb7878acb4c6",
+							"7aaa3f55-a09f-c114-567c-2dc0d5fd5262",
+							"874c1197-e3fb-99a7-6c85-e9e4534e971c"
+						],
+						"publishTypeBackMatter": [
+							"a14ed27a-8d6f-85f9-f7e6-46ebcd48621c",
+							"6022c612-3072-5d26-b4e3-35d14076dace"
+						],
+						"publishTypeTargetRepo": "",
+						"publishTypeTargetPath": ""
+					}
+				}
+			]
+		}
+	}
+}
