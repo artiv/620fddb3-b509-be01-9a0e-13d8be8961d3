@@ -271,7 +271,18 @@
 						"genericInformation": "is footer enabled",
 						"genericChildren": [],
 						"genericKey": "option key",
-						"genericValues": []
+						"genericValues": [
+							{
+								"key": "true",
+								"value": "True",
+								"isTrue": false
+							},
+							{
+								"key": "false",
+								"value": "False",
+								"isTrue": false
+							}
+						]
 					},
 					"genericWorking": {
 						"genericOrderId": "",
