@@ -248,6 +248,40 @@
 						"genericJobComment": "",
 						"specificJobComment": ""
 					}
+				},
+				{
+					"genericGeneral": {
+						"genericGuid": "7aaa3f55-a09f-c114-567c-2dc0d5fd5262",
+						"genericType": "genericOption",
+						"genericIsVisibleCollections": [
+							"6kxG5eadJEBqQqB53"
+						],
+						"genericIsEditableCollections": [
+							"6kxG5eadJEBqQqB53"
+						],
+						"genericIsRequiredCollections": [],
+						"genericIsMultipleCollections": []
+					},
+					"genericMeta": {
+						"genericCanTranslate": true,
+						"genericCanParent": false,
+						"genericCanChild": false
+					},
+					"genericSpecific": {
+						"genericInformation": "is footer enabled",
+						"genericChildren": [],
+						"genericKey": "option key",
+						"genericValues": []
+					},
+					"genericWorking": {
+						"genericOrderId": "",
+						"genericOrderComment": "",
+						"specificOrderComment": "",
+						"genericJobId": "",
+						"genericJobStatus": "",
+						"genericJobComment": "",
+						"specificJobComment": ""
+					}
 				}
 			],
 			"fileTemplateFields": [
