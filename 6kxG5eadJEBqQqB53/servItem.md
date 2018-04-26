@@ -1,0 +1,17 @@
+{
+  "option key": {
+    "key": "true",
+    "value": "True",
+    "isTrue": false
+  },
+  "parent key": [
+    {
+      "child key": "child 1"
+    },
+    {
+      "child key": "child 2"
+    }
+  ]
+}
+  
+  
