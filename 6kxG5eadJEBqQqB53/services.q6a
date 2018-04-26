@@ -363,6 +363,58 @@
 						"genericJobComment": "",
 						"specificJobComment": ""
 					}
+				},
+				{
+					"genericGeneral": {
+						"genericGuid": "f48c4e5c-ed3f-441e-25bf-1f0730b51ab1",
+						"genericType": "genericOption",
+						"genericIsVisibleCollections": [
+							"6kxG5eadJEBqQqB53"
+						],
+						"genericIsEditableCollections": [
+							"6kxG5eadJEBqQqB53"
+						],
+						"genericIsRequiredCollections": [],
+						"genericIsMultipleCollections": [
+							"6kxG5eadJEBqQqB53"
+						]
+					},
+					"genericMeta": {
+						"genericCanTranslate": true,
+						"genericCanParent": false,
+						"genericCanChild": false
+					},
+					"genericSpecific": {
+						"genericInformation": "multiple options info",
+						"genericChildren": [],
+						"genericKey": "multiple options key",
+						"genericValues": [
+							{
+								"key": "key 1",
+								"value": "value 1",
+								"isTrue": false
+							},
+							{
+								"key": "key 2",
+								"value": "value 2",
+								"isTrue": false
+							},
+							{
+								"key": "key 3",
+								"value": "value 3",
+								"isTrue": false
+							}
+						]
+					},
+					"genericWorking": {
+						"genericOrderId": "",
+						"genericOrderComment": "",
+						"specificOrderComment": "",
+						"genericJobId": "",
+						"genericJobStatus": "",
+						"genericJobComment": "",
+						"specificJobComment": ""
+					}
 				}
 			],
 			"fileTemplateFields": [
