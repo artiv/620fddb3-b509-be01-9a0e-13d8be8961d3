@@ -315,7 +315,8 @@
 					"genericSpecific": {
 						"genericInformation": "parent info",
 						"genericChildren": [
-							"7dc11bb2-4cba-0d81-1f7b-8d86e7b13ba2"
+							"7dc11bb2-4cba-0d81-1f7b-8d86e7b13ba2",
+							"83626dcc-c85d-9dae-44f3-13e0f8e1ce97"
 						],
 						"genericKey": "parent key",
 						"genericValues": []
@@ -405,6 +406,42 @@
 								"isTrue": false
 							}
 						]
+					},
+					"genericWorking": {
+						"genericOrderId": "",
+						"genericOrderComment": "",
+						"specificOrderComment": "",
+						"genericJobId": "",
+						"genericJobStatus": "",
+						"genericJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"genericGeneral": {
+						"genericGuid": "83626dcc-c85d-9dae-44f3-13e0f8e1ce97",
+						"genericType": "genericSlug",
+						"genericIsVisibleCollections": [
+							"6kxG5eadJEBqQqB53"
+						],
+						"genericIsEditableCollections": [
+							"6kxG5eadJEBqQqB53"
+						],
+						"genericIsRequiredCollections": [],
+						"genericIsMultipleCollections": [
+							"6kxG5eadJEBqQqB53"
+						]
+					},
+					"genericMeta": {
+						"genericCanTranslate": true,
+						"genericCanParent": false,
+						"genericCanChild": true
+					},
+					"genericSpecific": {
+						"genericInformation": "slug info",
+						"genericChildren": [],
+						"genericKey": "slug key",
+						"genericValues": []
 					},
 					"genericWorking": {
 						"genericOrderId": "",
