@@ -582,6 +582,47 @@
 						"publishTypeTargetRepo": "",
 						"publishTypeTargetPath": ""
 					}
+				},
+				{
+					"publishTypeGeneral": {
+						"publishTypeGuid": "80617cc3-a4f5-f910-6850-e1038945f644",
+						"publishTypeType": "markdown"
+					},
+					"publishTypeMeta": {
+						"publishTypeCanRevert": false,
+						"publishTypeCanFork": false
+					},
+					"publishTypeSpecific": {
+						"publishTypeName": "asdfMD",
+						"publishTypeFrontMatter": [
+							"8929347d-e727-bd79-866e-39c6d485f6fc",
+							"9ac2d569-d19c-2100-f10f-d4a905a9de2a",
+							"d796824e-b383-0ad1-7466-fb7878acb4c6",
+							"7aaa3f55-a09f-c114-567c-2dc0d5fd5262",
+							"874c1197-e3fb-99a7-6c85-e9e4534e971c",
+							"f48c4e5c-ed3f-441e-25bf-1f0730b51ab1"
+						],
+						"publishTypeBackMatter": [
+							"a14ed27a-8d6f-85f9-f7e6-46ebcd48621c",
+							"6022c612-3072-5d26-b4e3-35d14076dace"
+						],
+						"publishTypeTargets": [
+							{
+								"guid": "09a3bfe0-e30f-ccd1-f22f-0690b319f014",
+								"name": "newSite",
+								"repo": "d17e588d-c847-d7c1-666e-9fe89cb7a6f6",
+								"languageCode": "hi",
+								"path": "xvxc"
+							},
+							{
+								"guid": "05ee136b-8737-04e5-950e-a68564a2cd5a",
+								"name": "quickstart",
+								"repo": "quickstart",
+								"languageCode": "hi",
+								"path": "qwrfw"
+							}
+						]
+					}
 				}
 			]
 		}
