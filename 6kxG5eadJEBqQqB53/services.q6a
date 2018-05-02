@@ -612,20 +612,23 @@
 								"name": "newSite",
 								"repo": "d17e588d-c847-d7c1-666e-9fe89cb7a6f6",
 								"languageCode": "hi",
-								"path": "xvxc"
+								"path": "xvxc",
+								"fileName": "newSite"
 							},
 							{
 								"guid": "05ee136b-8737-04e5-950e-a68564a2cd5a",
 								"name": "quickstart",
 								"repo": "quickstart",
 								"languageCode": "hi",
-								"path": "qwrfw"
+								"path": "qwrfw",
+								"fileName": "quicksta"
 							},
 							{
 								"guid": "61f13041-eb94-dc3b-e140-a29daa7825de",
 								"name": "q",
 								"repo": "98ad75cb-995e-3e17-4c02-399275d27524",
-								"languageCode": "en"
+								"languageCode": "en",
+								"fileName": "fromQ"
 							}
 						]
 					}
