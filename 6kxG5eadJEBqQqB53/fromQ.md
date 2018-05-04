@@ -18,14 +18,10 @@
   ],
   "main title key": "main title",
   "main description key": "main description",
-  "option key": [
-    "True"
-  ],
+  "option key": "true",
   "parent key": [
     {
-      "child key": [
-        "child 1"
-      ]
+      "child key": "child 1"
     },
     {
       "slug key": [
@@ -34,8 +30,8 @@
     }
   ],
   "multiple options key": [
-    "value 1",
-    "value 3"
+    "key 1",
+    "key 3"
   ]
 }
   **some markdown**
