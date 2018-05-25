@@ -1,1 +1,61 @@
-{"fileName":"field.q6a","fileTemplate":{"fileTemplateGeneral":{"fileTemplateGuid":"4b7aa350-d83a-bc9e-4bc9-5874ca7359a7","fileTemplateDate":"2018-05-25T11:39:17.682Z","fileTemplateCollections":[],"fileTemplateCollectionsForTranslation":[]},"fileTemplateLanguage":{"primaryLanguage":"Kr46i9NCz2eC3AKZF","possibleLanguages":[]},"fileTemplateStructure":{"fileTemplateGenerics":[],"fileTemplateFields":[]},"fileTemplatePublish":{"fileTemplateTypes":[]}}}
+{
+	"fileName": "field.q6a",
+	"fileTemplate": {
+		"fileTemplateGeneral": {
+			"fileTemplateGuid": "4b7aa350-d83a-bc9e-4bc9-5874ca7359a7",
+			"fileTemplateDate": "2018-05-25T11:39:17.682Z",
+			"fileTemplateCollections": [
+				"6kxG5eadJEBqQqB53"
+			],
+			"fileTemplateCollectionsForTranslation": [
+				"6kxG5eadJEBqQqB53"
+			]
+		},
+		"fileTemplateLanguage": {
+			"primaryLanguage": "Kr46i9NCz2eC3AKZF",
+			"possibleLanguages": [
+				"Kr46i9NCz2eC3AKZF",
+				"CSvHqEtb2ioM9HqoW",
+				"ZoQFW7jMymxckSQsv"
+			]
+		},
+		"fileTemplateStructure": {
+			"fileTemplateGenerics": [],
+			"fileTemplateFields": [
+				{
+					"fieldGeneral": {
+						"fieldGuid": "ad7b1af2-33b9-bb7a-964b-680447548b05",
+						"fieldType": "fieldImage",
+						"fieldIsVisibleCollections": [],
+						"fieldIsEditableCollections": [],
+						"fieldIsRequiredCollections": [],
+						"fieldIsMultipleCollections": []
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "image info",
+						"fieldKey": "image key",
+						"fieldValues": [],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				}
+			]
+		},
+		"fileTemplatePublish": {
+			"fileTemplateTypes": []
+		}
+	}
+}
