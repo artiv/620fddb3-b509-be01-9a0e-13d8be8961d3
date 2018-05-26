@@ -1,1 +1,84 @@
-{"fileName":"ImageItem.qbl","fileTemplateRepo":"620fddb3-b509-be01-9a0e-13d8be8961d3","fileTemplatePath":"6kxG5eadJEBqQqB53/field.q6a","fileItem":{"fileItemGeneral":{"fileItemGuid":"74440572-ff48-51a9-7875-8297483b1812","fileItemDate":"2018-05-25T11:46:12.849Z","fileItemCollections":["6kxG5eadJEBqQqB53"],"fileItemCollectionsForTranslation":["6kxG5eadJEBqQqB53"]},"fileItemLanguage":{"primaryLanguage":"Kr46i9NCz2eC3AKZF","possibleLanguages":["Kr46i9NCz2eC3AKZF","CSvHqEtb2ioM9HqoW","ZoQFW7jMymxckSQsv"]},"fileItemStructure":{"fileItemGenerics":[],"fileItemFields":[{"fieldGeneral":{"fieldGuid":"ad7b1af2-33b9-bb7a-964b-680447548b05","fieldType":"fieldImage","fieldIsVisibleCollections":[],"fieldIsEditableCollections":[],"fieldIsRequiredCollections":[],"fieldIsMultipleCollections":[]},"fieldMeta":{"fieldCanTranslate":true,"fieldCanParent":false,"fieldCanChild":false},"fieldSpecific":{"fieldInformation":"image info","fieldKey":"image key","fieldValues":[],"fieldChildren":[]},"fieldWorking":{"fieldOrderId":"","fieldOrderComment":"","specificOrderComment":"","fieldJobId":"","fieldJobStatus":"","fieldJobComment":"","specificJobComment":""}}]},"fileItemPublish":{"fileItemTypes":[]}}}
+{
+	"fileName": "ImageItem.qbl",
+	"fileTemplateRepo": "620fddb3-b509-be01-9a0e-13d8be8961d3",
+	"fileTemplatePath": "6kxG5eadJEBqQqB53/field.q6a",
+	"fileItem": {
+		"fileItemGeneral": {
+			"fileItemGuid": "74440572-ff48-51a9-7875-8297483b1812",
+			"fileItemDate": "2018-05-25T11:46:12.849Z",
+			"fileItemCollections": [
+				"6kxG5eadJEBqQqB53"
+			],
+			"fileItemCollectionsForTranslation": [
+				"6kxG5eadJEBqQqB53"
+			]
+		},
+		"fileItemLanguage": {
+			"primaryLanguage": "Kr46i9NCz2eC3AKZF",
+			"possibleLanguages": [
+				"Kr46i9NCz2eC3AKZF",
+				"CSvHqEtb2ioM9HqoW",
+				"ZoQFW7jMymxckSQsv"
+			]
+		},
+		"fileItemStructure": {
+			"fileItemGenerics": [],
+			"fileItemFields": [
+				{
+					"fieldGeneral": {
+						"fieldGuid": "ad7b1af2-33b9-bb7a-964b-680447548b05",
+						"fieldType": "fieldImage",
+						"fieldIsVisibleCollections": [],
+						"fieldIsEditableCollections": [],
+						"fieldIsRequiredCollections": [],
+						"fieldIsMultipleCollections": []
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "image info",
+						"fieldKey": "image key",
+						"fieldValues": [
+							{
+								"format": "png",
+								"public_id": "620fddb3-b509-be01-9a0e-13d8be8961d3/c438b92d-c7ce-77a5-bc74-424d141540fb",
+								"resource_type": "image",
+								"secure_url": "https://res.cloudinary.com/dlnf9f6lr/image/upload/v1527375872/620fddb3-b509-be01-9a0e-13d8be8961d3/c438b92d-c7ce-77a5-bc74-424d141540fb.png",
+								"url": "http://res.cloudinary.com/dlnf9f6lr/image/upload/v1527375872/620fddb3-b509-be01-9a0e-13d8be8961d3/c438b92d-c7ce-77a5-bc74-424d141540fb.png",
+								"embed": {
+									"width": "w_200",
+									"height": "h_200",
+									"scale": false,
+									"fit": false,
+									"limit": false,
+									"crop": false,
+									"cropGravity": "",
+									"cropFixedX": "",
+									"cropFixedY": "",
+									"altText": "",
+									"seoSuffix": "material"
+								}
+							}
+						],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				}
+			]
+		},
+		"fileItemPublish": {
+			"fileItemTypes": []
+		}
+	}
+}
