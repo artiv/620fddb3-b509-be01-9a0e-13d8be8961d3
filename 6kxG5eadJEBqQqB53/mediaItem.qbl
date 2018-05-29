@@ -105,7 +105,19 @@
 								"rotation": 0,
 								"original_filename": "Earth_Zoom_In",
 								"path": "v1527584037/rxxcwxndbls93de3p1bd.mov",
-								"thumbnail_url": "http://res.cloudinary.com/dlnf9f6lr/video/upload/c_limit,h_60,w_90/v1527584037/rxxcwxndbls93de3p1bd.jpg"
+								"thumbnail_url": "http://res.cloudinary.com/dlnf9f6lr/video/upload/c_limit,h_60,w_90/v1527584037/rxxcwxndbls93de3p1bd.jpg",
+								"srt": [
+									{
+										"start": 20000,
+										"end": 24400,
+										"text": "Bla Bla Bla Bla"
+									},
+									{
+										"start": 24600,
+										"end": 27800,
+										"text": "Bla Bla Bla Bla"
+									}
+								]
 							}
 						],
 						"fieldChildren": []
