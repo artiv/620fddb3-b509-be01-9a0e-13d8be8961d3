@@ -41,7 +41,28 @@
 					"fieldSpecific": {
 						"fieldInformation": "image info",
 						"fieldKey": "image key",
-						"fieldValues": [],
+						"fieldValues": [
+							{
+								"format": "png",
+								"public_id": "620fddb3-b509-be01-9a0e-13d8be8961d3/42567e96-57fd-b435-88af-383935a804c8",
+								"resource_type": "image",
+								"secure_url": "https://res.cloudinary.com/dlnf9f6lr/image/upload/v1527624207/620fddb3-b509-be01-9a0e-13d8be8961d3/42567e96-57fd-b435-88af-383935a804c8.png",
+								"url": "http://res.cloudinary.com/dlnf9f6lr/image/upload/v1527624207/620fddb3-b509-be01-9a0e-13d8be8961d3/42567e96-57fd-b435-88af-383935a804c8.png",
+								"embed": {
+									"width": "w_200",
+									"height": "h_200",
+									"scale": false,
+									"fit": false,
+									"limit": false,
+									"crop": false,
+									"cropGravity": "",
+									"cropFixedX": "",
+									"cropFixedY": "",
+									"altText": "",
+									"seoSuffix": "material"
+								}
+							}
+						],
 						"fieldChildren": []
 					},
 					"fieldWorking": {
