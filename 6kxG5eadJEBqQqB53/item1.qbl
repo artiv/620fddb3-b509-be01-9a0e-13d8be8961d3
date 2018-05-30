@@ -87,7 +87,43 @@
 					"fieldSpecific": {
 						"fieldInformation": "Video info",
 						"fieldKey": "Video key",
-						"fieldValues": [],
+						"fieldValues": [
+							{
+								"public_id": "ujblwvmuxsisy14ontec",
+								"version": 1527680923,
+								"signature": "462b48c3b7a2f118b9d20d1ae2e7b999e20b393d",
+								"width": 1920,
+								"height": 1080,
+								"format": "mov",
+								"resource_type": "video",
+								"created_at": "2018-05-30T11:48:43Z",
+								"tags": [],
+								"pages": 0,
+								"bytes": 8399839,
+								"type": "upload",
+								"etag": "0a223b4a82122aef40e494df9ff0da22",
+								"placeholder": false,
+								"url": "http://res.cloudinary.com/dlnf9f6lr/video/upload/v1527680923/ujblwvmuxsisy14ontec.mov",
+								"secure_url": "https://res.cloudinary.com/dlnf9f6lr/video/upload/v1527680923/ujblwvmuxsisy14ontec.mov",
+								"access_mode": "public",
+								"audio": {},
+								"video": {
+									"pix_format": "yuv420p",
+									"codec": "h264",
+									"level": 40,
+									"profile": "Main",
+									"bit_rate": "9812705",
+									"dar": "16:9"
+								},
+								"frame_rate": 25,
+								"bit_rate": 9824373,
+								"duration": 6.84,
+								"rotation": 0,
+								"original_filename": "Earth_Zoom_In",
+								"path": "v1527680923/ujblwvmuxsisy14ontec.mov",
+								"thumbnail_url": "http://res.cloudinary.com/dlnf9f6lr/video/upload/c_limit,h_60,w_90/v1527680923/ujblwvmuxsisy14ontec.jpg"
+							}
+						],
 						"fieldChildren": []
 					},
 					"fieldWorking": {
