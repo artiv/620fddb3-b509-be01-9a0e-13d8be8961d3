@@ -121,7 +121,19 @@
 								"rotation": 0,
 								"original_filename": "Earth_Zoom_In",
 								"path": "v1527680923/ujblwvmuxsisy14ontec.mov",
-								"thumbnail_url": "http://res.cloudinary.com/dlnf9f6lr/video/upload/c_limit,h_60,w_90/v1527680923/ujblwvmuxsisy14ontec.jpg"
+								"thumbnail_url": "http://res.cloudinary.com/dlnf9f6lr/video/upload/c_limit,h_60,w_90/v1527680923/ujblwvmuxsisy14ontec.jpg",
+								"captions": [
+									{
+										"start": 137440,
+										"end": 140375,
+										"text": "Hi there"
+									},
+									{
+										"start": 140476,
+										"end": 142501,
+										"text": "Very good, Lieutenant."
+									}
+								]
 							}
 						],
 						"fieldChildren": []
@@ -161,7 +173,62 @@
 					"fieldSpecific": {
 						"fieldInformation": "Video 2 info",
 						"fieldKey": "Video 2 key",
-						"fieldValues": [],
+						"fieldValues": [
+							{
+								"public_id": "qknvb2k0dfzqj3jzajbj",
+								"version": 1527685017,
+								"signature": "99a8412484779de1ffdaf09772e3df4b7b191989",
+								"width": 1280,
+								"height": 720,
+								"format": "mp4",
+								"resource_type": "video",
+								"created_at": "2018-05-30T12:56:57Z",
+								"tags": [],
+								"pages": 0,
+								"bytes": 1786965,
+								"type": "upload",
+								"etag": "23a3648ad37632ccdd16dc5617961f82",
+								"placeholder": false,
+								"url": "http://res.cloudinary.com/dlnf9f6lr/video/upload/v1527685017/qknvb2k0dfzqj3jzajbj.mp4",
+								"secure_url": "https://res.cloudinary.com/dlnf9f6lr/video/upload/v1527685017/qknvb2k0dfzqj3jzajbj.mp4",
+								"access_mode": "public",
+								"audio": {
+									"codec": "aac",
+									"bit_rate": "3132",
+									"frequency": 44100,
+									"channels": 2,
+									"channel_layout": "stereo"
+								},
+								"video": {
+									"pix_format": "yuv420p",
+									"codec": "h264",
+									"level": 30,
+									"profile": "Constrained Baseline",
+									"bit_rate": "3361380",
+									"dar": "16:9"
+								},
+								"is_audio": false,
+								"frame_rate": 29.97002997002997,
+								"bit_rate": 3364297,
+								"duration": 4.237567,
+								"rotation": 0,
+								"original_filename": "Abstract",
+								"path": "v1527685017/qknvb2k0dfzqj3jzajbj.mp4",
+								"thumbnail_url": "http://res.cloudinary.com/dlnf9f6lr/video/upload/c_limit,h_60,w_90/v1527685017/qknvb2k0dfzqj3jzajbj.jpg",
+								"captions": [
+									{
+										"start": 137440,
+										"end": 140375,
+										"text": "Senator, we're making\nour final approach into Coruscant."
+									},
+									{
+										"start": 140476,
+										"end": 142501,
+										"text": "Very good, Lieutenant."
+									}
+								]
+							}
+						],
 						"fieldChildren": []
 					},
 					"fieldWorking": {
