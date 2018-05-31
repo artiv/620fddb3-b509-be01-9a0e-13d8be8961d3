@@ -147,14 +147,15 @@
 									{
 										"start": 137440,
 										"end": 140375,
-										"text": "Hi there"
+										"text": "Senator, we're making\nour final approach into Coruscant."
 									},
 									{
 										"start": 140476,
 										"end": 142501,
 										"text": "Very good, Lieutenant."
 									}
-								]
+								],
+								"captionString": "\n1\n00:02:17,440 --> 00:02:20,375\nSenator, we're making\nour final approach into Coruscant.\n\n2\n00:02:20,476 --> 00:02:22,501\nVery good, Lieutenant."
 							}
 						],
 						"fieldChildren": []
@@ -240,14 +241,10 @@
 									{
 										"start": 137440,
 										"end": 140375,
-										"text": "Senator, we're making\nour final approach into Coruscant."
-									},
-									{
-										"start": 140476,
-										"end": 142501,
-										"text": "Very good, Lieutenant."
+										"text": "hi senator what is up"
 									}
-								]
+								],
+								"captionString": "\n1\n00:02:17,440 --> 00:02:20,375\nhi senator what is up"
 							}
 						],
 						"fieldChildren": []
