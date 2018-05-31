@@ -57,8 +57,8 @@
 								"secure_url": "https://res.cloudinary.com/dlnf9f6lr/image/upload/v1527749688/620fddb3-b509-be01-9a0e-13d8be8961d3/f85c3bf0-4dcd-c85f-095e-1eb9b2e63ae7.png",
 								"url": "http://res.cloudinary.com/dlnf9f6lr/image/upload/v1527749688/620fddb3-b509-be01-9a0e-13d8be8961d3/f85c3bf0-4dcd-c85f-095e-1eb9b2e63ae7.png",
 								"embed": {
-									"width": "w_200",
-									"height": "h_200",
+									"width": "w_250",
+									"height": "h_250",
 									"scale": false,
 									"fit": false,
 									"limit": false,
@@ -66,8 +66,8 @@
 									"cropGravity": "",
 									"cropFixedX": "",
 									"cropFixedY": "",
-									"altText": "",
-									"seoSuffix": "material"
+									"altText": "al test",
+									"seoSuffix": "material-new"
 								}
 							}
 						],
