@@ -143,19 +143,7 @@
 								"original_filename": "Earth_Zoom_In",
 								"path": "v1527680923/ujblwvmuxsisy14ontec.mov",
 								"thumbnail_url": "http://res.cloudinary.com/dlnf9f6lr/video/upload/c_limit,h_60,w_90/v1527680923/ujblwvmuxsisy14ontec.jpg",
-								"captions": [
-									{
-										"start": 137440,
-										"end": 140375,
-										"text": "Senator, we're making\nour final approach into Coruscant."
-									},
-									{
-										"start": 140476,
-										"end": 142501,
-										"text": "Very good, Lieutenant."
-									}
-								],
-								"captionString": "\n1\n00:02:17,440 --> 00:02:20,375\nSenator, we're making\nour final approach into Coruscant.\n\n2\n00:02:20,476 --> 00:02:22,501\nVery good, Lieutenant."
+							
 							}
 						],
 						"fieldChildren": []
@@ -237,14 +225,7 @@
 								"original_filename": "Abstract",
 								"path": "v1527685017/qknvb2k0dfzqj3jzajbj.mp4",
 								"thumbnail_url": "http://res.cloudinary.com/dlnf9f6lr/video/upload/c_limit,h_60,w_90/v1527685017/qknvb2k0dfzqj3jzajbj.jpg",
-								"captions": [
-									{
-										"start": 137440,
-										"end": 140375,
-										"text": "hi senator what is up"
-									}
-								],
-								"captionString": "\n1\n00:02:17,440 --> 00:02:20,375\nhi senator what is up"
+							
 							}
 						],
 						"fieldChildren": []
