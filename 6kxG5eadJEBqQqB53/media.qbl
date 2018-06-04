@@ -270,7 +270,14 @@
 										"access_mode": "public"
 									}
 								},
-								"overlays": []
+								"overlays": [
+									{
+										"public_id": "620fddb3-b509-be01-9a0e-13d8be8961d3/material_i0gm9s",
+										"start_offset": "2",
+										"end_offset": "4",
+										"transforms": "{opacity:4}"
+									}
+								]
 							}
 						],
 						"fieldChildren": []
