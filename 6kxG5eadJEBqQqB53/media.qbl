@@ -87,82 +87,7 @@
 					"fieldSpecific": {
 						"fieldInformation": "Video info",
 						"fieldKey": "Video key",
-						"fieldValues": [
-							{
-								"public_id": "Abstract_clpdlj",
-								"version": 1528141760,
-								"signature": "2cff418474e64e4bfd8e7fac39c5de11fac715d1",
-								"width": 1280,
-								"height": 720,
-								"format": "mp4",
-								"resource_type": "video",
-								"created_at": "2018-06-04T19:49:20Z",
-								"tags": [],
-								"pages": 0,
-								"bytes": 1786965,
-								"type": "upload",
-								"etag": "23a3648ad37632ccdd16dc5617961f82",
-								"placeholder": false,
-								"url": "http://res.cloudinary.com/dlnf9f6lr/video/upload/v1528141760/Abstract_clpdlj.mp4",
-								"secure_url": "https://res.cloudinary.com/dlnf9f6lr/video/upload/v1528141760/Abstract_clpdlj.mp4",
-								"access_mode": "public",
-								"existing": false,
-								"audio": {
-									"codec": "aac",
-									"bit_rate": "3132",
-									"frequency": 44100,
-									"channels": 2,
-									"channel_layout": "stereo"
-								},
-								"video": {
-									"pix_format": "yuv420p",
-									"codec": "h264",
-									"level": 30,
-									"profile": "Constrained Baseline",
-									"bit_rate": "3361380",
-									"dar": "16:9"
-								},
-								"is_audio": false,
-								"frame_rate": 29.97002997002997,
-								"bit_rate": 3364297,
-								"duration": 4.237567,
-								"rotation": 0,
-								"original_filename": "Abstract",
-								"path": "v1528141760/Abstract_clpdlj.mp4",
-								"thumbnail_url": "http://res.cloudinary.com/dlnf9f6lr/video/upload/c_limit,h_60,w_90/v1528141760/Abstract_clpdlj.jpg",
-								"captions": {
-									"parsed": [
-										{
-											"start": 137440,
-											"end": 140375,
-											"text": "Senator, we're making\nour final approach into Coruscant."
-										},
-										{
-											"start": 140476,
-											"end": 142501,
-											"text": "Very good, Lieutenant."
-										}
-									],
-									"captionString": "\n1\n00:02:17,440 --> 00:02:20,375\nSenator, we're making\nour final approach into Coruscant.\n\n2\n00:02:20,476 --> 00:02:22,501\nVery good, Lieutenant.",
-									"asset": {
-										"public_id": "Abstract_clpdlj_en.srt",
-										"version": 1528141922,
-										"signature": "ac54403cd69d4b564fd1e42357d6dfc5d93cee08",
-										"resource_type": "raw",
-										"created_at": "2018-06-04T19:52:02Z",
-										"tags": [],
-										"bytes": 145,
-										"type": "upload",
-										"etag": "c374ed7004615757d43e0edbd3ec8a4d",
-										"placeholder": false,
-										"url": "http://res.cloudinary.com/dlnf9f6lr/raw/upload/v1528141922/Abstract_clpdlj_en.srt",
-										"secure_url": "https://res.cloudinary.com/dlnf9f6lr/raw/upload/v1528141922/Abstract_clpdlj_en.srt",
-										"access_mode": "public"
-									}
-								},
-								"overlays": []
-							}
-						],
+						"fieldValues": [],
 						"fieldChildren": []
 					},
 					"fieldWorking": {
@@ -200,7 +125,82 @@
 					"fieldSpecific": {
 						"fieldInformation": "Video 2 info",
 						"fieldKey": "Video 2 key",
-						"fieldValues": [],
+						"fieldValues": [
+							{
+								"public_id": "Abstract_f3c5wt",
+								"version": 1528142421,
+								"signature": "70a468bde0a985fa9a462340e27ecc3e2945fd5e",
+								"width": 1280,
+								"height": 720,
+								"format": "mp4",
+								"resource_type": "video",
+								"created_at": "2018-06-04T20:00:21Z",
+								"tags": [],
+								"pages": 0,
+								"bytes": 1786965,
+								"type": "upload",
+								"etag": "23a3648ad37632ccdd16dc5617961f82",
+								"placeholder": false,
+								"url": "http://res.cloudinary.com/dlnf9f6lr/video/upload/v1528142421/Abstract_f3c5wt.mp4",
+								"secure_url": "https://res.cloudinary.com/dlnf9f6lr/video/upload/v1528142421/Abstract_f3c5wt.mp4",
+								"access_mode": "public",
+								"existing": false,
+								"audio": {
+									"codec": "aac",
+									"bit_rate": "3132",
+									"frequency": 44100,
+									"channels": 2,
+									"channel_layout": "stereo"
+								},
+								"video": {
+									"pix_format": "yuv420p",
+									"codec": "h264",
+									"level": 30,
+									"profile": "Constrained Baseline",
+									"bit_rate": "3361380",
+									"dar": "16:9"
+								},
+								"is_audio": false,
+								"frame_rate": 29.97002997002997,
+								"bit_rate": 3364297,
+								"duration": 4.237567,
+								"rotation": 0,
+								"original_filename": "Abstract",
+								"path": "v1528142421/Abstract_f3c5wt.mp4",
+								"thumbnail_url": "http://res.cloudinary.com/dlnf9f6lr/video/upload/c_limit,h_60,w_90/v1528142421/Abstract_f3c5wt.jpg",
+								"captions": {
+									"parsed": [
+										{
+											"start": 137440,
+											"end": 140375,
+											"text": "Senator, we're making\nour final approach into Coruscant."
+										},
+										{
+											"start": 140476,
+											"end": 142501,
+											"text": "Very good, Lieutenant."
+										}
+									],
+									"captionString": "\n1\n00:02:17,440 --> 00:02:20,375\nSenator, we're making\nour final approach into Coruscant.\n\n2\n00:02:20,476 --> 00:02:22,501\nVery good, Lieutenant.",
+									"asset": {
+										"public_id": "Abstract_f3c5wt_en.srt",
+										"version": 1528142469,
+										"signature": "27add656067dd04379217407767b9e9a1814d01d",
+										"resource_type": "raw",
+										"created_at": "2018-06-04T20:01:09Z",
+										"tags": [],
+										"bytes": 145,
+										"type": "upload",
+										"etag": "c374ed7004615757d43e0edbd3ec8a4d",
+										"placeholder": false,
+										"url": "http://res.cloudinary.com/dlnf9f6lr/raw/upload/v1528142469/Abstract_f3c5wt_en.srt",
+										"secure_url": "https://res.cloudinary.com/dlnf9f6lr/raw/upload/v1528142469/Abstract_f3c5wt_en.srt",
+										"access_mode": "public"
+									}
+								},
+								"overlays": []
+							}
+						],
 						"fieldChildren": []
 					},
 					"fieldWorking": {
