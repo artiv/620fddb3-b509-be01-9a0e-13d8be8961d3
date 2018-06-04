@@ -84,6 +84,42 @@
 									"altText": "",
 									"seoSuffix": "background"
 								}
+							},
+							{
+								"public_id": "620fddb3-b509-be01-9a0e-13d8be8961d3/material_kcrp6h",
+								"version": 1528116433,
+								"signature": "b0737cc53ee07b4fe6823a665995a190789e208a",
+								"width": 1013,
+								"height": 195,
+								"format": "png",
+								"resource_type": "image",
+								"created_at": "2018-06-04T12:47:13Z",
+								"tags": [],
+								"bytes": 9196,
+								"type": "upload",
+								"etag": "c5d6c03ef88d46a05d0597c5eb8e495f",
+								"placeholder": false,
+								"url": "http://res.cloudinary.com/dlnf9f6lr/image/upload/v1528116433/620fddb3-b509-be01-9a0e-13d8be8961d3/material_kcrp6h.png",
+								"secure_url": "https://res.cloudinary.com/dlnf9f6lr/image/upload/v1528116433/620fddb3-b509-be01-9a0e-13d8be8961d3/material_kcrp6h.png",
+								"access_mode": "public",
+								"existing": false,
+								"original_filename": "material",
+								"original_extension": "PNG",
+								"path": "v1528116433/620fddb3-b509-be01-9a0e-13d8be8961d3/material_kcrp6h.png",
+								"thumbnail_url": "http://res.cloudinary.com/dlnf9f6lr/image/upload/c_limit,h_60,w_90/v1528116433/620fddb3-b509-be01-9a0e-13d8be8961d3/material_kcrp6h.png",
+								"embed": {
+									"width": "w_200",
+									"height": "h_200",
+									"scale": false,
+									"fit": false,
+									"limit": false,
+									"crop": false,
+									"cropGravity": "",
+									"cropFixedX": "",
+									"cropFixedY": "",
+									"altText": "",
+									"seoSuffix": "material"
+								}
 							}
 						],
 						"fieldChildren": []
