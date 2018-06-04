@@ -130,7 +130,36 @@
 								"original_filename": "Abstract",
 								"path": "v1528141760/Abstract_clpdlj.mp4",
 								"thumbnail_url": "http://res.cloudinary.com/dlnf9f6lr/video/upload/c_limit,h_60,w_90/v1528141760/Abstract_clpdlj.jpg",
-								"captions": {},
+								"captions": {
+									"parsed": [
+										{
+											"start": 137440,
+											"end": 140375,
+											"text": "Senator, we're making\nour final approach into Coruscant."
+										},
+										{
+											"start": 140476,
+											"end": 142501,
+											"text": "Very good, Lieutenant."
+										}
+									],
+									"captionString": "\n1\n00:02:17,440 --> 00:02:20,375\nSenator, we're making\nour final approach into Coruscant.\n\n2\n00:02:20,476 --> 00:02:22,501\nVery good, Lieutenant.",
+									"asset": {
+										"public_id": "Abstract_clpdlj_en.srt",
+										"version": 1528141922,
+										"signature": "ac54403cd69d4b564fd1e42357d6dfc5d93cee08",
+										"resource_type": "raw",
+										"created_at": "2018-06-04T19:52:02Z",
+										"tags": [],
+										"bytes": 145,
+										"type": "upload",
+										"etag": "c374ed7004615757d43e0edbd3ec8a4d",
+										"placeholder": false,
+										"url": "http://res.cloudinary.com/dlnf9f6lr/raw/upload/v1528141922/Abstract_clpdlj_en.srt",
+										"secure_url": "https://res.cloudinary.com/dlnf9f6lr/raw/upload/v1528141922/Abstract_clpdlj_en.srt",
+										"access_mode": "public"
+									}
+								},
 								"overlays": []
 							}
 						],
