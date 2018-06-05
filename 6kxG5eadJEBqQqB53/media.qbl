@@ -120,6 +120,41 @@
 									"altText": "",
 									"seoSuffix": "material"
 								}
+							},
+							{
+								"public_id": "620fddb3-b509-be01-9a0e-13d8be8961d3/manufacturing_r6o9yx",
+								"version": 1528180666,
+								"signature": "0d559397b0d2f7e877b995e0b534c660f3438323",
+								"width": 940,
+								"height": 788,
+								"format": "jpg",
+								"resource_type": "image",
+								"created_at": "2018-06-05T06:37:46Z",
+								"tags": [],
+								"bytes": 233280,
+								"type": "upload",
+								"etag": "d7d7ee4ef82168a3a6db3059d9f61842",
+								"placeholder": false,
+								"url": "http://res.cloudinary.com/dlnf9f6lr/image/upload/v1528180666/620fddb3-b509-be01-9a0e-13d8be8961d3/manufacturing_r6o9yx.jpg",
+								"secure_url": "https://res.cloudinary.com/dlnf9f6lr/image/upload/v1528180666/620fddb3-b509-be01-9a0e-13d8be8961d3/manufacturing_r6o9yx.jpg",
+								"access_mode": "public",
+								"existing": false,
+								"original_filename": "manufacturing",
+								"path": "v1528180666/620fddb3-b509-be01-9a0e-13d8be8961d3/manufacturing_r6o9yx.jpg",
+								"thumbnail_url": "http://res.cloudinary.com/dlnf9f6lr/image/upload/c_limit,h_60,w_90/v1528180666/620fddb3-b509-be01-9a0e-13d8be8961d3/manufacturing_r6o9yx.jpg",
+								"embed": {
+									"width": "w_200",
+									"height": "h_200",
+									"scale": false,
+									"fit": false,
+									"limit": false,
+									"crop": false,
+									"cropGravity": "",
+									"cropFixedX": "",
+									"cropFixedY": "",
+									"altText": "",
+									"seoSuffix": "manufacturing"
+								}
 							}
 						],
 						"fieldChildren": []
@@ -159,7 +194,60 @@
 					"fieldSpecific": {
 						"fieldInformation": "Video info",
 						"fieldKey": "Video key",
-						"fieldValues": [],
+						"fieldValues": [
+							{
+								"public_id": "SampleVideo_1280x720_1mb_euxjjh",
+								"version": 1528180685,
+								"signature": "5c1e2efc221fcc2758b948b460996b713f7837ed",
+								"width": 1280,
+								"height": 720,
+								"format": "mp4",
+								"resource_type": "video",
+								"created_at": "2018-06-05T06:38:05Z",
+								"tags": [],
+								"pages": 0,
+								"bytes": 1055736,
+								"type": "upload",
+								"etag": "d55bddf8d62910879ed9f605522149a8",
+								"placeholder": false,
+								"url": "http://res.cloudinary.com/dlnf9f6lr/video/upload/v1528180685/SampleVideo_1280x720_1mb_euxjjh.mp4",
+								"secure_url": "https://res.cloudinary.com/dlnf9f6lr/video/upload/v1528180685/SampleVideo_1280x720_1mb_euxjjh.mp4",
+								"access_mode": "public",
+								"existing": false,
+								"audio": {
+									"codec": "aac",
+									"bit_rate": "384828",
+									"frequency": 48000,
+									"channels": 6,
+									"channel_layout": "5.1"
+								},
+								"video": {
+									"pix_format": "yuv420p",
+									"codec": "h264",
+									"level": 31,
+									"profile": "Main",
+									"bit_rate": "1205959",
+									"dar": "16:9"
+								},
+								"is_audio": false,
+								"frame_rate": 25,
+								"bit_rate": 1589963,
+								"duration": 5.28,
+								"rotation": 0,
+								"original_filename": "SampleVideo_1280x720_1mb",
+								"path": "v1528180685/SampleVideo_1280x720_1mb_euxjjh.mp4",
+								"thumbnail_url": "http://res.cloudinary.com/dlnf9f6lr/video/upload/c_limit,h_60,w_90/v1528180685/SampleVideo_1280x720_1mb_euxjjh.jpg",
+								"captions": {},
+								"overlays": [
+									{
+										"public_id": "620fddb3-b509-be01-9a0e-13d8be8961d3/manufacturing_r6o9yx",
+										"start_offset": "0",
+										"end_offset": "3",
+										"transforms": ""
+									}
+								]
+							}
+						],
 						"fieldChildren": []
 					},
 					"fieldWorking": {
