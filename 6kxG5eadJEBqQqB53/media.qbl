@@ -247,23 +247,24 @@
 										{
 											"start": 2476,
 											"end": 322501,
-											"text": "Very good, Lieutenant."
+											"text": "Very good, Lieutenant.."
 										}
 									],
-									"captionString": "\n1\n00:00:00,440 --> 00:00:02,375\nSenator, we're making\nour final approach into Coruscant.\n\n2\n00:00:02,476 --> 00:05:22,501\nVery good, Lieutenant.",
+									"captionString": "\n1\n00:00:00,440 --> 00:00:02,375\nSenator, we're making\nour final approach into Coruscant.\n\n2\n00:00:02,476 --> 00:05:22,501\nVery good, Lieutenant..",
 									"asset": {
 										"public_id": "SampleVideo_1280x720_1mb_euxjjh_en.srt",
-										"version": 1528181184,
-										"signature": "ecddbc588c3eb1e7f854a2460774f766afed7826",
+										"version": 1528194076,
+										"signature": "ea307861cec0a6f217c6907d5625cdf9dbffd6c6",
 										"resource_type": "raw",
-										"created_at": "2018-06-05T06:46:24Z",
+										"created_at": "2018-06-05T10:21:16Z",
 										"tags": [],
-										"bytes": 145,
+										"bytes": 146,
 										"type": "upload",
-										"etag": "e35a20c7ce108050a42030df11056f45",
+										"etag": "d27f0a21c0efdf84fcf8a4b28b10ba2d",
 										"placeholder": false,
-										"url": "http://res.cloudinary.com/dd0ysfi1v/raw/upload/v1528181184/SampleVideo_1280x720_1mb_euxjjh_en.srt",
-										"secure_url": "https://res.cloudinary.com/dd0ysfi1v/raw/upload/v1528181184/SampleVideo_1280x720_1mb_euxjjh_en.srt"
+										"url": "http://res.cloudinary.com/q6a/raw/upload/v1528194076/SampleVideo_1280x720_1mb_euxjjh_en.srt",
+										"secure_url": "https://res.cloudinary.com/q6a/raw/upload/v1528194076/SampleVideo_1280x720_1mb_euxjjh_en.srt",
+										"access_mode": "public"
 									}
 								},
 								"overlays": [
