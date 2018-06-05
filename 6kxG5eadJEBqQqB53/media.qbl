@@ -275,7 +275,7 @@
 										"public_id": "620fddb3-b509-be01-9a0e-13d8be8961d3/background_lsrspm",
 										"start_offset": "0",
 										"end_offset": "5",
-										"transforms": "{\"gravity\": \"south\", \"height\": 100, \"opacity\": 40}"
+										"transforms": ""
 									}
 								]
 							}
