@@ -237,7 +237,35 @@
 								"original_filename": "SampleVideo_1280x720_1mb",
 								"path": "v1528180685/SampleVideo_1280x720_1mb_euxjjh.mp4",
 								"thumbnail_url": "http://res.cloudinary.com/dlnf9f6lr/video/upload/c_limit,h_60,w_90/v1528180685/SampleVideo_1280x720_1mb_euxjjh.jpg",
-								"captions": {},
+								"captions": {
+									"parsed": [
+										{
+											"start": 440,
+											"end": 2375,
+											"text": "Senator, we're making\nour final approach into Coruscant."
+										},
+										{
+											"start": 2476,
+											"end": 322501,
+											"text": "Very good, Lieutenant."
+										}
+									],
+									"captionString": "\n1\n00:00:00,440 --> 00:00:02,375\nSenator, we're making\nour final approach into Coruscant.\n\n2\n00:00:02,476 --> 00:05:22,501\nVery good, Lieutenant.",
+									"asset": {
+										"public_id": "SampleVideo_1280x720_1mb_euxjjh_en.srt",
+										"version": 1528181184,
+										"signature": "ecddbc588c3eb1e7f854a2460774f766afed7826",
+										"resource_type": "raw",
+										"created_at": "2018-06-05T06:46:24Z",
+										"tags": [],
+										"bytes": 145,
+										"type": "upload",
+										"etag": "e35a20c7ce108050a42030df11056f45",
+										"placeholder": false,
+										"url": "http://res.cloudinary.com/dd0ysfi1v/raw/upload/v1528181184/SampleVideo_1280x720_1mb_euxjjh_en.srt",
+										"secure_url": "https://res.cloudinary.com/dd0ysfi1v/raw/upload/v1528181184/SampleVideo_1280x720_1mb_euxjjh_en.srt"
+									}
+								},
 								"overlays": [
 									{
 										"public_id": "620fddb3-b509-be01-9a0e-13d8be8961d3/manufacturing_r6o9yx",
