@@ -167,12 +167,12 @@
 								"path": "v1528353717/sea_waves_e7fvnq.webm",
 								"thumbnail_url": "http://res.cloudinary.com/q6a/video/upload/c_limit,h_60,w_90/v1528353717/sea_waves_e7fvnq.jpg",
 								"captions": {
-									"captionString": "\n1\n00:00:00,440 --> 00:00:01,375\nSenator, we're making\nour final approach\n\n2\n00:00:01,476 --> 00:00:22,501\nVery good, Lieutenant.",
+									"captionString": "\n1\n00:00:00,440 --> 00:00:01,375\nSenator, we're making wharever\n\n2\n00:00:01,476 --> 00:00:22,501\nVery good, Lieutenant.",
 									"parsed": [
 										{
 											"start": 440,
 											"end": 1375,
-											"text": "Senator, we're making\nour final approach"
+											"text": "Senator, we're making wharever"
 										},
 										{
 											"start": 1476,
@@ -182,17 +182,17 @@
 									],
 									"asset": {
 										"public_id": "sea_waves_e7fvnq_en.srt",
-										"version": 1528357901,
-										"signature": "871aeeda142505fca3535f8cdf0567545cba9f1a",
+										"version": 1528362310,
+										"signature": "9bc5926e5f307aed8886e468b2920a5b447eefb6",
 										"resource_type": "raw",
 										"created_at": "2018-06-07T06:43:10Z",
 										"tags": [],
-										"bytes": 129,
+										"bytes": 119,
 										"type": "upload",
-										"etag": "50d90ac0e41ab2d42deb7b3e608db7c3",
+										"etag": "8171aa1fa5bae7388c18b04b8c903cbe",
 										"placeholder": false,
-										"url": "http://res.cloudinary.com/q6a/raw/upload/v1528357901/sea_waves_e7fvnq_en.srt",
-										"secure_url": "https://res.cloudinary.com/q6a/raw/upload/v1528357901/sea_waves_e7fvnq_en.srt",
+										"url": "http://res.cloudinary.com/q6a/raw/upload/v1528362310/sea_waves_e7fvnq_en.srt",
+										"secure_url": "https://res.cloudinary.com/q6a/raw/upload/v1528362310/sea_waves_e7fvnq_en.srt",
 										"access_mode": "public",
 										"overwritten": true
 									},
