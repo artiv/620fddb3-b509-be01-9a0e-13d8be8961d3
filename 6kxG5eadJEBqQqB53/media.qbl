@@ -196,7 +196,7 @@
 										"access_mode": "public",
 										"overwritten": true
 									},
-									"isAttached": true
+									"isAttached": false
 								},
 								"overlays": []
 							}
