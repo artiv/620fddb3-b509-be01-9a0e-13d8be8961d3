@@ -233,7 +233,18 @@
 									},
 									"isAttached": true
 								},
-								"overlays": []
+								"overlays": [
+									{
+										"public_id": "620fddb3-b509-be01-9a0e-13d8be8961d3/background_ahidiq",
+										"isAttached": false,
+										"start_offset": "0",
+										"end_offset": "2",
+										"x": "0",
+										"y": "0",
+										"width": "100",
+										"height": "20"
+									}
+								]
 							}
 						],
 						"fieldChildren": []
