@@ -49,7 +49,79 @@
 					"fieldSpecific": {
 						"fieldInformation": "image info",
 						"fieldKey": "image key",
-						"fieldValues": [],
+						"fieldValues": [
+							{
+								"public_id": "620fddb3-b509-be01-9a0e-13d8be8961d3/background_u7vlay",
+								"version": 1528436726,
+								"signature": "83d6aef7adea0929afdc4f86b0d50794505ab130",
+								"width": 1152,
+								"height": 648,
+								"format": "png",
+								"resource_type": "image",
+								"created_at": "2018-06-08T05:45:26Z",
+								"tags": [],
+								"bytes": 3614,
+								"type": "upload",
+								"etag": "eff1165cd7409dbf362764e94e581f64",
+								"placeholder": false,
+								"url": "http://res.cloudinary.com/q6a/image/upload/v1528436726/620fddb3-b509-be01-9a0e-13d8be8961d3/background_u7vlay.png",
+								"secure_url": "https://res.cloudinary.com/q6a/image/upload/v1528436726/620fddb3-b509-be01-9a0e-13d8be8961d3/background_u7vlay.png",
+								"access_mode": "public",
+								"existing": false,
+								"original_filename": "background",
+								"path": "v1528436726/620fddb3-b509-be01-9a0e-13d8be8961d3/background_u7vlay.png",
+								"thumbnail_url": "http://res.cloudinary.com/q6a/image/upload/c_limit,h_60,w_90/v1528436726/620fddb3-b509-be01-9a0e-13d8be8961d3/background_u7vlay.png",
+								"embed": {
+									"width": "w_200",
+									"height": "h_200",
+									"scale": false,
+									"fit": false,
+									"limit": false,
+									"crop": false,
+									"cropGravity": "",
+									"cropFixedX": "",
+									"cropFixedY": "",
+									"altText": "",
+									"seoSuffix": "background"
+								}
+							},
+							{
+								"public_id": "620fddb3-b509-be01-9a0e-13d8be8961d3/fillIn_uc9yow",
+								"version": 1528436736,
+								"signature": "346d354504b116bbdad924f2bb9bc797a441bc1f",
+								"width": 369,
+								"height": 286,
+								"format": "png",
+								"resource_type": "image",
+								"created_at": "2018-06-08T05:45:36Z",
+								"tags": [],
+								"bytes": 6841,
+								"type": "upload",
+								"etag": "c5a70383de4c088abab537fa4b85b51f",
+								"placeholder": false,
+								"url": "http://res.cloudinary.com/q6a/image/upload/v1528436736/620fddb3-b509-be01-9a0e-13d8be8961d3/fillIn_uc9yow.png",
+								"secure_url": "https://res.cloudinary.com/q6a/image/upload/v1528436736/620fddb3-b509-be01-9a0e-13d8be8961d3/fillIn_uc9yow.png",
+								"access_mode": "public",
+								"existing": false,
+								"original_filename": "fillIn",
+								"original_extension": "PNG",
+								"path": "v1528436736/620fddb3-b509-be01-9a0e-13d8be8961d3/fillIn_uc9yow.png",
+								"thumbnail_url": "http://res.cloudinary.com/q6a/image/upload/c_limit,h_60,w_90/v1528436736/620fddb3-b509-be01-9a0e-13d8be8961d3/fillIn_uc9yow.png",
+								"embed": {
+									"width": "w_200",
+									"height": "h_200",
+									"scale": false,
+									"fit": false,
+									"limit": false,
+									"crop": false,
+									"cropGravity": "",
+									"cropFixedX": "",
+									"cropFixedY": "",
+									"altText": "",
+									"seoSuffix": "fillin"
+								}
+							}
+						],
 						"fieldChildren": []
 					},
 					"fieldWorking": {
@@ -87,7 +159,74 @@
 					"fieldSpecific": {
 						"fieldInformation": "Video info",
 						"fieldKey": "Video key",
-						"fieldValues": [],
+						"fieldValues": [
+							{
+								"public_id": "Abstract_bp7lwe",
+								"version": 1528436702,
+								"signature": "0f32b6128b339ab0f688ab9f46fa664920964ecc",
+								"width": 1280,
+								"height": 720,
+								"format": "mp4",
+								"resource_type": "video",
+								"created_at": "2018-06-08T05:45:02Z",
+								"tags": [],
+								"pages": 0,
+								"bytes": 1786965,
+								"type": "upload",
+								"etag": "23a3648ad37632ccdd16dc5617961f82",
+								"placeholder": false,
+								"url": "http://res.cloudinary.com/q6a/video/upload/v1528436702/Abstract_bp7lwe.mp4",
+								"secure_url": "https://res.cloudinary.com/q6a/video/upload/v1528436702/Abstract_bp7lwe.mp4",
+								"access_mode": "public",
+								"existing": false,
+								"audio": {
+									"codec": "aac",
+									"bit_rate": "3132",
+									"frequency": 44100,
+									"channels": 2,
+									"channel_layout": "stereo"
+								},
+								"video": {
+									"pix_format": "yuv420p",
+									"codec": "h264",
+									"level": 30,
+									"profile": "Constrained Baseline",
+									"bit_rate": "3361380",
+									"dar": "16:9"
+								},
+								"is_audio": false,
+								"frame_rate": 29.97002997002997,
+								"bit_rate": 3364297,
+								"duration": 4.237567,
+								"rotation": 0,
+								"original_filename": "Abstract",
+								"path": "v1528436702/Abstract_bp7lwe.mp4",
+								"thumbnail_url": "http://res.cloudinary.com/q6a/video/upload/c_limit,h_60,w_90/v1528436702/Abstract_bp7lwe.jpg",
+								"captions": {},
+								"overlays": [
+									{
+										"public_id": "620fddb3-b509-be01-9a0e-13d8be8961d3/background_u7vlay",
+										"isAttached": true,
+										"start_offset": "0",
+										"end_offset": "2",
+										"x": "0",
+										"y": "0",
+										"width": "100",
+										"height": "10"
+									},
+									{
+										"public_id": "620fddb3-b509-be01-9a0e-13d8be8961d3/fillIn_uc9yow",
+										"isAttached": true,
+										"start_offset": "0",
+										"end_offset": "4",
+										"x": "200",
+										"y": "10",
+										"width": "100",
+										"height": "10"
+									}
+								]
+							}
+						],
 						"fieldChildren": []
 					},
 					"fieldWorking": {
