@@ -203,32 +203,18 @@
 								"path": "v1528782601/Abstract_dg4hfh.mp4",
 								"thumbnail_url": "http://res.cloudinary.com/q6a/video/upload/c_limit,h_60,w_90/v1528782601/Abstract_dg4hfh.jpg",
 								"captions": {
-									"size": 10,
+									"size": 30,
 									"color": {
-										"hsl": {
-											"h": 0.47058823529411764,
-											"s": 0,
-											"l": 1,
-											"a": 0.5
-										},
 										"hex": "#ffffff",
 										"rgb": {
 											"r": 255,
 											"g": 255,
 											"b": 255,
 											"a": 0.5
-										},
-										"hsv": {
-											"h": 0.47058823529411764,
-											"s": 0,
-											"v": 1,
-											"a": 0.5
-										},
-										"oldHue": 0.47058823529411764,
-										"source": "rgb"
+										}
 									},
 									"captionString": "\n1\n00:00:00,440 --> 00:00:02,375\nSenator, we're making\nour final approach into Coruscant.\n\n2\n00:00:02,476 --> 00:00:05,501\nVery good, Lieutenant.",
-									"font": "Tahoma",
+									"font": "Georgia",
 									"parsed": [
 										{
 											"start": 440,
@@ -254,7 +240,8 @@
 										"placeholder": false,
 										"url": "http://res.cloudinary.com/q6a/raw/upload/v1528786537/Abstract_dg4hfh_en.srt",
 										"secure_url": "https://res.cloudinary.com/q6a/raw/upload/v1528786537/Abstract_dg4hfh_en.srt",
-										"access_mode": "public"
+										"access_mode": "public",
+										"overwritten": true
 									},
 									"isAttached": true
 								},
