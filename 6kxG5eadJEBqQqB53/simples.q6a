@@ -31,7 +31,9 @@
 						"genericInformation": "Simple Label",
 						"genericChildren": [],
 						"genericKey": "Simple key",
-						"genericValues": []
+						"genericValues": [
+							"simple label"
+						]
 					},
 					"genericWorking": {
 						"genericOrderId": "",
