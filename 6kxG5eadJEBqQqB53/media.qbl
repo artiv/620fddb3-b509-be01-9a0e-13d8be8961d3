@@ -83,7 +83,21 @@
 									"cropFixedY": "",
 									"altText": "",
 									"seoSuffix": "background"
-								}
+								},
+								"overlays": [
+									{
+										"public_id": "620fddb3-b509-be01-9a0e-13d8be8961d3/background_ahidiq",
+										"isAttached": true,
+										"x": "0",
+										"y": "0",
+										"width": "10",
+										"height": "20",
+										"gravity": "north_west",
+										"crop": "scale",
+										"start_offset": "0",
+										"end_offset": "0"
+									}
+								]
 							},
 							{
 								"public_id": "620fddb3-b509-be01-9a0e-13d8be8961d3/material_vfe1jf",
@@ -119,7 +133,32 @@
 									"cropFixedY": "",
 									"altText": "",
 									"seoSuffix": "material"
-								}
+								},
+								"overlays": [
+									{
+										"text": "this is great",
+										"isText": true,
+										"font": "Arial",
+										"size": 12,
+										"color": {
+											"rgb": {
+												"r": 0,
+												"g": 0,
+												"b": 0,
+												"a": 1
+											}
+										},
+										"isAttached": true,
+										"x": "10",
+										"y": "10",
+										"width": "default",
+										"height": "default",
+										"gravity": "south",
+										"crop": "scale",
+										"start_offset": "0",
+										"end_offset": "0"
+									}
+								]
 							}
 						],
 						"fieldChildren": []
