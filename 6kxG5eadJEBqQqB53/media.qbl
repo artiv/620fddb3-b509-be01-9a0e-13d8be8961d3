@@ -156,7 +156,664 @@
 										"gravity": "south",
 										"crop": "scale",
 										"start_offset": "0",
-										"end_offset": "0"
+										"end_offset": "0",
+										"editor": {
+											"state": {
+												"_immutable": {
+													"allowUndo": true,
+													"currentContent": {
+														"entityMap": {},
+														"blockMap": {
+															"bun3o": {
+																"key": "bun3o",
+																"type": "unstyled",
+																"text": "मेरा नाम",
+																"characterList": [
+																	{
+																		"style": [
+																			"BOLD",
+																			"ITALIC"
+																		],
+																		"entity": null
+																	},
+																	{
+																		"style": [
+																			"BOLD",
+																			"ITALIC"
+																		],
+																		"entity": null
+																	},
+																	{
+																		"style": [
+																			"BOLD",
+																			"ITALIC"
+																		],
+																		"entity": null
+																	},
+																	{
+																		"style": [
+																			"BOLD",
+																			"ITALIC"
+																		],
+																		"entity": null
+																	},
+																	{
+																		"style": [
+																			"BOLD",
+																			"ITALIC"
+																		],
+																		"entity": null
+																	},
+																	{
+																		"style": [
+																			"BOLD",
+																			"ITALIC"
+																		],
+																		"entity": null
+																	},
+																	{
+																		"style": [
+																			"BOLD",
+																			"ITALIC"
+																		],
+																		"entity": null
+																	},
+																	{
+																		"style": [
+																			"BOLD",
+																			"ITALIC"
+																		],
+																		"entity": null
+																	}
+																],
+																"depth": 0,
+																"data": {}
+															},
+															"7esti": {
+																"key": "7esti",
+																"type": "unstyled",
+																"text": "राम",
+																"characterList": [
+																	{
+																		"style": [
+																			"BOLD",
+																			"ITALIC"
+																		],
+																		"entity": null
+																	},
+																	{
+																		"style": [
+																			"BOLD",
+																			"ITALIC"
+																		],
+																		"entity": null
+																	},
+																	{
+																		"style": [
+																			"BOLD",
+																			"ITALIC"
+																		],
+																		"entity": null
+																	}
+																],
+																"depth": 0,
+																"data": {}
+															}
+														},
+														"selectionBefore": {
+															"anchorKey": "7esti",
+															"anchorOffset": 0,
+															"focusKey": "7esti",
+															"focusOffset": 0,
+															"isBackward": false,
+															"hasFocus": true
+														},
+														"selectionAfter": {
+															"anchorKey": "7esti",
+															"anchorOffset": 3,
+															"focusKey": "7esti",
+															"focusOffset": 3,
+															"isBackward": false,
+															"hasFocus": true
+														}
+													},
+													"decorator": {
+														"_decorators": [
+															{}
+														]
+													},
+													"directionMap": {
+														"bun3o": "LTR",
+														"7esti": "LTR"
+													},
+													"forceSelection": false,
+													"inCompositionMode": false,
+													"inlineStyleOverride": null,
+													"lastChangeType": "insert-characters",
+													"nativelyRenderedContent": null,
+													"redoStack": [],
+													"selection": {
+														"anchorKey": "7esti",
+														"anchorOffset": 3,
+														"focusKey": "7esti",
+														"focusOffset": 3,
+														"isBackward": false,
+														"hasFocus": false
+													},
+													"treeMap": {
+														"bun3o": [
+															{
+																"start": 0,
+																"end": 8,
+																"decoratorKey": null,
+																"leaves": [
+																	{
+																		"start": 0,
+																		"end": 8
+																	}
+																]
+															}
+														],
+														"7esti": [
+															{
+																"start": 0,
+																"end": 3,
+																"decoratorKey": null,
+																"leaves": [
+																	{
+																		"start": 0,
+																		"end": 3
+																	}
+																]
+															}
+														]
+													},
+													"undoStack": [
+														{
+															"entityMap": {},
+															"blockMap": {
+																"bun3o": {
+																	"key": "bun3o",
+																	"type": "unstyled",
+																	"text": "मेरा नाम",
+																	"characterList": [
+																		{
+																			"style": [
+																				"BOLD",
+																				"ITALIC"
+																			],
+																			"entity": null
+																		},
+																		{
+																			"style": [
+																				"BOLD",
+																				"ITALIC"
+																			],
+																			"entity": null
+																		},
+																		{
+																			"style": [
+																				"BOLD",
+																				"ITALIC"
+																			],
+																			"entity": null
+																		},
+																		{
+																			"style": [
+																				"BOLD",
+																				"ITALIC"
+																			],
+																			"entity": null
+																		},
+																		{
+																			"style": [
+																				"BOLD",
+																				"ITALIC"
+																			],
+																			"entity": null
+																		},
+																		{
+																			"style": [
+																				"BOLD",
+																				"ITALIC"
+																			],
+																			"entity": null
+																		},
+																		{
+																			"style": [
+																				"BOLD",
+																				"ITALIC"
+																			],
+																			"entity": null
+																		},
+																		{
+																			"style": [
+																				"BOLD",
+																				"ITALIC"
+																			],
+																			"entity": null
+																		}
+																	],
+																	"depth": 0,
+																	"data": {}
+																},
+																"7esti": {
+																	"key": "7esti",
+																	"type": "unstyled",
+																	"text": "",
+																	"characterList": [],
+																	"depth": 0,
+																	"data": {}
+																}
+															},
+															"selectionBefore": {
+																"anchorKey": "bun3o",
+																"anchorOffset": 8,
+																"focusKey": "bun3o",
+																"focusOffset": 8,
+																"isBackward": false,
+																"hasFocus": true
+															},
+															"selectionAfter": {
+																"anchorKey": "7esti",
+																"anchorOffset": 0,
+																"focusKey": "7esti",
+																"focusOffset": 0,
+																"isBackward": false,
+																"hasFocus": true
+															}
+														},
+														{
+															"entityMap": {},
+															"blockMap": {
+																"bun3o": {
+																	"key": "bun3o",
+																	"type": "unstyled",
+																	"text": "मेरा नाम",
+																	"characterList": [
+																		{
+																			"style": [
+																				"BOLD",
+																				"ITALIC"
+																			],
+																			"entity": null
+																		},
+																		{
+																			"style": [
+																				"BOLD",
+																				"ITALIC"
+																			],
+																			"entity": null
+																		},
+																		{
+																			"style": [
+																				"BOLD",
+																				"ITALIC"
+																			],
+																			"entity": null
+																		},
+																		{
+																			"style": [
+																				"BOLD",
+																				"ITALIC"
+																			],
+																			"entity": null
+																		},
+																		{
+																			"style": [
+																				"BOLD",
+																				"ITALIC"
+																			],
+																			"entity": null
+																		},
+																		{
+																			"style": [
+																				"BOLD",
+																				"ITALIC"
+																			],
+																			"entity": null
+																		},
+																		{
+																			"style": [
+																				"BOLD",
+																				"ITALIC"
+																			],
+																			"entity": null
+																		},
+																		{
+																			"style": [
+																				"BOLD",
+																				"ITALIC"
+																			],
+																			"entity": null
+																		}
+																	],
+																	"depth": 0,
+																	"data": {}
+																}
+															},
+															"selectionBefore": {
+																"anchorKey": "bun3o",
+																"anchorOffset": 7,
+																"focusKey": "bun3o",
+																"focusOffset": 7,
+																"isBackward": false,
+																"hasFocus": true
+															},
+															"selectionAfter": {
+																"anchorKey": "bun3o",
+																"anchorOffset": 8,
+																"focusKey": "bun3o",
+																"focusOffset": 8,
+																"isBackward": false,
+																"hasFocus": true
+															}
+														},
+														{
+															"entityMap": {},
+															"blockMap": {
+																"bun3o": {
+																	"key": "bun3o",
+																	"type": "unstyled",
+																	"text": "मेरा ना",
+																	"characterList": [
+																		{
+																			"style": [
+																				"BOLD",
+																				"ITALIC"
+																			],
+																			"entity": null
+																		},
+																		{
+																			"style": [
+																				"BOLD",
+																				"ITALIC"
+																			],
+																			"entity": null
+																		},
+																		{
+																			"style": [
+																				"BOLD",
+																				"ITALIC"
+																			],
+																			"entity": null
+																		},
+																		{
+																			"style": [
+																				"BOLD",
+																				"ITALIC"
+																			],
+																			"entity": null
+																		},
+																		{
+																			"style": [
+																				"BOLD",
+																				"ITALIC"
+																			],
+																			"entity": null
+																		},
+																		{
+																			"style": [
+																				"BOLD",
+																				"ITALIC"
+																			],
+																			"entity": null
+																		},
+																		{
+																			"style": [
+																				"BOLD",
+																				"ITALIC"
+																			],
+																			"entity": null
+																		}
+																	],
+																	"depth": 0,
+																	"data": {}
+																}
+															},
+															"selectionBefore": {
+																"anchorKey": "bun3o",
+																"anchorOffset": 0,
+																"focusKey": "bun3o",
+																"focusOffset": 7,
+																"isBackward": false,
+																"hasFocus": false
+															},
+															"selectionAfter": {
+																"anchorKey": "bun3o",
+																"anchorOffset": 0,
+																"focusKey": "bun3o",
+																"focusOffset": 7,
+																"isBackward": false,
+																"hasFocus": false
+															}
+														},
+														{
+															"entityMap": {},
+															"blockMap": {
+																"bun3o": {
+																	"key": "bun3o",
+																	"type": "unstyled",
+																	"text": "मेरा ना",
+																	"characterList": [
+																		{
+																			"style": [
+																				"BOLD"
+																			],
+																			"entity": null
+																		},
+																		{
+																			"style": [
+																				"BOLD"
+																			],
+																			"entity": null
+																		},
+																		{
+																			"style": [
+																				"BOLD"
+																			],
+																			"entity": null
+																		},
+																		{
+																			"style": [
+																				"BOLD"
+																			],
+																			"entity": null
+																		},
+																		{
+																			"style": [
+																				"BOLD"
+																			],
+																			"entity": null
+																		},
+																		{
+																			"style": [
+																				"BOLD"
+																			],
+																			"entity": null
+																		},
+																		{
+																			"style": [
+																				"BOLD"
+																			],
+																			"entity": null
+																		}
+																	],
+																	"depth": 0,
+																	"data": {}
+																}
+															},
+															"selectionBefore": {
+																"anchorKey": "bun3o",
+																"anchorOffset": 0,
+																"focusKey": "bun3o",
+																"focusOffset": 7,
+																"isBackward": false,
+																"hasFocus": false
+															},
+															"selectionAfter": {
+																"anchorKey": "bun3o",
+																"anchorOffset": 0,
+																"focusKey": "bun3o",
+																"focusOffset": 7,
+																"isBackward": false,
+																"hasFocus": false
+															}
+														},
+														{
+															"entityMap": {},
+															"blockMap": {
+																"bun3o": {
+																	"key": "bun3o",
+																	"type": "unstyled",
+																	"text": "मेरा ना",
+																	"characterList": [
+																		{
+																			"style": [],
+																			"entity": null
+																		},
+																		{
+																			"style": [],
+																			"entity": null
+																		},
+																		{
+																			"style": [],
+																			"entity": null
+																		},
+																		{
+																			"style": [],
+																			"entity": null
+																		},
+																		{
+																			"style": [],
+																			"entity": null
+																		},
+																		{
+																			"style": [],
+																			"entity": null
+																		},
+																		{
+																			"style": [],
+																			"entity": null
+																		}
+																	],
+																	"depth": 0,
+																	"data": {}
+																}
+															},
+															"selectionBefore": {
+																"anchorKey": "bun3o",
+																"anchorOffset": 0,
+																"focusKey": "bun3o",
+																"focusOffset": 0,
+																"isBackward": false,
+																"hasFocus": true
+															},
+															"selectionAfter": {
+																"anchorKey": "bun3o",
+																"anchorOffset": 7,
+																"focusKey": "bun3o",
+																"focusOffset": 7,
+																"isBackward": false,
+																"hasFocus": true
+															}
+														},
+														{
+															"entityMap": {},
+															"blockMap": {
+																"bun3o": {
+																	"key": "bun3o",
+																	"type": "unstyled",
+																	"text": "",
+																	"characterList": [],
+																	"depth": 0,
+																	"data": {}
+																}
+															},
+															"selectionBefore": {
+																"anchorKey": "bun3o",
+																"anchorOffset": 0,
+																"focusKey": "bun3o",
+																"focusOffset": 0,
+																"isBackward": false,
+																"hasFocus": false
+															},
+															"selectionAfter": {
+																"anchorKey": "bun3o",
+																"anchorOffset": 0,
+																"focusKey": "bun3o",
+																"focusOffset": 0,
+																"isBackward": false,
+																"hasFocus": false
+															}
+														}
+													]
+												}
+											},
+											"previousInlineStyle": {
+												"BOLD": true,
+												"ITALIC": true,
+												"UNDERLINE": false,
+												"STRIKETHROUGH": false,
+												"CODE": false,
+												"SUPERSCRIPT": false,
+												"SUBSCRIPT": false
+											},
+											"context": "",
+											"language": "hi",
+											"inputMethod": "hi-phonetic"
+										},
+										"editorContent": {
+											"entityMap": {},
+											"blocks": [
+												{
+													"key": "bun3o",
+													"text": "मेरा नाम",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [
+														{
+															"offset": 0,
+															"length": 8,
+															"style": "BOLD"
+														},
+														{
+															"offset": 0,
+															"length": 8,
+															"style": "ITALIC"
+														}
+													],
+													"entityRanges": [],
+													"data": {}
+												},
+												{
+													"key": "7esti",
+													"text": "राम",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [
+														{
+															"offset": 0,
+															"length": 3,
+															"style": "BOLD"
+														},
+														{
+															"offset": 0,
+															"length": 3,
+															"style": "ITALIC"
+														}
+													],
+													"entityRanges": [],
+													"data": {}
+												}
+											]
+										},
+										"inlineStyle": {
+											"BOLD": true,
+											"ITALIC": true,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false
+										}
 									}
 								]
 							}
@@ -306,7 +963,901 @@
 										"width": "10",
 										"height": "10",
 										"gravity": "north_west",
-										"crop": "scale"
+										"crop": "scale",
+										"editor": {
+											"state": {
+												"_immutable": {
+													"allowUndo": true,
+													"currentContent": {
+														"entityMap": {},
+														"blockMap": {
+															"3ulgi": {
+																"key": "3ulgi",
+																"type": "unstyled",
+																"text": "ামার নাম",
+																"characterList": [
+																	{
+																		"style": [
+																			"UNDERLINE",
+																			"STRIKETHROUGH",
+																			"BOLD",
+																			"ITALIC"
+																		],
+																		"entity": null
+																	},
+																	{
+																		"style": [
+																			"UNDERLINE",
+																			"STRIKETHROUGH",
+																			"BOLD",
+																			"ITALIC"
+																		],
+																		"entity": null
+																	},
+																	{
+																		"style": [
+																			"UNDERLINE",
+																			"STRIKETHROUGH",
+																			"BOLD",
+																			"ITALIC"
+																		],
+																		"entity": null
+																	},
+																	{
+																		"style": [
+																			"UNDERLINE",
+																			"STRIKETHROUGH",
+																			"BOLD",
+																			"ITALIC"
+																		],
+																		"entity": null
+																	},
+																	{
+																		"style": [
+																			"UNDERLINE",
+																			"STRIKETHROUGH",
+																			"BOLD",
+																			"ITALIC"
+																		],
+																		"entity": null
+																	},
+																	{
+																		"style": [
+																			"UNDERLINE",
+																			"STRIKETHROUGH",
+																			"BOLD",
+																			"ITALIC"
+																		],
+																		"entity": null
+																	},
+																	{
+																		"style": [
+																			"UNDERLINE",
+																			"STRIKETHROUGH",
+																			"BOLD",
+																			"ITALIC"
+																		],
+																		"entity": null
+																	},
+																	{
+																		"style": [
+																			"UNDERLINE",
+																			"STRIKETHROUGH",
+																			"BOLD",
+																			"ITALIC"
+																		],
+																		"entity": null
+																	}
+																],
+																"depth": 0,
+																"data": {}
+															}
+														},
+														"selectionBefore": {
+															"anchorKey": "3ulgi",
+															"anchorOffset": 0,
+															"focusKey": "3ulgi",
+															"focusOffset": 8,
+															"isBackward": false,
+															"hasFocus": false
+														},
+														"selectionAfter": {
+															"anchorKey": "3ulgi",
+															"anchorOffset": 0,
+															"focusKey": "3ulgi",
+															"focusOffset": 8,
+															"isBackward": false,
+															"hasFocus": false
+														}
+													},
+													"decorator": {
+														"_decorators": [
+															{}
+														]
+													},
+													"directionMap": {
+														"3ulgi": "LTR"
+													},
+													"forceSelection": true,
+													"inCompositionMode": false,
+													"inlineStyleOverride": null,
+													"lastChangeType": "change-inline-style",
+													"nativelyRenderedContent": null,
+													"redoStack": [],
+													"selection": {
+														"anchorKey": "3ulgi",
+														"anchorOffset": 8,
+														"focusKey": "3ulgi",
+														"focusOffset": 8,
+														"isBackward": false,
+														"hasFocus": true
+													},
+													"treeMap": {
+														"3ulgi": [
+															{
+																"start": 0,
+																"end": 8,
+																"decoratorKey": null,
+																"leaves": [
+																	{
+																		"start": 0,
+																		"end": 8
+																	}
+																]
+															}
+														]
+													},
+													"undoStack": [
+														{
+															"entityMap": {},
+															"blockMap": {
+																"3ulgi": {
+																	"key": "3ulgi",
+																	"type": "unstyled",
+																	"text": "ামার নাম",
+																	"characterList": [
+																		{
+																			"style": [
+																				"UNDERLINE",
+																				"STRIKETHROUGH",
+																				"BOLD"
+																			],
+																			"entity": null
+																		},
+																		{
+																			"style": [
+																				"UNDERLINE",
+																				"STRIKETHROUGH",
+																				"BOLD"
+																			],
+																			"entity": null
+																		},
+																		{
+																			"style": [
+																				"UNDERLINE",
+																				"STRIKETHROUGH",
+																				"BOLD"
+																			],
+																			"entity": null
+																		},
+																		{
+																			"style": [
+																				"UNDERLINE",
+																				"STRIKETHROUGH",
+																				"BOLD"
+																			],
+																			"entity": null
+																		},
+																		{
+																			"style": [
+																				"UNDERLINE",
+																				"STRIKETHROUGH",
+																				"BOLD"
+																			],
+																			"entity": null
+																		},
+																		{
+																			"style": [
+																				"UNDERLINE",
+																				"STRIKETHROUGH",
+																				"BOLD"
+																			],
+																			"entity": null
+																		},
+																		{
+																			"style": [
+																				"UNDERLINE",
+																				"STRIKETHROUGH",
+																				"BOLD"
+																			],
+																			"entity": null
+																		},
+																		{
+																			"style": [
+																				"UNDERLINE",
+																				"STRIKETHROUGH",
+																				"BOLD"
+																			],
+																			"entity": null
+																		}
+																	],
+																	"depth": 0,
+																	"data": {}
+																}
+															},
+															"selectionBefore": {
+																"anchorKey": "3ulgi",
+																"anchorOffset": 0,
+																"focusKey": "3ulgi",
+																"focusOffset": 8,
+																"isBackward": false,
+																"hasFocus": false
+															},
+															"selectionAfter": {
+																"anchorKey": "3ulgi",
+																"anchorOffset": 0,
+																"focusKey": "3ulgi",
+																"focusOffset": 8,
+																"isBackward": false,
+																"hasFocus": false
+															}
+														},
+														{
+															"entityMap": {},
+															"blockMap": {
+																"3ulgi": {
+																	"key": "3ulgi",
+																	"type": "unstyled",
+																	"text": "ামার নাম",
+																	"characterList": [
+																		{
+																			"style": [
+																				"UNDERLINE",
+																				"STRIKETHROUGH"
+																			],
+																			"entity": null
+																		},
+																		{
+																			"style": [
+																				"UNDERLINE",
+																				"STRIKETHROUGH"
+																			],
+																			"entity": null
+																		},
+																		{
+																			"style": [
+																				"UNDERLINE",
+																				"STRIKETHROUGH"
+																			],
+																			"entity": null
+																		},
+																		{
+																			"style": [
+																				"UNDERLINE",
+																				"STRIKETHROUGH"
+																			],
+																			"entity": null
+																		},
+																		{
+																			"style": [
+																				"UNDERLINE",
+																				"STRIKETHROUGH"
+																			],
+																			"entity": null
+																		},
+																		{
+																			"style": [
+																				"UNDERLINE",
+																				"STRIKETHROUGH"
+																			],
+																			"entity": null
+																		},
+																		{
+																			"style": [
+																				"UNDERLINE",
+																				"STRIKETHROUGH"
+																			],
+																			"entity": null
+																		},
+																		{
+																			"style": [
+																				"UNDERLINE",
+																				"STRIKETHROUGH"
+																			],
+																			"entity": null
+																		}
+																	],
+																	"depth": 0,
+																	"data": {}
+																}
+															},
+															"selectionBefore": {
+																"anchorKey": "3ulgi",
+																"anchorOffset": 0,
+																"focusKey": "3ulgi",
+																"focusOffset": 8,
+																"isBackward": false,
+																"hasFocus": false
+															},
+															"selectionAfter": {
+																"anchorKey": "3ulgi",
+																"anchorOffset": 0,
+																"focusKey": "3ulgi",
+																"focusOffset": 8,
+																"isBackward": false,
+																"hasFocus": false
+															}
+														},
+														{
+															"entityMap": {},
+															"blockMap": {
+																"3ulgi": {
+																	"key": "3ulgi",
+																	"type": "unstyled",
+																	"text": "ামার নাম",
+																	"characterList": [
+																		{
+																			"style": [
+																				"UNDERLINE"
+																			],
+																			"entity": null
+																		},
+																		{
+																			"style": [
+																				"UNDERLINE"
+																			],
+																			"entity": null
+																		},
+																		{
+																			"style": [
+																				"UNDERLINE"
+																			],
+																			"entity": null
+																		},
+																		{
+																			"style": [
+																				"UNDERLINE"
+																			],
+																			"entity": null
+																		},
+																		{
+																			"style": [
+																				"UNDERLINE"
+																			],
+																			"entity": null
+																		},
+																		{
+																			"style": [
+																				"UNDERLINE"
+																			],
+																			"entity": null
+																		},
+																		{
+																			"style": [
+																				"UNDERLINE"
+																			],
+																			"entity": null
+																		},
+																		{
+																			"style": [
+																				"UNDERLINE"
+																			],
+																			"entity": null
+																		}
+																	],
+																	"depth": 0,
+																	"data": {}
+																}
+															},
+															"selectionBefore": {
+																"anchorKey": "3ulgi",
+																"anchorOffset": 0,
+																"focusKey": "3ulgi",
+																"focusOffset": 8,
+																"isBackward": false,
+																"hasFocus": false
+															},
+															"selectionAfter": {
+																"anchorKey": "3ulgi",
+																"anchorOffset": 0,
+																"focusKey": "3ulgi",
+																"focusOffset": 8,
+																"isBackward": false,
+																"hasFocus": false
+															}
+														},
+														{
+															"entityMap": {},
+															"blockMap": {
+																"3ulgi": {
+																	"key": "3ulgi",
+																	"type": "unstyled",
+																	"text": "ামার নাম",
+																	"characterList": [
+																		{
+																			"style": [
+																				"ITALIC",
+																				"UNDERLINE"
+																			],
+																			"entity": null
+																		},
+																		{
+																			"style": [
+																				"ITALIC",
+																				"UNDERLINE"
+																			],
+																			"entity": null
+																		},
+																		{
+																			"style": [
+																				"ITALIC",
+																				"UNDERLINE"
+																			],
+																			"entity": null
+																		},
+																		{
+																			"style": [
+																				"ITALIC",
+																				"UNDERLINE"
+																			],
+																			"entity": null
+																		},
+																		{
+																			"style": [
+																				"ITALIC",
+																				"UNDERLINE"
+																			],
+																			"entity": null
+																		},
+																		{
+																			"style": [
+																				"ITALIC",
+																				"UNDERLINE"
+																			],
+																			"entity": null
+																		},
+																		{
+																			"style": [
+																				"ITALIC",
+																				"UNDERLINE"
+																			],
+																			"entity": null
+																		},
+																		{
+																			"style": [
+																				"ITALIC",
+																				"UNDERLINE"
+																			],
+																			"entity": null
+																		}
+																	],
+																	"depth": 0,
+																	"data": {}
+																}
+															},
+															"selectionBefore": {
+																"anchorKey": "3ulgi",
+																"anchorOffset": 0,
+																"focusKey": "3ulgi",
+																"focusOffset": 8,
+																"isBackward": false,
+																"hasFocus": false
+															},
+															"selectionAfter": {
+																"anchorKey": "3ulgi",
+																"anchorOffset": 0,
+																"focusKey": "3ulgi",
+																"focusOffset": 8,
+																"isBackward": false,
+																"hasFocus": false
+															}
+														},
+														{
+															"entityMap": {},
+															"blockMap": {
+																"3ulgi": {
+																	"key": "3ulgi",
+																	"type": "unstyled",
+																	"text": "ামার নাম",
+																	"characterList": [
+																		{
+																			"style": [
+																				"BOLD",
+																				"ITALIC",
+																				"UNDERLINE"
+																			],
+																			"entity": null
+																		},
+																		{
+																			"style": [
+																				"BOLD",
+																				"ITALIC",
+																				"UNDERLINE"
+																			],
+																			"entity": null
+																		},
+																		{
+																			"style": [
+																				"BOLD",
+																				"ITALIC",
+																				"UNDERLINE"
+																			],
+																			"entity": null
+																		},
+																		{
+																			"style": [
+																				"BOLD",
+																				"ITALIC",
+																				"UNDERLINE"
+																			],
+																			"entity": null
+																		},
+																		{
+																			"style": [
+																				"BOLD",
+																				"ITALIC",
+																				"UNDERLINE"
+																			],
+																			"entity": null
+																		},
+																		{
+																			"style": [
+																				"BOLD",
+																				"ITALIC",
+																				"UNDERLINE"
+																			],
+																			"entity": null
+																		},
+																		{
+																			"style": [
+																				"BOLD",
+																				"ITALIC",
+																				"UNDERLINE"
+																			],
+																			"entity": null
+																		},
+																		{
+																			"style": [
+																				"BOLD",
+																				"ITALIC",
+																				"UNDERLINE"
+																			],
+																			"entity": null
+																		}
+																	],
+																	"depth": 0,
+																	"data": {}
+																}
+															},
+															"selectionBefore": {
+																"anchorKey": "3ulgi",
+																"anchorOffset": 0,
+																"focusKey": "3ulgi",
+																"focusOffset": 8,
+																"isBackward": false,
+																"hasFocus": false
+															},
+															"selectionAfter": {
+																"anchorKey": "3ulgi",
+																"anchorOffset": 0,
+																"focusKey": "3ulgi",
+																"focusOffset": 8,
+																"isBackward": false,
+																"hasFocus": false
+															}
+														},
+														{
+															"entityMap": {},
+															"blockMap": {
+																"3ulgi": {
+																	"key": "3ulgi",
+																	"type": "unstyled",
+																	"text": "ামার নাম",
+																	"characterList": [
+																		{
+																			"style": [
+																				"BOLD",
+																				"ITALIC"
+																			],
+																			"entity": null
+																		},
+																		{
+																			"style": [
+																				"BOLD",
+																				"ITALIC"
+																			],
+																			"entity": null
+																		},
+																		{
+																			"style": [
+																				"BOLD",
+																				"ITALIC"
+																			],
+																			"entity": null
+																		},
+																		{
+																			"style": [
+																				"BOLD",
+																				"ITALIC"
+																			],
+																			"entity": null
+																		},
+																		{
+																			"style": [
+																				"BOLD",
+																				"ITALIC"
+																			],
+																			"entity": null
+																		},
+																		{
+																			"style": [
+																				"BOLD",
+																				"ITALIC"
+																			],
+																			"entity": null
+																		},
+																		{
+																			"style": [
+																				"BOLD",
+																				"ITALIC"
+																			],
+																			"entity": null
+																		},
+																		{
+																			"style": [
+																				"BOLD",
+																				"ITALIC"
+																			],
+																			"entity": null
+																		}
+																	],
+																	"depth": 0,
+																	"data": {}
+																}
+															},
+															"selectionBefore": {
+																"anchorKey": "3ulgi",
+																"anchorOffset": 0,
+																"focusKey": "3ulgi",
+																"focusOffset": 8,
+																"isBackward": false,
+																"hasFocus": false
+															},
+															"selectionAfter": {
+																"anchorKey": "3ulgi",
+																"anchorOffset": 0,
+																"focusKey": "3ulgi",
+																"focusOffset": 8,
+																"isBackward": false,
+																"hasFocus": false
+															}
+														},
+														{
+															"entityMap": {},
+															"blockMap": {
+																"3ulgi": {
+																	"key": "3ulgi",
+																	"type": "unstyled",
+																	"text": "ামার নাম",
+																	"characterList": [
+																		{
+																			"style": [
+																				"BOLD"
+																			],
+																			"entity": null
+																		},
+																		{
+																			"style": [
+																				"BOLD"
+																			],
+																			"entity": null
+																		},
+																		{
+																			"style": [
+																				"BOLD"
+																			],
+																			"entity": null
+																		},
+																		{
+																			"style": [
+																				"BOLD"
+																			],
+																			"entity": null
+																		},
+																		{
+																			"style": [
+																				"BOLD"
+																			],
+																			"entity": null
+																		},
+																		{
+																			"style": [
+																				"BOLD"
+																			],
+																			"entity": null
+																		},
+																		{
+																			"style": [
+																				"BOLD"
+																			],
+																			"entity": null
+																		},
+																		{
+																			"style": [
+																				"BOLD"
+																			],
+																			"entity": null
+																		}
+																	],
+																	"depth": 0,
+																	"data": {}
+																}
+															},
+															"selectionBefore": {
+																"anchorKey": "3ulgi",
+																"anchorOffset": 0,
+																"focusKey": "3ulgi",
+																"focusOffset": 8,
+																"isBackward": false,
+																"hasFocus": false
+															},
+															"selectionAfter": {
+																"anchorKey": "3ulgi",
+																"anchorOffset": 0,
+																"focusKey": "3ulgi",
+																"focusOffset": 8,
+																"isBackward": false,
+																"hasFocus": false
+															}
+														},
+														{
+															"entityMap": {},
+															"blockMap": {
+																"3ulgi": {
+																	"key": "3ulgi",
+																	"type": "unstyled",
+																	"text": "ামার নাম",
+																	"characterList": [
+																		{
+																			"style": [],
+																			"entity": null
+																		},
+																		{
+																			"style": [],
+																			"entity": null
+																		},
+																		{
+																			"style": [],
+																			"entity": null
+																		},
+																		{
+																			"style": [],
+																			"entity": null
+																		},
+																		{
+																			"style": [],
+																			"entity": null
+																		},
+																		{
+																			"style": [],
+																			"entity": null
+																		},
+																		{
+																			"style": [],
+																			"entity": null
+																		},
+																		{
+																			"style": [],
+																			"entity": null
+																		}
+																	],
+																	"depth": 0,
+																	"data": {}
+																}
+															},
+															"selectionBefore": {
+																"anchorKey": "3ulgi",
+																"anchorOffset": 0,
+																"focusKey": "3ulgi",
+																"focusOffset": 0,
+																"isBackward": false,
+																"hasFocus": true
+															},
+															"selectionAfter": {
+																"anchorKey": "3ulgi",
+																"anchorOffset": 8,
+																"focusKey": "3ulgi",
+																"focusOffset": 8,
+																"isBackward": false,
+																"hasFocus": true
+															}
+														},
+														{
+															"entityMap": {},
+															"blockMap": {
+																"3ulgi": {
+																	"key": "3ulgi",
+																	"type": "unstyled",
+																	"text": "",
+																	"characterList": [],
+																	"depth": 0,
+																	"data": {}
+																}
+															},
+															"selectionBefore": {
+																"anchorKey": "3ulgi",
+																"anchorOffset": 0,
+																"focusKey": "3ulgi",
+																"focusOffset": 0,
+																"isBackward": false,
+																"hasFocus": false
+															},
+															"selectionAfter": {
+																"anchorKey": "3ulgi",
+																"anchorOffset": 0,
+																"focusKey": "3ulgi",
+																"focusOffset": 0,
+																"isBackward": false,
+																"hasFocus": false
+															}
+														}
+													]
+												}
+											},
+											"previousInlineStyle": {
+												"BOLD": false,
+												"ITALIC": false,
+												"UNDERLINE": true,
+												"STRIKETHROUGH": true,
+												"CODE": false,
+												"SUPERSCRIPT": false,
+												"SUBSCRIPT": false
+											},
+											"context": "",
+											"language": "bn",
+											"inputMethod": "bn-probhat"
+										},
+										"editorContent": {
+											"entityMap": {},
+											"blocks": [
+												{
+													"key": "3ulgi",
+													"text": "ামার নাম",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [
+														{
+															"offset": 0,
+															"length": 8,
+															"style": "UNDERLINE"
+														},
+														{
+															"offset": 0,
+															"length": 8,
+															"style": "STRIKETHROUGH"
+														},
+														{
+															"offset": 0,
+															"length": 8,
+															"style": "BOLD"
+														},
+														{
+															"offset": 0,
+															"length": 8,
+															"style": "ITALIC"
+														}
+													],
+													"entityRanges": [],
+													"data": {}
+												}
+											]
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": true,
+											"STRIKETHROUGH": true
+										}
 									},
 									{
 										"public_id": "620fddb3-b509-be01-9a0e-13d8be8961d3/background_ahidiq",
