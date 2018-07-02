@@ -49,7 +49,44 @@
 					"fieldSpecific": {
 						"fieldInformation": "image info",
 						"fieldKey": "image key",
-						"fieldValues": [],
+						"fieldValues": [
+							{
+								"public_id": "620fddb3-b509-be01-9a0e-13d8be8961d3/white_jp36lm",
+								"version": 1530563463,
+								"signature": "cb8ddf6933cf73c932b2b59fb96b1530db0659ba",
+								"width": 1152,
+								"height": 648,
+								"format": "png",
+								"resource_type": "image",
+								"created_at": "2018-07-02T20:31:03Z",
+								"tags": [],
+								"bytes": 3614,
+								"type": "upload",
+								"etag": "e408f313c853424c9f572865462729fd",
+								"placeholder": false,
+								"url": "http://res.cloudinary.com/q6a/image/upload/v1530563463/620fddb3-b509-be01-9a0e-13d8be8961d3/white_jp36lm.png",
+								"secure_url": "https://res.cloudinary.com/q6a/image/upload/v1530563463/620fddb3-b509-be01-9a0e-13d8be8961d3/white_jp36lm.png",
+								"access_mode": "public",
+								"existing": false,
+								"original_filename": "white",
+								"path": "v1530563463/620fddb3-b509-be01-9a0e-13d8be8961d3/white_jp36lm.png",
+								"thumbnail_url": "http://res.cloudinary.com/q6a/image/upload/c_limit,h_60,w_90/v1530563463/620fddb3-b509-be01-9a0e-13d8be8961d3/white_jp36lm.png",
+								"overlays": [],
+								"embed": {
+									"width": "w_200",
+									"height": "h_200",
+									"scale": false,
+									"fit": false,
+									"limit": false,
+									"crop": false,
+									"cropGravity": "",
+									"cropFixedX": "",
+									"cropFixedY": "",
+									"altText": "",
+									"seoSuffix": "white"
+								}
+							}
+						],
 						"fieldChildren": []
 					},
 					"fieldWorking": {
