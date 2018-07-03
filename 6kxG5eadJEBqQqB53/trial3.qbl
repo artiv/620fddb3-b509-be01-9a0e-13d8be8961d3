@@ -71,7 +71,110 @@
 								"original_filename": "black",
 								"path": "v1530604703/620fddb3-b509-be01-9a0e-13d8be8961d3/black_xmax6b.png",
 								"thumbnail_url": "http://res.cloudinary.com/q6a/image/upload/c_limit,h_60,w_90/v1530604703/620fddb3-b509-be01-9a0e-13d8be8961d3/black_xmax6b.png",
-								"overlays": [],
+								"overlays": [
+									{
+										"isText": true,
+										"font": "Impact",
+										"size": 24,
+										"color": {
+											"hex": "#ffffff",
+											"rgb": {
+												"r": 255,
+												"g": 255,
+												"b": 255,
+												"a": 1
+											}
+										},
+										"isAttached": true,
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"gravity": "north_west",
+										"crop": "scale",
+										"editorContent": {
+											"entityMap": {},
+											"blocks": [
+												{
+													"key": "dcb0n",
+													"text": "my name",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [
+														{
+															"offset": 0,
+															"length": 7,
+															"style": "UNDERLINE"
+														},
+														{
+															"offset": 0,
+															"length": 7,
+															"style": "STRIKETHROUGH"
+														},
+														{
+															"offset": 0,
+															"length": 7,
+															"style": "fontfamily-Impact"
+														},
+														{
+															"offset": 0,
+															"length": 7,
+															"style": "fontsize-24"
+														}
+													],
+													"entityRanges": [],
+													"data": {
+														"text-align": "right"
+													}
+												},
+												{
+													"key": "2u2it",
+													"text": "मेरा नाम",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [
+														{
+															"offset": 0,
+															"length": 8,
+															"style": "UNDERLINE"
+														},
+														{
+															"offset": 0,
+															"length": 8,
+															"style": "STRIKETHROUGH"
+														},
+														{
+															"offset": 0,
+															"length": 8,
+															"style": "fontfamily-Impact"
+														},
+														{
+															"offset": 0,
+															"length": 8,
+															"style": "fontsize-24"
+														}
+													],
+													"entityRanges": [],
+													"data": {
+														"text-align": "right"
+													}
+												}
+											]
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": true,
+											"STRIKETHROUGH": true
+										},
+										"textAlignment": "right",
+										"editorOthers": {
+											"language": "hi",
+											"inputMethod": "hi-phonetic"
+										},
+										"text": "my name\nमेरा नाम"
+									}
+								],
 								"embed": {
 									"width": "w_200",
 									"height": "h_200",
