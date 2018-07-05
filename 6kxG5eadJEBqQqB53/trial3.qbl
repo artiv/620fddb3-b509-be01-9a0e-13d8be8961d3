@@ -227,7 +227,53 @@
 					"fieldSpecific": {
 						"fieldInformation": "Video info",
 						"fieldKey": "Video key",
-						"fieldValues": [],
+						"fieldValues": [
+							{
+								"public_id": "videoplayback_hfrjas",
+								"version": 1530767477,
+								"signature": "44a753e3f060ca57707b5b0642b498384eb9f375",
+								"width": 480,
+								"height": 360,
+								"format": "mp4",
+								"resource_type": "video",
+								"created_at": "2018-07-05T05:11:17Z",
+								"tags": [],
+								"pages": 0,
+								"bytes": 1398635,
+								"type": "upload",
+								"etag": "323bb8e393e9654e4c88af020b0ff00c",
+								"placeholder": false,
+								"url": "http://res.cloudinary.com/dd0ysfi1v/video/upload/v1530767477/videoplayback_hfrjas.mp4",
+								"secure_url": "https://res.cloudinary.com/dd0ysfi1v/video/upload/v1530767477/videoplayback_hfrjas.mp4",
+								"access_mode": "public",
+								"existing": false,
+								"audio": {
+									"codec": "aac",
+									"bit_rate": "95999",
+									"frequency": 44100,
+									"channels": 2,
+									"channel_layout": "stereo"
+								},
+								"video": {
+									"pix_format": "yuv420p",
+									"codec": "h264",
+									"level": 21,
+									"profile": "Constrained Baseline",
+									"bit_rate": "273006",
+									"dar": "4:3"
+								},
+								"is_audio": false,
+								"frame_rate": 24,
+								"bit_rate": 371257,
+								"duration": 30.083333,
+								"rotation": 0,
+								"original_filename": "videoplayback",
+								"path": "v1530767477/videoplayback_hfrjas.mp4",
+								"thumbnail_url": "http://res.cloudinary.com/dd0ysfi1v/video/upload/c_limit,h_60,w_90/v1530767477/videoplayback_hfrjas.jpg",
+								"captions": {},
+								"overlays": []
+							}
+						],
 						"fieldChildren": []
 					},
 					"fieldWorking": {
