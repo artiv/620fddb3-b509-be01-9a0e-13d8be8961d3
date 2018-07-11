@@ -20,7 +20,143 @@
 			]
 		},
 		"fileTemplateStructure": {
-			"fileTemplateGenerics": [],
+			"fileTemplateGenerics": [
+				{
+					"genericGeneral": {
+						"genericGuid": "12f3398c-f7d7-f780-a0a4-df6923394c34",
+						"genericType": "genericText",
+						"genericIsVisibleCollections": [
+							"6kxG5eadJEBqQqB53"
+						],
+						"genericIsEditableCollections": [
+							"6kxG5eadJEBqQqB53"
+						],
+						"genericIsRequiredCollections": [
+							"6kxG5eadJEBqQqB53"
+						],
+						"genericIsMultipleCollections": [
+							"6kxG5eadJEBqQqB53"
+						]
+					},
+					"genericMeta": {
+						"genericCanTranslate": true,
+						"genericCanParent": false,
+						"genericCanChild": false
+					},
+					"genericSpecific": {
+						"genericInformation": "Text info",
+						"genericChildren": [],
+						"genericKey": "Text key",
+						"genericValues": []
+					},
+					"genericWorking": {
+						"genericOrderId": "",
+						"genericOrderComment": "",
+						"specificOrderComment": "",
+						"genericJobId": "",
+						"genericJobStatus": "",
+						"genericJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"genericGeneral": {
+						"genericGuid": "b3b64639-a6dd-f486-b939-46427e355f80",
+						"genericType": "simpleLabel",
+						"genericIsVisibleCollections": [
+							"6kxG5eadJEBqQqB53"
+						],
+						"genericIsEditableCollections": [],
+						"genericIsRequiredCollections": [],
+						"genericIsMultipleCollections": []
+					},
+					"genericMeta": {
+						"genericCanTranslate": true,
+						"genericCanParent": false,
+						"genericCanChild": false
+					},
+					"genericSpecific": {
+						"genericInformation": "Simple Name",
+						"genericChildren": [],
+						"genericKey": "Simple key",
+						"genericValues": [
+							"Simple label"
+						]
+					},
+					"genericWorking": {
+						"genericOrderId": "",
+						"genericOrderComment": "",
+						"specificOrderComment": "",
+						"genericJobId": "",
+						"genericJobStatus": "",
+						"genericJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"genericGeneral": {
+						"genericGuid": "8a2951e7-c00b-2cb0-f050-a6b5274d4005",
+						"genericType": "simpleBlurb",
+						"genericIsVisibleCollections": [
+							"6kxG5eadJEBqQqB53"
+						],
+						"genericIsEditableCollections": [],
+						"genericIsRequiredCollections": [],
+						"genericIsMultipleCollections": []
+					},
+					"genericMeta": {
+						"genericCanTranslate": true,
+						"genericCanParent": false,
+						"genericCanChild": false
+					},
+					"genericSpecific": {
+						"genericInformation": "Simple Blurb",
+						"genericChildren": [],
+						"genericKey": "Blurb key",
+						"genericValues": [
+							{
+								"entityMap": {},
+								"blocks": [
+									{
+										"key": "c6o69",
+										"text": "This is  a blurb",
+										"type": "unstyled",
+										"depth": 0,
+										"inlineStyleRanges": [
+											{
+												"offset": 0,
+												"length": 16,
+												"style": "BOLD"
+											},
+											{
+												"offset": 5,
+												"length": 11,
+												"style": "ITALIC"
+											},
+											{
+												"offset": 10,
+												"length": 6,
+												"style": "UNDERLINE"
+											}
+										],
+										"entityRanges": [],
+										"data": {}
+									}
+								]
+							}
+						]
+					},
+					"genericWorking": {
+						"genericOrderId": "",
+						"genericOrderComment": "",
+						"specificOrderComment": "",
+						"genericJobId": "",
+						"genericJobStatus": "",
+						"genericJobComment": "",
+						"specificJobComment": ""
+					}
+				}
+			],
 			"fileTemplateFields": [
 				{
 					"fieldGeneral": {
@@ -85,44 +221,6 @@
 					"fieldSpecific": {
 						"fieldInformation": "Video info",
 						"fieldKey": "Video key",
-						"fieldValues": [],
-						"fieldChildren": []
-					},
-					"fieldWorking": {
-						"fieldOrderId": "",
-						"fieldOrderComment": "",
-						"specificOrderComment": "",
-						"fieldJobId": "",
-						"fieldJobStatus": "",
-						"fieldJobComment": "",
-						"specificJobComment": ""
-					}
-				},
-				{
-					"fieldGeneral": {
-						"fieldGuid": "351f186b-aa57-97f4-52ab-1b652805c4b8",
-						"fieldType": "fieldVideo",
-						"fieldIsVisibleCollections": [
-							"6kxG5eadJEBqQqB53"
-						],
-						"fieldIsEditableCollections": [
-							"6kxG5eadJEBqQqB53"
-						],
-						"fieldIsRequiredCollections": [
-							"6kxG5eadJEBqQqB53"
-						],
-						"fieldIsMultipleCollections": [
-							"6kxG5eadJEBqQqB53"
-						]
-					},
-					"fieldMeta": {
-						"fieldCanTranslate": true,
-						"fieldCanParent": false,
-						"fieldCanChild": false
-					},
-					"fieldSpecific": {
-						"fieldInformation": "Video 2 info",
-						"fieldKey": "Video 2 key",
 						"fieldValues": [],
 						"fieldChildren": []
 					},
