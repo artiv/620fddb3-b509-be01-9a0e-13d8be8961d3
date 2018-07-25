@@ -1,0 +1,283 @@
+{
+	"fileName": "fieldI.qbl",
+	"fileTemplateRepo": "620fddb3-b509-be01-9a0e-13d8be8961d3",
+	"fileTemplatePath": "6kxG5eadJEBqQqB53/field.q6a",
+	"fileItem": {
+		"fileItemGeneral": {
+			"fileItemGuid": "f143fd27-7218-b3b1-c820-44e30511c358",
+			"fileItemDate": "2018-07-25T09:24:46.253Z",
+			"fileItemCollections": [
+				"6kxG5eadJEBqQqB53"
+			],
+			"fileItemCollectionsForTranslation": [
+				"6kxG5eadJEBqQqB53"
+			]
+		},
+		"fileItemLanguage": {
+			"primaryLanguage": "Kr46i9NCz2eC3AKZF",
+			"possibleLanguages": [
+				"Kr46i9NCz2eC3AKZF",
+				"CSvHqEtb2ioM9HqoW",
+				"ZoQFW7jMymxckSQsv"
+			]
+		},
+		"fileItemStructure": {
+			"fileItemGenerics": [
+				{
+					"genericGeneral": {
+						"genericGuid": "12f3398c-f7d7-f780-a0a4-df6923394c34",
+						"genericType": "genericText",
+						"genericIsVisibleCollections": [
+							"6kxG5eadJEBqQqB53"
+						],
+						"genericIsEditableCollections": [
+							"6kxG5eadJEBqQqB53"
+						],
+						"genericIsRequiredCollections": [
+							"6kxG5eadJEBqQqB53"
+						],
+						"genericIsMultipleCollections": [
+							"6kxG5eadJEBqQqB53"
+						]
+					},
+					"genericMeta": {
+						"genericCanTranslate": true,
+						"genericCanParent": false,
+						"genericCanChild": false
+					},
+					"genericSpecific": {
+						"genericInformation": "Text info",
+						"genericChildren": [],
+						"genericKey": "Text key",
+						"genericValues": []
+					},
+					"genericWorking": {
+						"genericOrderId": "",
+						"genericOrderComment": "",
+						"specificOrderComment": "",
+						"genericJobId": "",
+						"genericJobStatus": "",
+						"genericJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"genericGeneral": {
+						"genericGuid": "b3b64639-a6dd-f486-b939-46427e355f80",
+						"genericType": "simpleLabel",
+						"genericIsVisibleCollections": [
+							"6kxG5eadJEBqQqB53"
+						],
+						"genericIsEditableCollections": [],
+						"genericIsRequiredCollections": [],
+						"genericIsMultipleCollections": []
+					},
+					"genericMeta": {
+						"genericCanTranslate": true,
+						"genericCanParent": false,
+						"genericCanChild": false
+					},
+					"genericSpecific": {
+						"genericInformation": "Simple Name",
+						"genericChildren": [],
+						"genericKey": "Simple key",
+						"genericValues": [
+							"Simple label"
+						]
+					},
+					"genericWorking": {
+						"genericOrderId": "",
+						"genericOrderComment": "",
+						"specificOrderComment": "",
+						"genericJobId": "",
+						"genericJobStatus": "",
+						"genericJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"genericGeneral": {
+						"genericGuid": "8a2951e7-c00b-2cb0-f050-a6b5274d4005",
+						"genericType": "simpleBlurb",
+						"genericIsVisibleCollections": [
+							"6kxG5eadJEBqQqB53"
+						],
+						"genericIsEditableCollections": [],
+						"genericIsRequiredCollections": [],
+						"genericIsMultipleCollections": []
+					},
+					"genericMeta": {
+						"genericCanTranslate": true,
+						"genericCanParent": false,
+						"genericCanChild": false
+					},
+					"genericSpecific": {
+						"genericInformation": "Simple Blurb",
+						"genericChildren": [],
+						"genericKey": "Blurb key",
+						"genericValues": [
+							{
+								"entityMap": {},
+								"blocks": [
+									{
+										"key": "c6o69",
+										"text": "This is  a blurb",
+										"type": "unstyled",
+										"depth": 0,
+										"inlineStyleRanges": [
+											{
+												"offset": 0,
+												"length": 16,
+												"style": "BOLD"
+											},
+											{
+												"offset": 5,
+												"length": 11,
+												"style": "ITALIC"
+											},
+											{
+												"offset": 10,
+												"length": 6,
+												"style": "UNDERLINE"
+											}
+										],
+										"entityRanges": [],
+										"data": {}
+									}
+								]
+							}
+						]
+					},
+					"genericWorking": {
+						"genericOrderId": "",
+						"genericOrderComment": "",
+						"specificOrderComment": "",
+						"genericJobId": "",
+						"genericJobStatus": "",
+						"genericJobComment": "",
+						"specificJobComment": ""
+					}
+				}
+			],
+			"fileItemFields": [
+				{
+					"fieldGeneral": {
+						"fieldGuid": "ad7b1af2-33b9-bb7a-964b-680447548b05",
+						"fieldType": "fieldImage",
+						"fieldIsVisibleCollections": [
+							"6kxG5eadJEBqQqB53"
+						],
+						"fieldIsEditableCollections": [
+							"6kxG5eadJEBqQqB53"
+						],
+						"fieldIsRequiredCollections": [
+							"6kxG5eadJEBqQqB53"
+						],
+						"fieldIsMultipleCollections": [
+							"6kxG5eadJEBqQqB53"
+						]
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "image info",
+						"fieldKey": "image key",
+						"fieldValues": [],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"fieldGeneral": {
+						"fieldGuid": "a0a4479f-da29-8100-930d-fcf57f7b8a4f",
+						"fieldType": "fieldVideo",
+						"fieldIsVisibleCollections": [
+							"6kxG5eadJEBqQqB53"
+						],
+						"fieldIsEditableCollections": [
+							"6kxG5eadJEBqQqB53"
+						],
+						"fieldIsRequiredCollections": [
+							"6kxG5eadJEBqQqB53"
+						],
+						"fieldIsMultipleCollections": [
+							"6kxG5eadJEBqQqB53"
+						]
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "Video info",
+						"fieldKey": "Video key",
+						"fieldValues": [],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"fieldGeneral": {
+						"fieldGuid": "d1dd9ae1-dc3b-7b1c-e55e-c59fe6ba7d22",
+						"fieldType": "fieldAudio",
+						"fieldIsVisibleCollections": [
+							"6kxG5eadJEBqQqB53"
+						],
+						"fieldIsEditableCollections": [
+							"6kxG5eadJEBqQqB53"
+						],
+						"fieldIsRequiredCollections": [
+							"6kxG5eadJEBqQqB53"
+						],
+						"fieldIsMultipleCollections": [
+							"6kxG5eadJEBqQqB53"
+						]
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "audio info",
+						"fieldKey": "audio key",
+						"fieldValues": [],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				}
+			]
+		},
+		"fileItemPublish": {
+			"fileItemTypes": []
+		}
+	}
+}
