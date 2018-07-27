@@ -294,43 +294,6 @@
 									"altText": "",
 									"seoSuffix": "fillin"
 								}
-							},
-							{
-								"public_id": "620fddb3-b509-be01-9a0e-13d8be8961d3/hall_bjsd0z",
-								"version": 1532638541,
-								"signature": "d71d9ded799108aad9f1137f32960a0d4f4241e0",
-								"width": 712,
-								"height": 529,
-								"format": "jpg",
-								"resource_type": "image",
-								"created_at": "2018-07-26T20:55:41Z",
-								"tags": [],
-								"bytes": 23759,
-								"type": "upload",
-								"etag": "667fd896b99a6bf6d98e8b53b6138279",
-								"placeholder": false,
-								"url": "http://res.cloudinary.com/q6a/image/upload/v1532638541/620fddb3-b509-be01-9a0e-13d8be8961d3/hall_bjsd0z.jpg",
-								"secure_url": "https://res.cloudinary.com/q6a/image/upload/v1532638541/620fddb3-b509-be01-9a0e-13d8be8961d3/hall_bjsd0z.jpg",
-								"access_mode": "public",
-								"existing": false,
-								"original_filename": "hall",
-								"original_extension": "jpeg",
-								"path": "v1532638541/620fddb3-b509-be01-9a0e-13d8be8961d3/hall_bjsd0z.jpg",
-								"thumbnail_url": "http://res.cloudinary.com/q6a/image/upload/c_limit,h_60,w_90/v1532638541/620fddb3-b509-be01-9a0e-13d8be8961d3/hall_bjsd0z.jpg",
-								"overlays": [],
-								"embed": {
-									"width": "",
-									"height": "",
-									"scale": false,
-									"fit": false,
-									"limit": false,
-									"crop": false,
-									"cropGravity": "",
-									"cropFixedX": "",
-									"cropFixedY": "",
-									"altText": "",
-									"seoSuffix": "hall"
-								}
 							}
 						],
 						"fieldChildren": []
