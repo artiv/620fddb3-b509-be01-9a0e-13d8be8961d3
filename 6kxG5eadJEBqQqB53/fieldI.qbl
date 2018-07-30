@@ -280,7 +280,67 @@
 								"original_extension": "PNG",
 								"path": "v1532638498/620fddb3-b509-be01-9a0e-13d8be8961d3/fillIn_z3jxgj.png",
 								"thumbnail_url": "http://res.cloudinary.com/q6a/image/upload/c_limit,h_60,w_90/v1532638498/620fddb3-b509-be01-9a0e-13d8be8961d3/fillIn_z3jxgj.png",
-								"overlays": [],
+								"overlays": [
+									{
+										"isText": true,
+										"font": "Arial",
+										"size": 18,
+										"color": {
+											"rgb": {
+												"r": 0,
+												"g": 0,
+												"b": 0,
+												"a": 1
+											}
+										},
+										"isAttached": true,
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"gravity": "center",
+										"crop": "scale",
+										"editorContent": {
+											"entityMap": {},
+											"blocks": [
+												{
+													"key": "7i62m",
+													"text": "my name",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [
+														{
+															"offset": 0,
+															"length": 7,
+															"style": "fontsize-18"
+														},
+														{
+															"offset": 0,
+															"length": 7,
+															"style": "UNDERLINE"
+														}
+													],
+													"entityRanges": [],
+													"data": {
+														"text-align": "right"
+													}
+												}
+											]
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": true,
+											"STRIKETHROUGH": false
+										},
+										"textAlignment": "right",
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"text": "my name"
+									}
+								],
 								"embed": {
 									"width": "",
 									"height": "",
@@ -291,7 +351,7 @@
 									"cropGravity": "",
 									"cropFixedX": "",
 									"cropFixedY": "",
-									"altText": "",
+									"altText": "filled",
 									"seoSuffix": "fillin"
 								}
 							}
@@ -415,7 +475,75 @@
 									},
 									"isAttached": true
 								},
-								"overlays": []
+								"overlays": [
+									{
+										"isText": true,
+										"font": "Arial",
+										"size": 14,
+										"color": {
+											"hex": "#423ee6",
+											"rgb": {
+												"r": 66,
+												"g": 62,
+												"b": 230,
+												"a": 1
+											}
+										},
+										"isAttached": true,
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"gravity": "center",
+										"crop": "scale",
+										"start_offset": "0",
+										"end_offset": "13",
+										"editorContent": {
+											"entityMap": {},
+											"blocks": [
+												{
+													"key": "60es4",
+													"text": "still works",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [
+														{
+															"offset": 0,
+															"length": 11,
+															"style": "fontsize-14"
+														},
+														{
+															"offset": 0,
+															"length": 11,
+															"style": "UNDERLINE"
+														},
+														{
+															"offset": 0,
+															"length": 11,
+															"style": "BOLD"
+														}
+													],
+													"entityRanges": [],
+													"data": {
+														"text-align": "right"
+													}
+												}
+											]
+										},
+										"inlineStyle": {
+											"BOLD": true,
+											"ITALIC": false,
+											"UNDERLINE": true,
+											"STRIKETHROUGH": false
+										},
+										"textAlignment": "right",
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"text": "still works"
+									}
+								]
 							},
 							{
 								"public_id": "Abstract_ipzhjd",
