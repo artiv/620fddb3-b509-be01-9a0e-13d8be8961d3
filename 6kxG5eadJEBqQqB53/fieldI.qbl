@@ -543,7 +543,10 @@
 										},
 										"text": "still works"
 									}
-								]
+								],
+								"context": {
+									"caption": "sea caption"
+								}
 							},
 							{
 								"public_id": "Abstract_ipzhjd",
