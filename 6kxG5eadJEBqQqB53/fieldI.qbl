@@ -218,8 +218,9 @@
 									"cropGravity": "",
 									"cropFixedX": "",
 									"cropFixedY": "",
-									"altText": "",
-									"seoSuffix": "black"
+									"altText": "black alternative",
+									"seoSuffix": "black",
+									"caption": "black description"
 								}
 							},
 							{
@@ -338,7 +339,142 @@
 											"language": "en",
 											"inputMethod": "system"
 										},
-										"text": "my name"
+										"text": "my name",
+										"editor": {
+											"state": {
+												"_immutable": {
+													"allowUndo": true,
+													"currentContent": {
+														"entityMap": {},
+														"blockMap": {
+															"7i62m": {
+																"key": "7i62m",
+																"type": "unstyled",
+																"text": "my name",
+																"characterList": [
+																	{
+																		"style": [
+																			"fontsize-18",
+																			"UNDERLINE"
+																		],
+																		"entity": null
+																	},
+																	{
+																		"style": [
+																			"fontsize-18",
+																			"UNDERLINE"
+																		],
+																		"entity": null
+																	},
+																	{
+																		"style": [
+																			"fontsize-18",
+																			"UNDERLINE"
+																		],
+																		"entity": null
+																	},
+																	{
+																		"style": [
+																			"fontsize-18",
+																			"UNDERLINE"
+																		],
+																		"entity": null
+																	},
+																	{
+																		"style": [
+																			"fontsize-18",
+																			"UNDERLINE"
+																		],
+																		"entity": null
+																	},
+																	{
+																		"style": [
+																			"fontsize-18",
+																			"UNDERLINE"
+																		],
+																		"entity": null
+																	},
+																	{
+																		"style": [
+																			"fontsize-18",
+																			"UNDERLINE"
+																		],
+																		"entity": null
+																	}
+																],
+																"depth": 0,
+																"data": {
+																	"text-align": "right"
+																}
+															}
+														},
+														"selectionBefore": {
+															"anchorKey": "7i62m",
+															"anchorOffset": 0,
+															"focusKey": "7i62m",
+															"focusOffset": 0,
+															"isBackward": false,
+															"hasFocus": false
+														},
+														"selectionAfter": {
+															"anchorKey": "7i62m",
+															"anchorOffset": 0,
+															"focusKey": "7i62m",
+															"focusOffset": 0,
+															"isBackward": false,
+															"hasFocus": false
+														}
+													},
+													"decorator": null,
+													"directionMap": {
+														"7i62m": "LTR"
+													},
+													"forceSelection": false,
+													"inCompositionMode": false,
+													"inlineStyleOverride": null,
+													"lastChangeType": null,
+													"nativelyRenderedContent": null,
+													"redoStack": [],
+													"selection": {
+														"anchorKey": "7i62m",
+														"anchorOffset": 0,
+														"focusKey": "7i62m",
+														"focusOffset": 0,
+														"isBackward": false,
+														"hasFocus": false
+													},
+													"treeMap": {
+														"7i62m": [
+															{
+																"start": 0,
+																"end": 7,
+																"decoratorKey": null,
+																"leaves": [
+																	{
+																		"start": 0,
+																		"end": 7
+																	}
+																]
+															}
+														]
+													},
+													"undoStack": []
+												}
+											},
+											"previousInlineStyle": {
+												"BOLD": false,
+												"ITALIC": false,
+												"UNDERLINE": true,
+												"STRIKETHROUGH": false,
+												"CODE": false,
+												"SUPERSCRIPT": false,
+												"SUBSCRIPT": false
+											},
+											"previousTextAlignment": "right",
+											"context": "",
+											"language": "en",
+											"inputMethod": "system"
+										}
 									}
 								],
 								"embed": {
