@@ -1,0 +1,867 @@
+{
+	"fileName": "hi_fieldIAudio.qbl",
+	"fileItem": {
+		"fileItemGeneral": {
+			"fileItemGuid": "014c9b61-2ed0-8488-1fde-1445f2a1f638",
+			"fileItemDate": "2018-08-03T08:05:16.863Z",
+			"fileItemCollections": [
+				"6kxG5eadJEBqQqB53"
+			],
+			"fileItemCollectionsForTranslation": [
+				"6kxG5eadJEBqQqB53"
+			]
+		},
+		"fileItemLanguage": {
+			"primaryLanguage": "CSvHqEtb2ioM9HqoW",
+			"possibleLanguages": [
+				"Kr46i9NCz2eC3AKZF",
+				"CSvHqEtb2ioM9HqoW",
+				"ZoQFW7jMymxckSQsv"
+			]
+		},
+		"fileItemStructure": {
+			"fileItemGenerics": [
+				{
+					"genericGeneral": {
+						"genericGuid": "12f3398c-f7d7-f780-a0a4-df6923394c34",
+						"genericType": "genericText",
+						"genericIsVisibleCollections": [
+							"6kxG5eadJEBqQqB53"
+						],
+						"genericIsEditableCollections": [
+							"6kxG5eadJEBqQqB53"
+						],
+						"genericIsRequiredCollections": [
+							"6kxG5eadJEBqQqB53"
+						],
+						"genericIsMultipleCollections": [
+							"6kxG5eadJEBqQqB53"
+						]
+					},
+					"genericMeta": {
+						"genericCanTranslate": true,
+						"genericCanParent": false,
+						"genericCanChild": false
+					},
+					"genericSpecific": {
+						"genericInformation": "Text info",
+						"genericChildren": [],
+						"genericKey": "Text key",
+						"genericValues": []
+					},
+					"genericWorking": {
+						"genericOrderId": "",
+						"genericOrderComment": "",
+						"specificOrderComment": "",
+						"genericJobId": "",
+						"genericJobStatus": "",
+						"genericJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"genericGeneral": {
+						"genericGuid": "b3b64639-a6dd-f486-b939-46427e355f80",
+						"genericType": "simpleLabel",
+						"genericIsVisibleCollections": [
+							"6kxG5eadJEBqQqB53"
+						],
+						"genericIsEditableCollections": [],
+						"genericIsRequiredCollections": [],
+						"genericIsMultipleCollections": []
+					},
+					"genericMeta": {
+						"genericCanTranslate": true,
+						"genericCanParent": false,
+						"genericCanChild": false
+					},
+					"genericSpecific": {
+						"genericInformation": "Simple Name",
+						"genericChildren": [],
+						"genericKey": "Simple key",
+						"genericValues": [
+							"Simple label"
+						]
+					},
+					"genericWorking": {
+						"genericOrderId": "",
+						"genericOrderComment": "",
+						"specificOrderComment": "",
+						"genericJobId": "",
+						"genericJobStatus": "",
+						"genericJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"genericGeneral": {
+						"genericGuid": "8a2951e7-c00b-2cb0-f050-a6b5274d4005",
+						"genericType": "simpleBlurb",
+						"genericIsVisibleCollections": [
+							"6kxG5eadJEBqQqB53"
+						],
+						"genericIsEditableCollections": [],
+						"genericIsRequiredCollections": [],
+						"genericIsMultipleCollections": []
+					},
+					"genericMeta": {
+						"genericCanTranslate": true,
+						"genericCanParent": false,
+						"genericCanChild": false
+					},
+					"genericSpecific": {
+						"genericInformation": "Simple Blurb",
+						"genericChildren": [],
+						"genericKey": "Blurb key",
+						"genericValues": [
+							{
+								"entityMap": {},
+								"blocks": [
+									{
+										"key": "c6o69",
+										"text": "This is  a blurb",
+										"type": "unstyled",
+										"depth": 0,
+										"inlineStyleRanges": [
+											{
+												"offset": 0,
+												"length": 16,
+												"style": "BOLD"
+											},
+											{
+												"offset": 5,
+												"length": 11,
+												"style": "ITALIC"
+											},
+											{
+												"offset": 10,
+												"length": 6,
+												"style": "UNDERLINE"
+											}
+										],
+										"entityRanges": [],
+										"data": {}
+									}
+								]
+							}
+						]
+					},
+					"genericWorking": {
+						"genericOrderId": "",
+						"genericOrderComment": "",
+						"specificOrderComment": "",
+						"genericJobId": "",
+						"genericJobStatus": "",
+						"genericJobComment": "",
+						"specificJobComment": ""
+					}
+				}
+			],
+			"fileItemFields": [
+				{
+					"fieldGeneral": {
+						"fieldGuid": "ad7b1af2-33b9-bb7a-964b-680447548b05",
+						"fieldType": "fieldImage",
+						"fieldIsVisibleCollections": [
+							"6kxG5eadJEBqQqB53"
+						],
+						"fieldIsEditableCollections": [
+							"6kxG5eadJEBqQqB53"
+						],
+						"fieldIsRequiredCollections": [
+							"6kxG5eadJEBqQqB53"
+						],
+						"fieldIsMultipleCollections": [
+							"6kxG5eadJEBqQqB53"
+						]
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "image info",
+						"fieldKey": "image key",
+						"fieldValues": [
+							{
+								"public_id": "620fddb3-b509-be01-9a0e-13d8be8961d3/black_sj3z1y",
+								"version": 1532513065,
+								"signature": "2b960d8c0b0721e1d3d8b73926aee90a132673e8",
+								"width": 1152,
+								"height": 648,
+								"format": "png",
+								"resource_type": "image",
+								"created_at": "2018-07-25T10:04:25Z",
+								"tags": [],
+								"bytes": 383,
+								"type": "upload",
+								"etag": "e796c0da5f2009a46f881aa40a185703",
+								"placeholder": false,
+								"url": "http://res.cloudinary.com/q6a/image/upload/v1532513065/620fddb3-b509-be01-9a0e-13d8be8961d3/black_sj3z1y.png",
+								"secure_url": "https://res.cloudinary.com/q6a/image/upload/v1532513065/620fddb3-b509-be01-9a0e-13d8be8961d3/black_sj3z1y.png",
+								"access_mode": "public",
+								"existing": false,
+								"original_filename": "black",
+								"path": "v1532513065/620fddb3-b509-be01-9a0e-13d8be8961d3/black_sj3z1y.png",
+								"thumbnail_url": "http://res.cloudinary.com/q6a/image/upload/c_limit,h_60,w_90/v1532513065/620fddb3-b509-be01-9a0e-13d8be8961d3/black_sj3z1y.png",
+								"overlays": [],
+								"embed": {
+									"width": "",
+									"height": "",
+									"scale": false,
+									"fit": false,
+									"limit": false,
+									"crop": false,
+									"cropGravity": "",
+									"cropFixedX": "",
+									"cropFixedY": "",
+									"altText": "black alternative",
+									"seoSuffix": "black",
+									"caption": "black description"
+								}
+							},
+							{
+								"public_id": "620fddb3-b509-be01-9a0e-13d8be8961d3/background_ur4c1h",
+								"version": 1532631146,
+								"signature": "0461b7cae83c4ad4773082f1659c75babe8e39de",
+								"width": 1152,
+								"height": 648,
+								"format": "png",
+								"resource_type": "image",
+								"created_at": "2018-07-26T18:52:26Z",
+								"tags": [],
+								"bytes": 400,
+								"type": "upload",
+								"etag": "9c33564df89ded72fbd075a3112ca279",
+								"placeholder": false,
+								"url": "http://res.cloudinary.com/q6a/image/upload/v1532631146/620fddb3-b509-be01-9a0e-13d8be8961d3/background_ur4c1h.png",
+								"secure_url": "https://res.cloudinary.com/q6a/image/upload/v1532631146/620fddb3-b509-be01-9a0e-13d8be8961d3/background_ur4c1h.png",
+								"access_mode": "public",
+								"existing": false,
+								"original_filename": "background",
+								"path": "v1532631146/620fddb3-b509-be01-9a0e-13d8be8961d3/background_ur4c1h.png",
+								"thumbnail_url": "http://res.cloudinary.com/q6a/image/upload/c_limit,h_60,w_90/v1532631146/620fddb3-b509-be01-9a0e-13d8be8961d3/background_ur4c1h.png",
+								"overlays": [],
+								"embed": {
+									"width": "",
+									"height": "",
+									"scale": false,
+									"fit": false,
+									"limit": false,
+									"crop": false,
+									"cropGravity": "",
+									"cropFixedX": "",
+									"cropFixedY": "",
+									"altText": "",
+									"seoSuffix": "background"
+								}
+							},
+							{
+								"public_id": "620fddb3-b509-be01-9a0e-13d8be8961d3/fillIn_z3jxgj",
+								"version": 1532638498,
+								"signature": "76fad9d590cbe983c8a9ee4376a9bed1c5935a6a",
+								"width": 369,
+								"height": 286,
+								"format": "png",
+								"resource_type": "image",
+								"created_at": "2018-07-26T20:54:58Z",
+								"tags": [],
+								"bytes": 4229,
+								"type": "upload",
+								"etag": "9d0b9a2dbdcc2469cb8f0594203a6568",
+								"placeholder": false,
+								"url": "http://res.cloudinary.com/q6a/image/upload/v1532638498/620fddb3-b509-be01-9a0e-13d8be8961d3/fillIn_z3jxgj.png",
+								"secure_url": "https://res.cloudinary.com/q6a/image/upload/v1532638498/620fddb3-b509-be01-9a0e-13d8be8961d3/fillIn_z3jxgj.png",
+								"access_mode": "public",
+								"existing": false,
+								"original_filename": "fillIn",
+								"original_extension": "PNG",
+								"path": "v1532638498/620fddb3-b509-be01-9a0e-13d8be8961d3/fillIn_z3jxgj.png",
+								"thumbnail_url": "http://res.cloudinary.com/q6a/image/upload/c_limit,h_60,w_90/v1532638498/620fddb3-b509-be01-9a0e-13d8be8961d3/fillIn_z3jxgj.png",
+								"overlays": [
+									{
+										"isText": true,
+										"font": "Arial",
+										"size": 18,
+										"color": {
+											"rgb": {
+												"r": 0,
+												"g": 0,
+												"b": 0,
+												"a": 1
+											}
+										},
+										"isAttached": true,
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"gravity": "center",
+										"crop": "scale",
+										"editorContent": {
+											"entityMap": {},
+											"blocks": [
+												{
+													"key": "7i62m",
+													"text": "my name",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [
+														{
+															"offset": 0,
+															"length": 7,
+															"style": "fontsize-18"
+														},
+														{
+															"offset": 0,
+															"length": 7,
+															"style": "UNDERLINE"
+														}
+													],
+													"entityRanges": [],
+													"data": {
+														"text-align": "right"
+													}
+												}
+											]
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": true,
+											"STRIKETHROUGH": false
+										},
+										"textAlignment": "right",
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"text": "my name",
+										"editor": {
+											"state": {
+												"_immutable": {
+													"allowUndo": true,
+													"currentContent": {
+														"entityMap": {},
+														"blockMap": {
+															"7i62m": {
+																"key": "7i62m",
+																"type": "unstyled",
+																"text": "my name",
+																"characterList": [
+																	{
+																		"style": [
+																			"fontsize-18",
+																			"UNDERLINE"
+																		],
+																		"entity": null
+																	},
+																	{
+																		"style": [
+																			"fontsize-18",
+																			"UNDERLINE"
+																		],
+																		"entity": null
+																	},
+																	{
+																		"style": [
+																			"fontsize-18",
+																			"UNDERLINE"
+																		],
+																		"entity": null
+																	},
+																	{
+																		"style": [
+																			"fontsize-18",
+																			"UNDERLINE"
+																		],
+																		"entity": null
+																	},
+																	{
+																		"style": [
+																			"fontsize-18",
+																			"UNDERLINE"
+																		],
+																		"entity": null
+																	},
+																	{
+																		"style": [
+																			"fontsize-18",
+																			"UNDERLINE"
+																		],
+																		"entity": null
+																	},
+																	{
+																		"style": [
+																			"fontsize-18",
+																			"UNDERLINE"
+																		],
+																		"entity": null
+																	}
+																],
+																"depth": 0,
+																"data": {
+																	"text-align": "right"
+																}
+															}
+														},
+														"selectionBefore": {
+															"anchorKey": "7i62m",
+															"anchorOffset": 0,
+															"focusKey": "7i62m",
+															"focusOffset": 0,
+															"isBackward": false,
+															"hasFocus": false
+														},
+														"selectionAfter": {
+															"anchorKey": "7i62m",
+															"anchorOffset": 0,
+															"focusKey": "7i62m",
+															"focusOffset": 0,
+															"isBackward": false,
+															"hasFocus": false
+														}
+													},
+													"decorator": null,
+													"directionMap": {
+														"7i62m": "LTR"
+													},
+													"forceSelection": false,
+													"inCompositionMode": false,
+													"inlineStyleOverride": null,
+													"lastChangeType": null,
+													"nativelyRenderedContent": null,
+													"redoStack": [],
+													"selection": {
+														"anchorKey": "7i62m",
+														"anchorOffset": 0,
+														"focusKey": "7i62m",
+														"focusOffset": 0,
+														"isBackward": false,
+														"hasFocus": false
+													},
+													"treeMap": {
+														"7i62m": [
+															{
+																"start": 0,
+																"end": 7,
+																"decoratorKey": null,
+																"leaves": [
+																	{
+																		"start": 0,
+																		"end": 7
+																	}
+																]
+															}
+														]
+													},
+													"undoStack": []
+												}
+											},
+											"previousInlineStyle": {
+												"BOLD": false,
+												"ITALIC": false,
+												"UNDERLINE": true,
+												"STRIKETHROUGH": false,
+												"CODE": false,
+												"SUPERSCRIPT": false,
+												"SUBSCRIPT": false
+											},
+											"previousTextAlignment": "right",
+											"context": "",
+											"language": "en",
+											"inputMethod": "system"
+										}
+									}
+								],
+								"embed": {
+									"width": "",
+									"height": "",
+									"scale": false,
+									"fit": false,
+									"limit": false,
+									"crop": false,
+									"cropGravity": "",
+									"cropFixedX": "",
+									"cropFixedY": "",
+									"altText": "filled",
+									"seoSuffix": "fillin"
+								}
+							}
+						],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"fieldGeneral": {
+						"fieldGuid": "a0a4479f-da29-8100-930d-fcf57f7b8a4f",
+						"fieldType": "fieldVideo",
+						"fieldIsVisibleCollections": [
+							"6kxG5eadJEBqQqB53"
+						],
+						"fieldIsEditableCollections": [
+							"6kxG5eadJEBqQqB53"
+						],
+						"fieldIsRequiredCollections": [
+							"6kxG5eadJEBqQqB53"
+						],
+						"fieldIsMultipleCollections": [
+							"6kxG5eadJEBqQqB53"
+						]
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "Video info",
+						"fieldKey": "Video key",
+						"fieldValues": [
+							{
+								"public_id": "sea_waves_eryqic",
+								"version": 1532759977,
+								"signature": "46eae3bddb2827cb43bf768510ed7be8371abe59",
+								"width": 538,
+								"height": 216,
+								"format": "webm",
+								"resource_type": "video",
+								"created_at": "2018-07-28T06:39:37Z",
+								"tags": [],
+								"pages": 0,
+								"bytes": 611990,
+								"type": "upload",
+								"etag": "fea7556779367207115aa2a4bbf4ffed",
+								"placeholder": false,
+								"url": "http://res.cloudinary.com/q6a/video/upload/v1532759977/sea_waves_eryqic.webm",
+								"secure_url": "https://res.cloudinary.com/q6a/video/upload/v1532759977/sea_waves_eryqic.webm",
+								"access_mode": "public",
+								"existing": false,
+								"audio": {
+									"codec": "vorbis",
+									"frequency": 22050,
+									"channels": 1,
+									"channel_layout": "mono"
+								},
+								"video": {
+									"pix_format": "yuv420p",
+									"codec": "vp8",
+									"level": -99,
+									"profile": "0",
+									"dar": "269:108"
+								},
+								"is_audio": false,
+								"frame_rate": 25,
+								"bit_rate": 375453,
+								"duration": 13.04,
+								"rotation": 0,
+								"original_filename": "sea_waves",
+								"path": "v1532759977/sea_waves_eryqic.webm",
+								"thumbnail_url": "http://res.cloudinary.com/q6a/video/upload/c_limit,h_60,w_90/v1532759977/sea_waves_eryqic.jpg",
+								"captions": {
+									"captionString": "1\n00:00:00,440 --> 00:00:04,375\nसीनेटर, हम शैतानी पहले coruscant में हमारे अंतिम दृष्टिकोण बना रहे हैं ।\n\n2\n00:00:04,476 --> 00:00:22,501\nबहुत अच्छा, लेफ्टिनेंट ।\n",
+									"font": "Arial",
+									"size": 60,
+									"color": {
+										"rgb": {
+											"r": 0,
+											"g": 0,
+											"b": 0,
+											"a": 1
+										}
+									},
+									"parsed": [
+										{
+											"start": 440,
+											"end": 4375,
+											"text": "सीनेटर, हम शैतानी पहले coruscant में हमारे अंतिम दृष्टिकोण बना रहे हैं ।"
+										},
+										{
+											"start": 4476,
+											"end": 22501,
+											"text": "बहुत अच्छा, लेफ्टिनेंट ।"
+										}
+									],
+									"asset": {
+										"public_id": "sea_waves_eryqic_hi.srt",
+										"version": 1533276662,
+										"signature": "39d9299e8ca10d1a25d29070b425e0585dd0330c",
+										"resource_type": "raw",
+										"created_at": "2018-08-03T06:11:02Z",
+										"tags": [],
+										"bytes": 303,
+										"type": "upload",
+										"etag": "4573987c90574d0108778ec976f6abb1",
+										"placeholder": false,
+										"url": "http://res.cloudinary.com/q6a/raw/upload/v1533276662/sea_waves_eryqic_hi.srt",
+										"secure_url": "https://res.cloudinary.com/q6a/raw/upload/v1533276662/sea_waves_eryqic_hi.srt",
+										"access_mode": "public",
+										"overwritten": true
+									},
+									"isAttached": true
+								},
+								"overlays": [
+									{
+										"isText": true,
+										"font": "Arial",
+										"size": 14,
+										"color": {
+											"hex": "#423ee6",
+											"rgb": {
+												"r": 66,
+												"g": 62,
+												"b": 230,
+												"a": 1
+											}
+										},
+										"isAttached": true,
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"gravity": "center",
+										"crop": "scale",
+										"start_offset": "0",
+										"end_offset": "13",
+										"editorContent": {
+											"entityMap": {},
+											"blocks": [
+												{
+													"key": "60es4",
+													"text": "अभी भी काम करता है",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [
+														{
+															"offset": 0,
+															"length": 11,
+															"style": "fontsize-14"
+														},
+														{
+															"offset": 0,
+															"length": 11,
+															"style": "UNDERLINE"
+														},
+														{
+															"offset": 0,
+															"length": 11,
+															"style": "BOLD"
+														}
+													],
+													"entityRanges": [],
+													"data": {
+														"text-align": "right"
+													}
+												}
+											]
+										},
+										"inlineStyle": {
+											"BOLD": true,
+											"ITALIC": false,
+											"UNDERLINE": true,
+											"STRIKETHROUGH": false
+										},
+										"textAlignment": "right",
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"text": "still works"
+									}
+								],
+								"context": {
+									"caption": "सागर captio",
+									"alt": "सागर descp"
+								}
+							},
+							{
+								"public_id": "Abstract_ipzhjd",
+								"version": 1532760022,
+								"signature": "674e28be3d4f5e3ed2dbf9954dd07edbfd8faf2a",
+								"width": 1280,
+								"height": 720,
+								"format": "mp4",
+								"resource_type": "video",
+								"created_at": "2018-07-28T06:40:22Z",
+								"tags": [],
+								"pages": 0,
+								"bytes": 620096,
+								"type": "upload",
+								"etag": "af74ff5afbc56b351a997772936eff3b",
+								"placeholder": false,
+								"url": "http://res.cloudinary.com/q6a/video/upload/v1532760022/Abstract_ipzhjd.mp4",
+								"secure_url": "https://res.cloudinary.com/q6a/video/upload/v1532760022/Abstract_ipzhjd.mp4",
+								"access_mode": "public",
+								"existing": false,
+								"audio": {
+									"codec": "aac",
+									"bit_rate": "48108",
+									"frequency": 22050,
+									"channels": 1,
+									"channel_layout": "mono"
+								},
+								"video": {
+									"pix_format": "yuv420p",
+									"codec": "h264",
+									"level": 31,
+									"profile": "Constrained Baseline",
+									"bit_rate": "1114201",
+									"dar": "16:9"
+								},
+								"is_audio": false,
+								"frame_rate": 29.97002997002997,
+								"bit_rate": 1148591,
+								"duration": 4.238,
+								"rotation": 0,
+								"original_filename": "Abstract",
+								"path": "v1532760022/Abstract_ipzhjd.mp4",
+								"thumbnail_url": "http://res.cloudinary.com/q6a/video/upload/c_limit,h_60,w_90/v1532760022/Abstract_ipzhjd.jpg",
+								"captions": {},
+								"overlays": []
+							}
+						],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "approved",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"fieldGeneral": {
+						"fieldGuid": "d1dd9ae1-dc3b-7b1c-e55e-c59fe6ba7d22",
+						"fieldType": "fieldAudio",
+						"fieldIsVisibleCollections": [
+							"6kxG5eadJEBqQqB53"
+						],
+						"fieldIsEditableCollections": [
+							"6kxG5eadJEBqQqB53"
+						],
+						"fieldIsRequiredCollections": [
+							"6kxG5eadJEBqQqB53"
+						],
+						"fieldIsMultipleCollections": [
+							"6kxG5eadJEBqQqB53"
+						]
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "audio info",
+						"fieldKey": "audio key",
+						"fieldValues": [
+							{
+								"public_id": "videoplayback_vxvswc_jumfyx",
+								"version": 1532782287,
+								"signature": "2d15f67324f9100fff8db805bc737e8107c40568",
+								"width": 0,
+								"height": 0,
+								"format": "mp3",
+								"resource_type": "video",
+								"created_at": "2018-07-28T12:51:27Z",
+								"tags": [],
+								"pages": 0,
+								"bytes": 121120,
+								"type": "upload",
+								"etag": "3ec2f36a7e8e111e7c550ffcce8c573f",
+								"placeholder": false,
+								"url": "http://res.cloudinary.com/q6a/video/upload/v1532782287/videoplayback_vxvswc_jumfyx.mp3",
+								"secure_url": "https://res.cloudinary.com/q6a/video/upload/v1532782287/videoplayback_vxvswc_jumfyx.mp3",
+								"access_mode": "public",
+								"existing": false,
+								"audio": {
+									"codec": "mp3",
+									"bit_rate": "32000",
+									"frequency": 22050,
+									"channels": 1,
+									"channel_layout": "mono"
+								},
+								"video": {},
+								"is_audio": true,
+								"bit_rate": 32087,
+								"duration": 30.197551,
+								"original_filename": "videoplayback_vxvswc",
+								"path": "v1532782287/videoplayback_vxvswc_jumfyx.mp3",
+								"thumbnail_url": "http://res.cloudinary.com/q6a/video/upload/c_limit,h_60,w_90/v1532782287/videoplayback_vxvswc_jumfyx.jpg",
+								"captions": {},
+								"context": {
+									"caption": "आधुनिक परिवार कैप्शन",
+									"alt": "कुछ ऑडियो शीर्षक"
+								}
+							},
+							{
+								"public_id": "videoplayback_vxvswc_afjizn",
+								"version": 1532782329,
+								"signature": "c6e7d0646a6f0ba34b62e61dad48d81f404f68fa",
+								"width": 0,
+								"height": 0,
+								"format": "ogg",
+								"resource_type": "video",
+								"created_at": "2018-07-28T12:52:09Z",
+								"tags": [],
+								"pages": 0,
+								"bytes": 253540,
+								"type": "upload",
+								"etag": "d910ee4e435531dab55f83a143aef6e5",
+								"placeholder": false,
+								"url": "http://res.cloudinary.com/q6a/video/upload/v1532782329/videoplayback_vxvswc_afjizn.ogg",
+								"secure_url": "https://res.cloudinary.com/q6a/video/upload/v1532782329/videoplayback_vxvswc_afjizn.ogg",
+								"access_mode": "public",
+								"existing": false,
+								"audio": {
+									"codec": "opus",
+									"frequency": 48000,
+									"channels": 1,
+									"channel_layout": "mono"
+								},
+								"video": {},
+								"is_audio": true,
+								"bit_rate": 67275,
+								"duration": 30.149292,
+								"original_filename": "videoplayback_vxvswc",
+								"path": "v1532782329/videoplayback_vxvswc_afjizn.ogg",
+								"thumbnail_url": "http://res.cloudinary.com/q6a/video/upload/c_limit,h_60,w_90/v1532782329/videoplayback_vxvswc_afjizn.jpg",
+								"captions": {},
+								"context": {
+									"caption": "एक और कैप्शन",
+									"alt": "कुछ ऑडियो"
+								}
+							}
+						],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "approved",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				}
+			]
+		},
+		"fileItemPublish": {
+			"fileItemTypes": []
+		}
+	}
+}
