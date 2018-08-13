@@ -209,7 +209,72 @@
 								"original_filename": "black",
 								"path": "v1534189654/620fddb3-b509-be01-9a0e-13d8be8961d3/black_qx1iel.png",
 								"thumbnail_url": "http://res.cloudinary.com/q6a/image/upload/c_limit,h_60,w_90/v1534189654/620fddb3-b509-be01-9a0e-13d8be8961d3/black_qx1iel.png",
-								"overlays": [],
+								"overlays": [
+									{
+										"isText": true,
+										"font": "Arial",
+										"size": 18,
+										"color": {
+											"rgb": {
+												"r": 0,
+												"g": 0,
+												"b": 0,
+												"a": 1
+											}
+										},
+										"isAttached": true,
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"gravity": "north_west",
+										"crop": "scale",
+										"editorContent": {
+											"entityMap": {},
+											"blocks": [
+												{
+													"key": "64udm",
+													"text": "Added a text overlay too",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [
+														{
+															"offset": 0,
+															"length": 24,
+															"style": "BOLD"
+														},
+														{
+															"offset": 0,
+															"length": 24,
+															"style": "UNDERLINE"
+														},
+														{
+															"offset": 0,
+															"length": 24,
+															"style": "fontsize-18"
+														}
+													],
+													"entityRanges": [],
+													"data": {
+														"text-align": "center"
+													}
+												}
+											]
+										},
+										"inlineStyle": {
+											"BOLD": true,
+											"ITALIC": false,
+											"UNDERLINE": true,
+											"STRIKETHROUGH": false
+										},
+										"textAlignment": "center",
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"text": "Added a text overlay too"
+									}
+								],
 								"embed": {
 									"width": "",
 									"height": "",
@@ -220,8 +285,9 @@
 									"cropGravity": "",
 									"cropFixedX": "",
 									"cropFixedY": "",
-									"altText": "",
-									"seoSuffix": "black"
+									"altText": "alternative text",
+									"seoSuffix": "black",
+									"caption": "and description"
 								}
 							}
 						],
@@ -650,7 +716,22 @@
 					"fieldSpecific": {
 						"fieldInformation": "textbox info",
 						"fieldKey": "textbox key",
-						"fieldValues": [],
+						"fieldValues": [
+							{
+								"entityMap": {},
+								"blocks": [
+									{
+										"key": "42tmn",
+										"text": "this is a text box",
+										"type": "unstyled",
+										"depth": 0,
+										"inlineStyleRanges": [],
+										"entityRanges": [],
+										"data": {}
+									}
+								]
+							}
+						],
 						"fieldChildren": []
 					},
 					"fieldWorking": {
