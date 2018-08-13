@@ -1,0 +1,751 @@
+{
+	"fileName": "hi_fieldNew3.qbl",
+	"fileItem": {
+		"fileItemGeneral": {
+			"fileItemGuid": "18e7456b-a9da-2c7c-c1f0-4a93bbf6ba9b",
+			"fileItemDate": "2018-08-13T19:54:15.004Z",
+			"fileItemCollections": [
+				"6kxG5eadJEBqQqB53"
+			],
+			"fileItemCollectionsForTranslation": [
+				"6kxG5eadJEBqQqB53"
+			]
+		},
+		"fileItemLanguage": {
+			"primaryLanguage": "CSvHqEtb2ioM9HqoW",
+			"possibleLanguages": [
+				"Kr46i9NCz2eC3AKZF",
+				"CSvHqEtb2ioM9HqoW",
+				"ZoQFW7jMymxckSQsv"
+			]
+		},
+		"fileItemStructure": {
+			"fileItemGenerics": [
+				{
+					"genericGeneral": {
+						"genericGuid": "12f3398c-f7d7-f780-a0a4-df6923394c34",
+						"genericType": "genericText",
+						"genericIsVisibleCollections": [
+							"6kxG5eadJEBqQqB53"
+						],
+						"genericIsEditableCollections": [
+							"6kxG5eadJEBqQqB53"
+						],
+						"genericIsRequiredCollections": [
+							"6kxG5eadJEBqQqB53"
+						],
+						"genericIsMultipleCollections": [
+							"6kxG5eadJEBqQqB53"
+						]
+					},
+					"genericMeta": {
+						"genericCanTranslate": true,
+						"genericCanParent": false,
+						"genericCanChild": false
+					},
+					"genericSpecific": {
+						"genericInformation": "Text info",
+						"genericChildren": [],
+						"genericKey": "Text key",
+						"genericValues": [
+							"वाह यह पाठ है"
+						]
+					},
+					"genericWorking": {
+						"genericOrderId": "",
+						"genericOrderComment": "",
+						"specificOrderComment": "",
+						"genericJobId": "",
+						"genericJobStatus": "approved",
+						"genericJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"genericGeneral": {
+						"genericGuid": "b3b64639-a6dd-f486-b939-46427e355f80",
+						"genericType": "simpleLabel",
+						"genericIsVisibleCollections": [
+							"6kxG5eadJEBqQqB53"
+						],
+						"genericIsEditableCollections": [],
+						"genericIsRequiredCollections": [],
+						"genericIsMultipleCollections": []
+					},
+					"genericMeta": {
+						"genericCanTranslate": true,
+						"genericCanParent": false,
+						"genericCanChild": false
+					},
+					"genericSpecific": {
+						"genericInformation": "Simple Name",
+						"genericChildren": [],
+						"genericKey": "Simple key",
+						"genericValues": [
+							"सरल लेबल"
+						]
+					},
+					"genericWorking": {
+						"genericOrderId": "",
+						"genericOrderComment": "",
+						"specificOrderComment": "",
+						"genericJobId": "",
+						"genericJobStatus": "approved",
+						"genericJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"genericGeneral": {
+						"genericGuid": "8a2951e7-c00b-2cb0-f050-a6b5274d4005",
+						"genericType": "simpleBlurb",
+						"genericIsVisibleCollections": [
+							"6kxG5eadJEBqQqB53"
+						],
+						"genericIsEditableCollections": [],
+						"genericIsRequiredCollections": [],
+						"genericIsMultipleCollections": []
+					},
+					"genericMeta": {
+						"genericCanTranslate": true,
+						"genericCanParent": false,
+						"genericCanChild": false
+					},
+					"genericSpecific": {
+						"genericInformation": "Simple Blurb",
+						"genericChildren": [],
+						"genericKey": "Blurb key",
+						"genericValues": [
+							{
+								"entityMap": {},
+								"blocks": [
+									{
+										"key": "c6o69",
+										"text": "यह एक blurb",
+										"type": "unstyled",
+										"depth": 0,
+										"inlineStyleRanges": [
+											{
+												"offset": 0,
+												"length": 16,
+												"style": "BOLD"
+											},
+											{
+												"offset": 5,
+												"length": 11,
+												"style": "ITALIC"
+											},
+											{
+												"offset": 10,
+												"length": 6,
+												"style": "UNDERLINE"
+											}
+										],
+										"entityRanges": [],
+										"data": {}
+									}
+								]
+							}
+						]
+					},
+					"genericWorking": {
+						"genericOrderId": "",
+						"genericOrderComment": "",
+						"specificOrderComment": "",
+						"genericJobId": "",
+						"genericJobStatus": "approved",
+						"genericJobComment": "",
+						"specificJobComment": ""
+					}
+				}
+			],
+			"fileItemFields": [
+				{
+					"fieldGeneral": {
+						"fieldGuid": "ad7b1af2-33b9-bb7a-964b-680447548b05",
+						"fieldType": "fieldImage",
+						"fieldIsVisibleCollections": [
+							"6kxG5eadJEBqQqB53"
+						],
+						"fieldIsEditableCollections": [
+							"6kxG5eadJEBqQqB53"
+						],
+						"fieldIsRequiredCollections": [
+							"6kxG5eadJEBqQqB53"
+						],
+						"fieldIsMultipleCollections": [
+							"6kxG5eadJEBqQqB53"
+						]
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "image info",
+						"fieldKey": "image key",
+						"fieldValues": [
+							{
+								"public_id": "620fddb3-b509-be01-9a0e-13d8be8961d3/black_qx1iel",
+								"version": 1534189654,
+								"signature": "53d7ff2c2759000118216935e7617b2c150bb467",
+								"width": 1152,
+								"height": 648,
+								"format": "png",
+								"resource_type": "image",
+								"created_at": "2018-08-13T19:47:34Z",
+								"tags": [],
+								"bytes": 383,
+								"type": "upload",
+								"etag": "49e13bd4b2ff24b8abae79a1857a97eb",
+								"placeholder": false,
+								"url": "http://res.cloudinary.com/q6a/image/upload/v1534189654/620fddb3-b509-be01-9a0e-13d8be8961d3/black_qx1iel.png",
+								"secure_url": "https://res.cloudinary.com/q6a/image/upload/v1534189654/620fddb3-b509-be01-9a0e-13d8be8961d3/black_qx1iel.png",
+								"access_mode": "public",
+								"existing": false,
+								"original_filename": "black",
+								"path": "v1534189654/620fddb3-b509-be01-9a0e-13d8be8961d3/black_qx1iel.png",
+								"thumbnail_url": "http://res.cloudinary.com/q6a/image/upload/c_limit,h_60,w_90/v1534189654/620fddb3-b509-be01-9a0e-13d8be8961d3/black_qx1iel.png",
+								"overlays": [
+									{
+										"isText": true,
+										"font": "Arial",
+										"size": 18,
+										"color": {
+											"rgb": {
+												"r": 0,
+												"g": 0,
+												"b": 0,
+												"a": 1
+											}
+										},
+										"isAttached": true,
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"gravity": "north_west",
+										"crop": "scale",
+										"editorContent": {
+											"entityMap": {},
+											"blocks": [
+												{
+													"key": "64udm",
+													"text": "एक पाठ ओवरले भी जोड़ा गया",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [
+														{
+															"offset": 0,
+															"length": 24,
+															"style": "BOLD"
+														},
+														{
+															"offset": 0,
+															"length": 24,
+															"style": "UNDERLINE"
+														},
+														{
+															"offset": 0,
+															"length": 24,
+															"style": "fontsize-18"
+														}
+													],
+													"entityRanges": [],
+													"data": {
+														"text-align": "center"
+													}
+												}
+											]
+										},
+										"inlineStyle": {
+											"BOLD": true,
+											"ITALIC": false,
+											"UNDERLINE": true,
+											"STRIKETHROUGH": false
+										},
+										"textAlignment": "center",
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"text": "Added a text overlay too"
+									}
+								],
+								"embed": {
+									"width": "",
+									"height": "",
+									"scale": false,
+									"fit": false,
+									"limit": false,
+									"crop": false,
+									"cropGravity": "",
+									"cropFixedX": "",
+									"cropFixedY": "",
+									"altText": "वैकल्पिक पाठ",
+									"seoSuffix": "काले",
+									"caption": "और वर्णन"
+								}
+							}
+						],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "approved",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"fieldGeneral": {
+						"fieldGuid": "a0a4479f-da29-8100-930d-fcf57f7b8a4f",
+						"fieldType": "fieldVideo",
+						"fieldIsVisibleCollections": [
+							"6kxG5eadJEBqQqB53"
+						],
+						"fieldIsEditableCollections": [
+							"6kxG5eadJEBqQqB53"
+						],
+						"fieldIsRequiredCollections": [
+							"6kxG5eadJEBqQqB53"
+						],
+						"fieldIsMultipleCollections": [
+							"6kxG5eadJEBqQqB53"
+						]
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "Video info",
+						"fieldKey": "Video key",
+						"fieldValues": [
+							{
+								"public_id": "620fddb3-b509-be01-9a0e-13d8be8961d3/videoplayback_x09drf",
+								"version": 1534090720,
+								"signature": "d8bf3ef11c1c6d9c92f64f45511d4f5af4824e6c",
+								"width": 480,
+								"height": 360,
+								"format": "mp4",
+								"resource_type": "video",
+								"created_at": "2018-08-12T16:18:40Z",
+								"tags": [],
+								"pages": 0,
+								"bytes": 628736,
+								"type": "upload",
+								"etag": "5690c799e64fab691965f22d7431fea8",
+								"placeholder": false,
+								"url": "http://res.cloudinary.com/q6a/video/upload/v1534090720/620fddb3-b509-be01-9a0e-13d8be8961d3/videoplayback_x09drf.mp4",
+								"secure_url": "https://res.cloudinary.com/q6a/video/upload/v1534090720/620fddb3-b509-be01-9a0e-13d8be8961d3/videoplayback_x09drf.mp4",
+								"access_mode": "public",
+								"existing": false,
+								"audio": {
+									"codec": "aac",
+									"bit_rate": "48109",
+									"frequency": 22050,
+									"channels": 1,
+									"channel_layout": "mono"
+								},
+								"video": {
+									"pix_format": "yuv420p",
+									"codec": "h264",
+									"level": 21,
+									"profile": "Constrained Baseline",
+									"bit_rate": "115165",
+									"dar": "4:3"
+								},
+								"is_audio": false,
+								"frame_rate": 24,
+								"bit_rate": 166370,
+								"duration": 30.083984,
+								"rotation": 0,
+								"original_filename": "videoplayback",
+								"path": "v1534090720/620fddb3-b509-be01-9a0e-13d8be8961d3/videoplayback_x09drf.mp4",
+								"thumbnail_url": "http://res.cloudinary.com/q6a/video/upload/c_limit,h_60,w_90/v1534090720/620fddb3-b509-be01-9a0e-13d8be8961d3/videoplayback_x09drf.jpg",
+								"captions": {
+									"font": "Arial",
+									"size": 8,
+									"color": {
+										"rgb": {
+											"r": 0,
+											"g": 0,
+											"b": 0,
+											"a": 1
+										}
+									},
+									"captionString": "1\n00:00:03,000 --> 00:00:04,800\nI'm a  cool  guy. \n\n2\n00:00:05,000 --> 00:00:05,900\nThat's that's  my  thing. \n\n3\n00:00:07,400 --> 00:00:07,800\nI'm here \n\n4\n00:00:08,000 --> 00:00:08,900\nat 5  i  surf  the \n\n5\n00:00:09,000 --> 00:00:09,400\nweb I  text \n\n6\n00:00:10,000 --> 00:00:10,200\nLOL. Laugh \n\n7\n00:00:11,200 --> 00:00:11,400\nout loud  OMG. \n\n8\n00:00:12,000 --> 00:00:12,700\nOh my  God, \n\n9\n00:00:13,100 --> 00:00:13,700\nWTF why \n\n10\n00:00:14,200 --> 00:00:14,700\nthe face?  You \n\n11\n00:00:16,300 --> 00:00:16,800\nknow, I  know \n\n12\n00:00:17,000 --> 00:00:17,900\nall the  dances  to  High  School \n\n13\n00:00:18,200 --> 00:00:18,800\nMusical. So \n\n14\n00:00:19,200 --> 00:00:19,700\nwe're all \n\n15\n00:00:20,400 --> 00:00:20,800\nin this  together. \n\n16\n00:00:21,500 --> 00:00:23,400\nYes, we  are. \n\n17\n00:00:24,000 --> 00:00:24,700\nWe're all  stars. \n",
+									"parsed": [
+										{
+											"start": 3000,
+											"end": 4800,
+											"text": "I'm a  cool  guy. "
+										},
+										{
+											"start": 5000,
+											"end": 5900,
+											"text": "That's that's  my  thing. "
+										},
+										{
+											"start": 7400,
+											"end": 7800,
+											"text": "I'm here "
+										},
+										{
+											"start": 8000,
+											"end": 8900,
+											"text": "at 5  i  surf  the "
+										},
+										{
+											"start": 9000,
+											"end": 9400,
+											"text": "web I  text "
+										},
+										{
+											"start": 10000,
+											"end": 10200,
+											"text": "LOL. Laugh "
+										},
+										{
+											"start": 11200,
+											"end": 11400,
+											"text": "out loud  OMG. "
+										},
+										{
+											"start": 12000,
+											"end": 12700,
+											"text": "Oh my  God, "
+										},
+										{
+											"start": 13100,
+											"end": 13700,
+											"text": "WTF why "
+										},
+										{
+											"start": 14200,
+											"end": 14700,
+											"text": "the face?  You "
+										},
+										{
+											"start": 16300,
+											"end": 16800,
+											"text": "know, I  know "
+										},
+										{
+											"start": 17000,
+											"end": 17900,
+											"text": "all the  dances  to  High  School "
+										},
+										{
+											"start": 18200,
+											"end": 18800,
+											"text": "Musical. So "
+										},
+										{
+											"start": 19200,
+											"end": 19700,
+											"text": "we're all "
+										},
+										{
+											"start": 20400,
+											"end": 20800,
+											"text": "in this  together. "
+										},
+										{
+											"start": 21500,
+											"end": 23400,
+											"text": "Yes, we  are. "
+										},
+										{
+											"start": 24000,
+											"end": 24700,
+											"text": "We're all  stars."
+										}
+									],
+									"asset": {
+										"public_id": "620fddb3-b509-be01-9a0e-13d8be8961d3/videoplayback_x09drf_SwBdx9LmAsYGybLZM_en-US.srt",
+										"version": 1534093882,
+										"signature": "a54004d168328cb1fee10c96ee2498e2cba8f9ec",
+										"resource_type": "raw",
+										"created_at": "2018-08-12T17:11:22Z",
+										"tags": [],
+										"bytes": 851,
+										"type": "upload",
+										"etag": "eba9740327b0f3c4bfc1fb9dbc405b01",
+										"placeholder": false,
+										"url": "http://res.cloudinary.com/q6a/raw/upload/v1534093882/620fddb3-b509-be01-9a0e-13d8be8961d3/videoplayback_x09drf_SwBdx9LmAsYGybLZM_en-US.srt",
+										"secure_url": "https://res.cloudinary.com/q6a/raw/upload/v1534093882/620fddb3-b509-be01-9a0e-13d8be8961d3/videoplayback_x09drf_SwBdx9LmAsYGybLZM_en-US.srt",
+										"access_mode": "public"
+									},
+									"isAttached": true
+								},
+								"overlays": []
+							}
+						],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"fieldGeneral": {
+						"fieldGuid": "d1dd9ae1-dc3b-7b1c-e55e-c59fe6ba7d22",
+						"fieldType": "fieldAudio",
+						"fieldIsVisibleCollections": [
+							"6kxG5eadJEBqQqB53"
+						],
+						"fieldIsEditableCollections": [
+							"6kxG5eadJEBqQqB53"
+						],
+						"fieldIsRequiredCollections": [
+							"6kxG5eadJEBqQqB53"
+						],
+						"fieldIsMultipleCollections": [
+							"6kxG5eadJEBqQqB53"
+						]
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "audio info",
+						"fieldKey": "audio key",
+						"fieldValues": [
+							{
+								"public_id": "620fddb3-b509-be01-9a0e-13d8be8961d3/videoplayback_x09drf_j0x9g6",
+								"version": 1534093368,
+								"signature": "f75b5e55b0a38126d2f6cfa1184f3c8be6a827ad",
+								"width": 0,
+								"height": 0,
+								"format": "mp3",
+								"resource_type": "video",
+								"created_at": "2018-08-12T17:02:48Z",
+								"tags": [],
+								"pages": 0,
+								"bytes": 121120,
+								"type": "upload",
+								"etag": "3ec2f36a7e8e111e7c550ffcce8c573f",
+								"placeholder": false,
+								"url": "http://res.cloudinary.com/q6a/video/upload/v1534093368/620fddb3-b509-be01-9a0e-13d8be8961d3/videoplayback_x09drf_j0x9g6.mp3",
+								"secure_url": "https://res.cloudinary.com/q6a/video/upload/v1534093368/620fddb3-b509-be01-9a0e-13d8be8961d3/videoplayback_x09drf_j0x9g6.mp3",
+								"access_mode": "public",
+								"existing": false,
+								"audio": {
+									"codec": "mp3",
+									"bit_rate": "32000",
+									"frequency": 22050,
+									"channels": 1,
+									"channel_layout": "mono"
+								},
+								"video": {},
+								"is_audio": true,
+								"bit_rate": 32087,
+								"duration": 30.197551,
+								"original_filename": "videoplayback_x09drf",
+								"path": "v1534093368/620fddb3-b509-be01-9a0e-13d8be8961d3/videoplayback_x09drf_j0x9g6.mp3",
+								"thumbnail_url": "http://res.cloudinary.com/q6a/video/upload/c_limit,h_60,w_90/v1534093368/620fddb3-b509-be01-9a0e-13d8be8961d3/videoplayback_x09drf_j0x9g6.jpg",
+								"captions": {
+									"font": "Arial",
+									"size": 8,
+									"color": {
+										"rgb": {
+											"r": 0,
+											"g": 0,
+											"b": 0,
+											"a": 1
+										}
+									},
+									"captionString": "1\n00:00:03,000 --> 00:00:04,800\nI'm a  cool  guy. \n\n2\n00:00:05,000 --> 00:00:05,900\nThat's that's  my  thing. \n\n3\n00:00:07,400 --> 00:00:07,800\nI'm here \n\n4\n00:00:08,000 --> 00:00:08,900\nat 5  i  surf  the \n\n5\n00:00:09,000 --> 00:00:09,400\nweb I  text \n\n6\n00:00:10,000 --> 00:00:10,200\nLOL. Laugh \n\n7\n00:00:11,200 --> 00:00:11,400\nout loud  OMG. \n\n8\n00:00:12,000 --> 00:00:12,700\nOh my  God, \n\n9\n00:00:13,100 --> 00:00:13,700\nWTF why \n\n10\n00:00:14,200 --> 00:00:14,700\nthe face?  You \n\n11\n00:00:16,300 --> 00:00:16,800\nknow, I  know \n\n12\n00:00:17,000 --> 00:00:17,900\nall the  dances  to  High  School \n\n13\n00:00:18,200 --> 00:00:18,800\nMusical. So \n\n14\n00:00:19,200 --> 00:00:19,700\nwe're all \n\n15\n00:00:20,400 --> 00:00:20,800\nin this  together. \n\n16\n00:00:21,500 --> 00:00:23,400\nYes, we  are. \n\n17\n00:00:24,000 --> 00:00:24,700\nWe're all  stars. \n",
+									"parsed": [
+										{
+											"start": 3000,
+											"end": 4800,
+											"text": "I'm a  cool  guy. "
+										},
+										{
+											"start": 5000,
+											"end": 5900,
+											"text": "That's that's  my  thing. "
+										},
+										{
+											"start": 7400,
+											"end": 7800,
+											"text": "I'm here "
+										},
+										{
+											"start": 8000,
+											"end": 8900,
+											"text": "at 5  i  surf  the "
+										},
+										{
+											"start": 9000,
+											"end": 9400,
+											"text": "web I  text "
+										},
+										{
+											"start": 10000,
+											"end": 10200,
+											"text": "LOL. Laugh "
+										},
+										{
+											"start": 11200,
+											"end": 11400,
+											"text": "out loud  OMG. "
+										},
+										{
+											"start": 12000,
+											"end": 12700,
+											"text": "Oh my  God, "
+										},
+										{
+											"start": 13100,
+											"end": 13700,
+											"text": "WTF why "
+										},
+										{
+											"start": 14200,
+											"end": 14700,
+											"text": "the face?  You "
+										},
+										{
+											"start": 16300,
+											"end": 16800,
+											"text": "know, I  know "
+										},
+										{
+											"start": 17000,
+											"end": 17900,
+											"text": "all the  dances  to  High  School "
+										},
+										{
+											"start": 18200,
+											"end": 18800,
+											"text": "Musical. So "
+										},
+										{
+											"start": 19200,
+											"end": 19700,
+											"text": "we're all "
+										},
+										{
+											"start": 20400,
+											"end": 20800,
+											"text": "in this  together. "
+										},
+										{
+											"start": 21500,
+											"end": 23400,
+											"text": "Yes, we  are. "
+										},
+										{
+											"start": 24000,
+											"end": 24700,
+											"text": "We're all  stars."
+										}
+									],
+									"asset": {
+										"public_id": "620fddb3-b509-be01-9a0e-13d8be8961d3/videoplayback_x09drf_j0x9g6_85gy364N4Dh7Aanzy_en-US.srt",
+										"version": 1534093882,
+										"signature": "fff3a6b846f040b3e2a7ba19724cc5a488e75f03",
+										"resource_type": "raw",
+										"created_at": "2018-08-12T17:11:22Z",
+										"tags": [],
+										"bytes": 851,
+										"type": "upload",
+										"etag": "eba9740327b0f3c4bfc1fb9dbc405b01",
+										"placeholder": false,
+										"url": "http://res.cloudinary.com/q6a/raw/upload/v1534093882/620fddb3-b509-be01-9a0e-13d8be8961d3/videoplayback_x09drf_j0x9g6_85gy364N4Dh7Aanzy_en-US.srt",
+										"secure_url": "https://res.cloudinary.com/q6a/raw/upload/v1534093882/620fddb3-b509-be01-9a0e-13d8be8961d3/videoplayback_x09drf_j0x9g6_85gy364N4Dh7Aanzy_en-US.srt",
+										"access_mode": "public"
+									},
+									"isAttached": true
+								}
+							}
+						],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"fieldGeneral": {
+						"fieldGuid": "0975872d-a924-e959-0fe2-dabf0bd04467",
+						"fieldType": "fieldTextbox",
+						"fieldIsVisibleCollections": [
+							"6kxG5eadJEBqQqB53"
+						],
+						"fieldIsEditableCollections": [
+							"6kxG5eadJEBqQqB53"
+						],
+						"fieldIsRequiredCollections": [
+							"6kxG5eadJEBqQqB53"
+						],
+						"fieldIsMultipleCollections": [
+							"6kxG5eadJEBqQqB53"
+						]
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "textbox info",
+						"fieldKey": "textbox key",
+						"fieldValues": [
+							{
+								"entityMap": {},
+								"blocks": [
+									{
+										"key": "42tmn",
+										"text": "यह एक पाठ बॉक्स है",
+										"type": "unstyled",
+										"depth": 0,
+										"inlineStyleRanges": [],
+										"entityRanges": [],
+										"data": {}
+									}
+								]
+							}
+						],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "approved",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				}
+			]
+		},
+		"fileItemPublish": {
+			"fileItemTypes": []
+		}
+	}
+}
