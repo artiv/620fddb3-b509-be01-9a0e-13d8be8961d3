@@ -49,7 +49,9 @@
 						"genericInformation": "Text info",
 						"genericChildren": [],
 						"genericKey": "Text key",
-						"genericValues": []
+						"genericValues": [
+							"wow this is text"
+						]
 					},
 					"genericWorking": {
 						"genericOrderId": "",
@@ -185,7 +187,44 @@
 					"fieldSpecific": {
 						"fieldInformation": "image info",
 						"fieldKey": "image key",
-						"fieldValues": [],
+						"fieldValues": [
+							{
+								"public_id": "620fddb3-b509-be01-9a0e-13d8be8961d3/black_qx1iel",
+								"version": 1534189654,
+								"signature": "53d7ff2c2759000118216935e7617b2c150bb467",
+								"width": 1152,
+								"height": 648,
+								"format": "png",
+								"resource_type": "image",
+								"created_at": "2018-08-13T19:47:34Z",
+								"tags": [],
+								"bytes": 383,
+								"type": "upload",
+								"etag": "49e13bd4b2ff24b8abae79a1857a97eb",
+								"placeholder": false,
+								"url": "http://res.cloudinary.com/q6a/image/upload/v1534189654/620fddb3-b509-be01-9a0e-13d8be8961d3/black_qx1iel.png",
+								"secure_url": "https://res.cloudinary.com/q6a/image/upload/v1534189654/620fddb3-b509-be01-9a0e-13d8be8961d3/black_qx1iel.png",
+								"access_mode": "public",
+								"existing": false,
+								"original_filename": "black",
+								"path": "v1534189654/620fddb3-b509-be01-9a0e-13d8be8961d3/black_qx1iel.png",
+								"thumbnail_url": "http://res.cloudinary.com/q6a/image/upload/c_limit,h_60,w_90/v1534189654/620fddb3-b509-be01-9a0e-13d8be8961d3/black_qx1iel.png",
+								"overlays": [],
+								"embed": {
+									"width": "",
+									"height": "",
+									"scale": false,
+									"fit": false,
+									"limit": false,
+									"crop": false,
+									"cropGravity": "",
+									"cropFixedX": "",
+									"cropFixedY": "",
+									"altText": "",
+									"seoSuffix": "black"
+								}
+							}
+						],
 						"fieldChildren": []
 					},
 					"fieldWorking": {
